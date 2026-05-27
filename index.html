@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scripture Study</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <nav id="sidebar">
+      <div id="book-list"></div>
+    </nav>
+
+    <div id="main">
+      <header id="top-bar">
+        <button id="btn-prev" aria-label="Previous chapter">&#8592;</button>
+        <div id="chapter-label">
+          <span id="book-title"></span>
+          <span id="chapter-display"></span>
+        </div>
+        <button id="btn-next" aria-label="Next chapter">&#8594;</button>
+      </header>
+
+      <div id="columns-header">
+        <div class="col-label">King James Version</div>
+        <div class="col-label">English Standard Version</div>
+        <div class="col-label">Hebrew Interlinear</div>
+      </div>
+
+      <div id="scroll-container">
+        <div id="verse-rows"></div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
