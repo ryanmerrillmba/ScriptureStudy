@@ -260,6 +260,11 @@ function renderVerses(kjvData, esvData, interlinearData, chapter, isNT) {
 // === Dropdown Event Handlers ===
 testamentSelect.addEventListener('change', () => {
   populateBookSelect();
+  const slug = bookSelect.value;
+  const book = books.find(b => b.slug === slug);
+  if (book && (!currentBook || currentBook.slug !== slug)) {
+    loadChapter(book, 1, true);
+  }
 });
 
 bookSelect.addEventListener('change', () => {
