@@ -7,6 +7,7 @@ let currentChapter = 1;
 const bookList = document.getElementById('book-list');
 const verseRows = document.getElementById('verse-rows');
 const scrollContainer = document.getElementById('scroll-container');
+const testamentSelect = document.getElementById('testament-select');
 const bookSelect = document.getElementById('book-select');
 const chapterSelect = document.getElementById('chapter-select');
 const btnPrev = document.getElementById('btn-prev');
@@ -46,8 +47,10 @@ async function init() {
 
 // === Dropdown Population ===
 function populateBookSelect() {
+  const testament = testamentSelect.value;
+  const filtered = books.filter(b => b.testament === testament);
   bookSelect.innerHTML = '';
-  for (const book of books) {
+  for (const book of filtered) {
     const opt = document.createElement('option');
     opt.value = book.slug;
     opt.textContent = book.name;
@@ -131,6 +134,10 @@ async function loadChapter(book, chapter, updateHash) {
   });
 
   // Update dropdowns
+  if (testamentSelect.value !== book.testament) {
+    testamentSelect.value = book.testament;
+    populateBookSelect();
+  }
   bookSelect.value = book.slug;
   populateChapterSelect();
   chapterSelect.value = chapter;
@@ -251,6 +258,10 @@ function renderVerses(kjvData, esvData, interlinearData, chapter, isNT) {
 }
 
 // === Dropdown Event Handlers ===
+testamentSelect.addEventListener('change', () => {
+  populateBookSelect();
+});
+
 bookSelect.addEventListener('change', () => {
   const slug = bookSelect.value;
   const book = books.find(b => b.slug === slug);
