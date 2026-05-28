@@ -4,6 +4,10 @@
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <title>Scripture Study - Genesis 1</title>
+<script>
+  // Apply theme before render to prevent flash
+  (function(){ var t=localStorage.getItem('theme'); if(t!=='light') document.documentElement.classList.add('dark'); })();
+</script>
 <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;600;700;800&family=JetBrains+Mono&display=swap" rel="stylesheet">
@@ -114,29 +118,88 @@
         }
     </script>
 <style>
+        /* ── Theme variables ── */
+        :root {
+            --bg:               #f5f1e8;
+            --nav-bg:           #eee8da;
+            --nav-border:       #d6c8aa;
+            --header-bg:        #e8e0ce;
+            --row-alt:          #ede7d8;
+            --word-bg:          #f8f4ec;
+            --word-border:      #d6c8aa;
+            --hebrew:           #2c1f0e;
+            --gloss:            #4a3a28;
+            --text:             #1a1510;
+            --text-muted:       #7a6a56;
+            --book-item:        #7a6a56;
+            --book-hover-bg:    #ddd5c2;
+            --active-bg:        #d8ebf8;
+            --active-color:     #1d4e7a;
+            --active-border:    #4a7faa;
+            --category-color:   #9c8a72;
+            --verse-num:        #4a7faa;
+            --empty-color:      #9c8a72;
+            --scrollbar-track:  #e8e0ce;
+            --scrollbar-thumb:  #c4b89a;
+            --select-bg:        #f5f1e8;
+            --select-text:      #1d4e7a;
+        }
+        html.dark {
+            --bg:               #121410;
+            --nav-bg:           #111111;
+            --nav-border:       #333333;
+            --header-bg:        #222222;
+            --row-alt:          #1e1e1e;
+            --word-bg:          #161616;
+            --word-border:      #2a2a2a;
+            --hebrew:           #d4c5a0;
+            --gloss:            #bbbbbb;
+            --text:             #e3e3db;
+            --text-muted:       #aaaaaa;
+            --book-item:        #888888;
+            --book-hover-bg:    #222222;
+            --active-bg:        #1f2a36;
+            --active-color:     #7a9fcb;
+            --active-border:    #7a9fcb;
+            --category-color:   #555555;
+            --verse-num:        #5a7fa0;
+            --empty-color:      #555555;
+            --scrollbar-track:  #111111;
+            --scrollbar-thumb:  #333333;
+            --select-bg:        #111111;
+            --select-text:      #a4caf8;
+        }
+
         body {
             overflow: hidden;
             display: flex;
             flex-direction: row;
             height: 100vh;
-            background-color: #121410;
-            color: #e3e3db;
+            background-color: var(--bg) !important;
+            color: var(--text) !important;
         }
 
-        ::-webkit-scrollbar {
-            width: 8px;
-            height: 8px;
+        /* Override Tailwind-applied backgrounds */
+        #sidebar         { background-color: var(--nav-bg) !important; border-color: var(--nav-border) !important; }
+        #top-bar         { background-color: var(--header-bg) !important; border-color: var(--nav-border) !important; }
+        #column-labels   { background-color: var(--header-bg) !important; border-color: var(--nav-border) !important; }
+        #column-labels > div { border-color: var(--nav-border) !important; color: var(--text-muted) !important; }
+        #book-select, #chapter-select {
+            background-color: var(--select-bg) !important;
+            color: var(--select-text) !important;
+            border-color: var(--nav-border) !important;
         }
-        ::-webkit-scrollbar-track {
-            background: #111; 
+        #btn-prev, #btn-next {
+            border-color: var(--nav-border) !important;
+            color: var(--text-muted) !important;
         }
-        ::-webkit-scrollbar-thumb {
-            background: #333; 
-            border-radius: 4px;
-        }
-        ::-webkit-scrollbar-thumb:hover {
-            background: #555; 
-        }
+        #sidebar h1 { color: var(--active-color) !important; }
+        #sidebar p  { color: var(--text-muted) !important; }
+
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track  { background: var(--scrollbar-track); }
+        ::-webkit-scrollbar-thumb  { background: var(--scrollbar-thumb); border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { filter: brightness(1.3); }
 
         .word-block-container {
             display: flex;
@@ -150,32 +213,32 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            background-color: #161616;
-            border: 1px solid #2a2a2a;
+            background-color: var(--word-bg);
+            border: 1px solid var(--word-border);
             padding: 4px 8px;
             border-radius: 2px;
             direction: ltr;
         }
-        
+        .word-block .font-display-hebrew { color: var(--hebrew) !important; }
+        .word-block .font-gloss-text     { color: var(--gloss) !important; }
+
         .book-item {
             font-family: Georgia, serif;
             font-size: 13px;
             padding: 6px 16px;
             cursor: pointer;
             border-left: 3px solid transparent;
-            color: #888;
+            color: var(--book-item);
             transition: all 0.2s;
         }
-        
         .book-item:hover {
-            background-color: #222;
-            color: #ccc;
+            background-color: var(--book-hover-bg);
+            color: var(--text);
         }
-
         .book-item.active {
-            color: #7a9fcb;
-            border-left: 3px solid #7a9fcb;
-            background-color: #1f2a36;
+            color: var(--active-color);
+            border-left: 3px solid var(--active-border);
+            background-color: var(--active-bg);
         }
 
         .book-category {
@@ -183,7 +246,7 @@
             font-size: 10px;
             text-transform: uppercase;
             letter-spacing: 0.1em;
-            color: #555;
+            color: var(--category-color);
             padding: 16px 16px 8px 16px;
             font-weight: 600;
         }
@@ -191,32 +254,32 @@
         .verse-num {
             vertical-align: super;
             font-size: 10px;
-            color: #5a7fa0;
+            color: var(--verse-num);
             margin-right: 4px;
             user-select: none;
         }
 
         .verse-row {
             display: flex;
-            border-bottom: 1px solid var(--custom-nav-border, #333);
+            border-bottom: 1px solid var(--nav-border);
         }
-        .verse-row:nth-child(even) {
-            background-color: var(--custom-row-alt, #1e1e1e);
-        }
+        .verse-row:nth-child(even) { background-color: var(--row-alt); }
 
         .col-kjv, .col-esv {
-            flex: 1;
+            flex: 0.85;
             padding: 12px 16px;
             font-family: Georgia, serif;
             font-size: 14px;
             line-height: 1.7;
-            border-right: 1px solid var(--custom-nav-border, #333);
+            border-right: 1px solid var(--nav-border);
             min-width: 0;
+            color: var(--text);
         }
         .col-interlinear {
             flex: 1.4;
             padding: 12px 16px;
             min-width: 0;
+            position: relative;
         }
 
         .empty-state {
@@ -224,10 +287,30 @@
             align-items: center;
             justify-content: center;
             height: 200px;
-            color: #555;
+            color: var(--empty-color);
             font-family: 'Hanken Grotesk', sans-serif;
             font-size: 14px;
         }
+
+        #theme-toggle, #gloss-toggle {
+            width: 2rem; height: 2rem;
+            border: 1px solid var(--nav-border);
+            border-radius: 2px;
+            display: flex; align-items: center; justify-content: center;
+            color: var(--text-muted);
+            background: transparent;
+            cursor: pointer;
+            transition: color 0.2s, border-color 0.2s, background 0.2s;
+            margin-left: 8px;
+        }
+        #theme-toggle:hover, #gloss-toggle:hover { color: var(--active-color); border-color: var(--active-border); }
+        #gloss-toggle.active {
+            background-color: var(--active-bg);
+            color: var(--active-color);
+            border-color: var(--active-border);
+            text-decoration: line-through;
+        }
+        body.hide-gloss .font-gloss-text { display: none; }
     </style>
 </head>
 <body class="bg-background text-on-surface">
@@ -251,20 +334,26 @@
 <span class="material-symbols-outlined" style="font-size: 16px;">chevron_left</span>
 </button>
 <div class="flex items-center space-x-2">
-  <select id="book-select" class="bg-custom-nav-bg text-primary font-ui-label-caps text-ui-label-caps border border-custom-nav-border rounded-sm py-1 px-2 focus:outline-none focus:border-primary cursor-pointer"></select>
-  <select id="chapter-select" class="bg-custom-nav-bg text-primary font-ui-label-caps text-ui-label-caps border border-custom-nav-border rounded-sm py-1 px-2 focus:outline-none focus:border-primary cursor-pointer"></select>
+  <select id="book-select" class="bg-custom-nav-bg text-primary font-ui-label-caps text-ui-label-caps border border-custom-nav-border rounded-sm py-1 px-2 pr-6 focus:outline-none focus:border-primary cursor-pointer min-w-[10rem]"></select>
+  <select id="chapter-select" class="bg-custom-nav-bg text-primary font-ui-label-caps text-ui-label-caps border border-custom-nav-border rounded-sm py-1 px-2 pr-6 focus:outline-none focus:border-primary cursor-pointer min-w-[3.5rem]"></select>
 </div>
 <div class="flex items-center space-x-2">
 <button id="btn-next" disabled class="w-8 h-8 border border-custom-nav-border flex items-center justify-center text-custom-strongs hover:text-primary-container hover:border-primary-container transition-colors rounded-sm ml-2">
 <span class="material-symbols-outlined" style="font-size: 16px;">chevron_right</span>
 </button>
+<button id="theme-toggle" title="Toggle day/night">
+<span id="theme-icon" class="material-symbols-outlined" style="font-size: 16px;">light_mode</span>
+</button>
+<button id="gloss-toggle" title="Hide/show English translation">
+<span class="material-symbols-outlined" style="font-size: 16px;">translate</span>
+</button>
 </div>
 </header>
 
 <!-- Column Labels Bar -->
-<div id="column-labels" class="fixed top-[48px] right-0 h-[32px] w-[calc(100%-180px)] bg-custom-header-bg border-b border-custom-nav-border grid grid-cols-[1fr_1fr_1.4fr] items-center px-gutter z-20">
-<div class="font-ui-label-caps text-ui-label-caps text-on-surface-variant">KJV</div>
-<div class="font-ui-label-caps text-ui-label-caps text-on-surface-variant pl-gutter border-l border-custom-nav-border h-full flex items-center">ESV</div>
+<div id="column-labels" class="fixed top-[48px] right-0 h-[32px] w-[calc(100%-180px)] bg-custom-header-bg border-b border-custom-nav-border grid grid-cols-[0.85fr_0.85fr_1.4fr] items-center px-gutter z-20">
+<div class="font-ui-label-caps text-ui-label-caps text-on-surface-variant">King James Version</div>
+<div class="font-ui-label-caps text-ui-label-caps text-on-surface-variant pl-gutter border-l border-custom-nav-border h-full flex items-center">English Standard Version</div>
 <div class="font-ui-label-caps text-ui-label-caps text-on-surface pl-gutter border-l border-custom-nav-border h-full flex items-center">Hebrew Interlinear</div>
 </div>
 
@@ -277,5 +366,33 @@
 </main>
 
 <script src="app.js"></script>
+<script>
+  (function() {
+    const html = document.documentElement;
+    const btn  = document.getElementById('theme-toggle');
+    const icon = document.getElementById('theme-icon');
+
+    function applyTheme(dark) {
+      html.classList.toggle('dark', dark);
+      icon.textContent = dark ? 'light_mode' : 'dark_mode';
+      localStorage.setItem('theme', dark ? 'dark' : 'light');
+    }
+
+    const saved = localStorage.getItem('theme');
+    applyTheme(saved ? saved === 'dark' : true);
+
+    btn.addEventListener('click', () => applyTheme(!html.classList.contains('dark')));
+  })();
+
+  (function() {
+    const btn = document.getElementById('gloss-toggle');
+    let hidden = false;
+    btn.addEventListener('click', () => {
+      hidden = !hidden;
+      document.body.classList.toggle('hide-gloss', hidden);
+      btn.classList.toggle('active', hidden);
+    });
+  })();
+</script>
 </body>
 </html>

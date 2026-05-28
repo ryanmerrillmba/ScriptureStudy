@@ -201,7 +201,7 @@ function renderVerses(kjvData, esvData, interlinearData, chapter) {
     const interlinearCell = document.createElement('div');
     interlinearCell.className = 'col-interlinear';
     if (interlinearVerse) {
-      let html = `<sup class="verse-num">${interlinearVerse.verse}</sup>`;
+      let html = `<span class="verse-num" style="position:absolute;top:4px;left:4px;">${interlinearVerse.verse}</span>`;
       html += '<div class="word-block-container">';
       for (const word of interlinearVerse.words) {
         html += `<div class="word-block">`;
