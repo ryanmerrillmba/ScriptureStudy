@@ -154,21 +154,21 @@ function renderVerses(kjvData, esvData, interlinearData, chapter) {
   const esvChapter = esvData.chapters.find(c => c.chapter === chapter);
   const interlinearChapter = interlinearData.chapters.find(c => c.chapter === chapter);
 
-  if (!kjvChapter || !esvChapter || !interlinearChapter) {
+  if (!kjvChapter && !esvChapter && !interlinearChapter) {
     verseRows.innerHTML = '<div class="empty-state">Chapter data not found.</div>';
     return;
   }
 
   const maxVerses = Math.max(
-    kjvChapter.verses.length,
-    esvChapter.verses.length,
-    interlinearChapter.verses.length
+    kjvChapter ? kjvChapter.verses.length : 0,
+    esvChapter ? esvChapter.verses.length : 0,
+    interlinearChapter ? interlinearChapter.verses.length : 0
   );
 
   for (let i = 0; i < maxVerses; i++) {
-    const kjvVerse = kjvChapter.verses[i];
-    const esvVerse = esvChapter.verses[i];
-    const interlinearVerse = interlinearChapter.verses[i];
+    const kjvVerse = kjvChapter ? kjvChapter.verses[i] : null;
+    const esvVerse = esvChapter ? esvChapter.verses[i] : null;
+    const interlinearVerse = interlinearChapter ? interlinearChapter.verses[i] : null;
 
     const verseNum = kjvVerse ? kjvVerse.verse
       : (esvVerse ? esvVerse.verse
@@ -206,7 +206,6 @@ function renderVerses(kjvData, esvData, interlinearData, chapter) {
       for (const word of interlinearVerse.words) {
         html += `<div class="word-block">`;
         html += `<span class="font-display-hebrew text-display-hebrew text-custom-hebrew pb-1">${escapeHtml(word.hebrew)}</span>`;
-        html += `<span class="font-strongs-number text-strongs-number text-custom-strongs">${escapeHtml(word.strongs)}</span>`;
         html += `<span class="font-gloss-text text-gloss-text text-custom-gloss italic pt-1">${escapeHtml(word.gloss)}</span>`;
         html += `</div>`;
       }

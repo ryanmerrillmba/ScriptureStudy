@@ -1,0 +1,3046 @@
+{
+  "book": "Nahum",
+  "slug": "nahum",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "words": [
+            {
+              "hebrew": "מַשָּׂ֖א",
+              "strongs": "H4853",
+              "gloss": "The burden"
+            },
+            {
+              "hebrew": "נִֽינְוֵ֑ה",
+              "strongs": "H5210",
+              "gloss": "of Nineveh"
+            },
+            {
+              "hebrew": "סֵ֧פֶר",
+              "strongs": "H5612",
+              "gloss": "The book"
+            },
+            {
+              "hebrew": "חֲז֛וֹן",
+              "strongs": "H2377",
+              "gloss": "of the vision"
+            },
+            {
+              "hebrew": "נַח֖וּם",
+              "strongs": "H5151",
+              "gloss": "of Nahum"
+            },
+            {
+              "hebrew": "הָ/אֶלְקֹשִֽׁי",
+              "strongs": "H512",
+              "gloss": "the Elkoshite"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "words": [
+            {
+              "hebrew": "אֵ֣ל",
+              "strongs": "H410",
+              "gloss": "God [is]"
+            },
+            {
+              "hebrew": "קַנּ֤וֹא",
+              "strongs": "H7072",
+              "gloss": "jealous"
+            },
+            {
+              "hebrew": "וְ/נֹקֵם֙",
+              "strongs": "H5358",
+              "gloss": "and avenges"
+            },
+            {
+              "hebrew": "יְהוָ֔ה",
+              "strongs": "H3068",
+              "gloss": "Yahweh"
+            },
+            {
+              "hebrew": "נֹקֵ֥ם",
+              "strongs": "H5358",
+              "gloss": "avenges"
+            },
+            {
+              "hebrew": "יְהוָ֖ה",
+              "strongs": "H3068",
+              "gloss": "Yahweh"
+            },
+            {
+              "hebrew": "וּ/בַ֣עַל",
+              "strongs": "H1167",
+              "gloss": "and"
+            },
+            {
+              "hebrew": "חֵמָ֑ה",
+              "strongs": "H2534",
+              "gloss": "[is] furious"
+            },
+            {
+              "hebrew": "נֹקֵ֤ם",
+              "strongs": "H5358",
+              "gloss": "will take vengeance"
+            },
+            {
+              "hebrew": "יְהוָה֙",
+              "strongs": "H3068",
+              "gloss": "Yahweh"
+            },
+            {
+              "hebrew": "לְ/צָרָ֔י/ו",
+              "strongs": "H6862",
+              "gloss": "on His adversaries"
+            },
+            {
+              "hebrew": "וְ/נוֹטֵ֥ר",
+              "strongs": "H5201",
+              "gloss": "and reserves [wrath]"
+            },
+            {
+              "hebrew": "ה֖וּא",
+              "strongs": "H1931",
+              "gloss": "He"
+            },
+            {
+              "hebrew": "לְ/אֹיְבָֽי/ו",
+              "strongs": "H341",
+              "gloss": "for His enemies"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "words": [
+            {
+              "hebrew": "יְהֹוָ֗ה",
+              "strongs": "H3068",
+              "gloss": "Yahweh [is]"
+            },
+            {
+              "hebrew": "אֶ֤רֶךְ",
+              "strongs": "H750",
+              "gloss": "slow"
+            },
+            {
+              "hebrew": "אַפַּ֨יִם֙",
+              "strongs": "H639",
+              "gloss": "to anger"
+            },
+            {
+              "hebrew": "ו/גדול",
+              "strongs": "H1419",
+              "gloss": "and great in"
+            },
+            {
+              "hebrew": "כֹּ֔חַ",
+              "strongs": "H3581",
+              "gloss": "power"
+            },
+            {
+              "hebrew": "וְ/נַקֵּ֖ה",
+              "strongs": "H5352",
+              "gloss": "and at all"
+            },
+            {
+              "hebrew": "לֹ֣א",
+              "strongs": "H3808",
+              "gloss": "not"
+            },
+            {
+              "hebrew": "יְנַקֶּ֑ה",
+              "strongs": "H5352",
+              "gloss": "will acquit [the wicked]"
+            },
+            {
+              "hebrew": "יְהוָ֗ה",
+              "strongs": "H3068",
+              "gloss": "Yahweh has"
+            },
+            {
+              "hebrew": "בְּ/סוּפָ֤ה",
+              "strongs": "H5492",
+              "gloss": "in the whirlwind"
+            },
+            {
+              "hebrew": "וּ/בִ/שְׂעָרָה֙",
+              "strongs": "H8183",
+              "gloss": "and in the storm"
+            },
+            {
+              "hebrew": "דַּרְכּ֔/וֹ",
+              "strongs": "H1870",
+              "gloss": "His way"
+            },
+            {
+              "hebrew": "וְ/עָנָ֖ן",
+              "strongs": "H6051",
+              "gloss": "and the clouds [are]"
+            },
+            {
+              "hebrew": "אֲבַ֥ק",
+              "strongs": "H80",
+              "gloss": "the dust"
+            },
+            {
+              "hebrew": "רַגְלָֽי/ו",
+              "strongs": "H7272",
+              "gloss": "of His feet"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "words": [
+            {
+              "hebrew": "גּוֹעֵ֤ר",
+              "strongs": "H1605",
+              "gloss": "He rebukes"
+            },
+            {
+              "hebrew": "בַּ/יָּם֙",
+              "strongs": "H3220",
+              "gloss": "the sea"
+            },
+            {
+              "hebrew": "וַֽ/יַּבְּשֵׁ֔/הוּ",
+              "strongs": "H3001",
+              "gloss": "and makes it dry"
+            },
+            {
+              "hebrew": "וְ/כָל",
+              "strongs": "H3605",
+              "gloss": "and all"
+            },
+            {
+              "hebrew": "הַ/נְּהָר֖וֹת",
+              "strongs": "H5104",
+              "gloss": "the rivers"
+            },
+            {
+              "hebrew": "הֶֽחֱרִ֑יב",
+              "strongs": "H2717",
+              "gloss": "Dries up"
+            },
+            {
+              "hebrew": "אֻמְלַ֤ל",
+              "strongs": "H535",
+              "gloss": "wither"
+            },
+            {
+              "hebrew": "בָּשָׁן֙",
+              "strongs": "H1316",
+              "gloss": "Bashan"
+            },
+            {
+              "hebrew": "וְ/כַרְמֶ֔ל",
+              "strongs": "H3760",
+              "gloss": "and Carmel"
+            },
+            {
+              "hebrew": "וּ/פֶ֥רַח",
+              "strongs": "H6525",
+              "gloss": "and the flower"
+            },
+            {
+              "hebrew": "לְבָנ֖וֹן",
+              "strongs": "H3844",
+              "gloss": "of Lebanon"
+            },
+            {
+              "hebrew": "אֻמְלָֽל",
+              "strongs": "H535",
+              "gloss": "wilts"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "words": [
+            {
+              "hebrew": "הָרִים֙",
+              "strongs": "H2022",
+              "gloss": "The mountains"
+            },
+            {
+              "hebrew": "רָעֲשׁ֣וּ",
+              "strongs": "H7493",
+              "gloss": "quake"
+            },
+            {
+              "hebrew": "מִמֶּ֔/נּוּ",
+              "strongs": "H4480",
+              "gloss": "before Him"
+            },
+            {
+              "hebrew": "וְ/הַ/גְּבָע֖וֹת",
+              "strongs": "H1389",
+              "gloss": "and the hills"
+            },
+            {
+              "hebrew": "הִתְמֹגָ֑גוּ",
+              "strongs": "H4127",
+              "gloss": "melt"
+            },
+            {
+              "hebrew": "וַ/תִּשָּׂ֤א",
+              "strongs": "H5375",
+              "gloss": "and heaves"
+            },
+            {
+              "hebrew": "הָ/אָ֨רֶץ֙",
+              "strongs": "H776",
+              "gloss": "the earth"
+            },
+            {
+              "hebrew": "מִ/פָּנָ֔י/ו",
+              "strongs": "H6440",
+              "gloss": "at His presence"
+            },
+            {
+              "hebrew": "וְ/תֵבֵ֖ל",
+              "strongs": "H8398",
+              "gloss": "and Yes the world"
+            },
+            {
+              "hebrew": "וְ/כָל",
+              "strongs": "H3605",
+              "gloss": "and all"
+            },
+            {
+              "hebrew": "יֹ֥שְׁבֵי",
+              "strongs": "H3427",
+              "gloss": "who dwell"
+            },
+            {
+              "hebrew": "בָֽ/הּ",
+              "strongs": "",
+              "gloss": ""
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "words": [
+            {
+              "hebrew": "לִ/פְנֵ֤י",
+              "strongs": "H6440",
+              "gloss": "Before"
+            },
+            {
+              "hebrew": "זַעְמ/וֹ֙",
+              "strongs": "H2195",
+              "gloss": "His indignation"
+            },
+            {
+              "hebrew": "מִ֣י",
+              "strongs": "H4310",
+              "gloss": "who"
+            },
+            {
+              "hebrew": "יַֽעֲמ֔וֹד",
+              "strongs": "H5975",
+              "gloss": "can stand"
+            },
+            {
+              "hebrew": "וּ/מִ֥י",
+              "strongs": "H4310",
+              "gloss": "and who"
+            },
+            {
+              "hebrew": "יָק֖וּם",
+              "strongs": "H6965",
+              "gloss": "can"
+            },
+            {
+              "hebrew": "בַּ/חֲר֣וֹן",
+              "strongs": "H2740",
+              "gloss": "endure the fierceness"
+            },
+            {
+              "hebrew": "אַפּ֑/וֹ",
+              "strongs": "H639",
+              "gloss": "of His anger"
+            },
+            {
+              "hebrew": "חֲמָת/וֹ֙",
+              "strongs": "H2534",
+              "gloss": "His fury"
+            },
+            {
+              "hebrew": "נִתְּכָ֣ה",
+              "strongs": "H5413",
+              "gloss": "is poured out"
+            },
+            {
+              "hebrew": "כָ/אֵ֔שׁ",
+              "strongs": "H784",
+              "gloss": "like fire"
+            },
+            {
+              "hebrew": "וְ/הַ/צֻּרִ֖ים",
+              "strongs": "H6697",
+              "gloss": "and the rocks"
+            },
+            {
+              "hebrew": "נִתְּצ֥וּ",
+              "strongs": "H5422",
+              "gloss": "are thrown down"
+            },
+            {
+              "hebrew": "מִמֶּֽ/נּוּ",
+              "strongs": "H4480",
+              "gloss": "by Him"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "words": [
+            {
+              "hebrew": "ט֣וֹב",
+              "strongs": "H2896",
+              "gloss": "Good"
+            },
+            {
+              "hebrew": "יְהוָ֔ה",
+              "strongs": "H3068",
+              "gloss": "Yahweh [is]"
+            },
+            {
+              "hebrew": "לְ/מָע֖וֹז",
+              "strongs": "H4581",
+              "gloss": "a stronghold"
+            },
+            {
+              "hebrew": "בְּ/י֣וֹם",
+              "strongs": "H3117",
+              "gloss": "in the day"
+            },
+            {
+              "hebrew": "צָרָ֑ה",
+              "strongs": "H6869",
+              "gloss": "of trouble"
+            },
+            {
+              "hebrew": "וְ/יֹדֵ֖עַ",
+              "strongs": "H3045",
+              "gloss": "and He knows"
+            },
+            {
+              "hebrew": "חֹ֥סֵי",
+              "strongs": "H2620",
+              "gloss": "those who trust"
+            },
+            {
+              "hebrew": "בֽ/וֹ",
+              "strongs": "",
+              "gloss": ""
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "words": [
+            {
+              "hebrew": "וּ/בְ/שֶׁ֣טֶף",
+              "strongs": "H7858",
+              "gloss": "But with flood"
+            },
+            {
+              "hebrew": "עֹבֵ֔ר",
+              "strongs": "H5674",
+              "gloss": "an overflowing"
+            },
+            {
+              "hebrew": "כָּלָ֖ה",
+              "strongs": "H3617",
+              "gloss": "an utter end"
+            },
+            {
+              "hebrew": "יַעֲשֶׂ֣ה",
+              "strongs": "H6213",
+              "gloss": "of He will make"
+            },
+            {
+              "hebrew": "מְקוֹמָ֑/הּ",
+              "strongs": "H4725",
+              "gloss": "its place"
+            },
+            {
+              "hebrew": "וְ/אֹיְבָ֖י/ו",
+              "strongs": "H341",
+              "gloss": "and His enemies"
+            },
+            {
+              "hebrew": "יְרַדֶּף",
+              "strongs": "H7291",
+              "gloss": "will pursue"
+            },
+            {
+              "hebrew": "חֹֽשֶׁךְ",
+              "strongs": "H2822",
+              "gloss": "darkness"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "words": [
+            {
+              "hebrew": "מַה",
+              "strongs": "H4100",
+              "gloss": "What"
+            },
+            {
+              "hebrew": "תְּחַשְּׁבוּ/ן֙",
+              "strongs": "H2803",
+              "gloss": "do you conspire"
+            },
+            {
+              "hebrew": "אֶל",
+              "strongs": "H413",
+              "gloss": "against"
+            },
+            {
+              "hebrew": "יְהוָ֔ה",
+              "strongs": "H3068",
+              "gloss": "Yahweh"
+            },
+            {
+              "hebrew": "כָּלָ֖ה",
+              "strongs": "H3617",
+              "gloss": "an utter end [of it]"
+            },
+            {
+              "hebrew": "ה֣וּא",
+              "strongs": "H1931",
+              "gloss": "He"
+            },
+            {
+              "hebrew": "עֹשֶׂ֑ה",
+              "strongs": "H6213",
+              "gloss": "will make"
+            },
+            {
+              "hebrew": "לֹֽא",
+              "strongs": "H3808",
+              "gloss": "not"
+            },
+            {
+              "hebrew": "תָק֥וּם",
+              "strongs": "H6965",
+              "gloss": "will rise up"
+            },
+            {
+              "hebrew": "פַּעֲמַ֖יִם",
+              "strongs": "H6471",
+              "gloss": "a second time"
+            },
+            {
+              "hebrew": "צָרָֽה",
+              "strongs": "H6869",
+              "gloss": "Affliction"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "words": [
+            {
+              "hebrew": "כִּ֚י",
+              "strongs": "H3588",
+              "gloss": "For"
+            },
+            {
+              "hebrew": "עַד",
+              "strongs": "H5704",
+              "gloss": "while"
+            },
+            {
+              "hebrew": "סִירִ֣ים",
+              "strongs": "H5518",
+              "gloss": "[like] thorns"
+            },
+            {
+              "hebrew": "סְבֻכִ֔ים",
+              "strongs": "H5440",
+              "gloss": "tangled"
+            },
+            {
+              "hebrew": "וּ/כְ/סָבְאָ֖/ם",
+              "strongs": "H5435",
+              "gloss": "and while drunken"
+            },
+            {
+              "hebrew": "סְבוּאִ֑ים",
+              "strongs": "H5433",
+              "gloss": "[like] drunkards"
+            },
+            {
+              "hebrew": "אֻ֨כְּל֔וּ",
+              "strongs": "H398",
+              "gloss": "they shall be devoured"
+            },
+            {
+              "hebrew": "כְּ/קַ֥שׁ",
+              "strongs": "H7179",
+              "gloss": "like stubble"
+            },
+            {
+              "hebrew": "יָבֵ֖שׁ",
+              "strongs": "H3002",
+              "gloss": "dried"
+            },
+            {
+              "hebrew": "מָלֵֽא",
+              "strongs": "H4392",
+              "gloss": "fully"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "words": [
+            {
+              "hebrew": "מִמֵּ֣/ךְ",
+              "strongs": "H4480",
+              "gloss": "From you"
+            },
+            {
+              "hebrew": "יָצָ֔א",
+              "strongs": "H3318",
+              "gloss": "comes forth [one]"
+            },
+            {
+              "hebrew": "חֹשֵׁ֥ב",
+              "strongs": "H2803",
+              "gloss": "who plots"
+            },
+            {
+              "hebrew": "עַל",
+              "strongs": "H5921",
+              "gloss": "against"
+            },
+            {
+              "hebrew": "יְהוָ֖ה",
+              "strongs": "H3068",
+              "gloss": "Yahweh"
+            },
+            {
+              "hebrew": "רָעָ֑ה",
+              "strongs": "H7451",
+              "gloss": "evil"
+            },
+            {
+              "hebrew": "יֹעֵ֖ץ",
+              "strongs": "H3289",
+              "gloss": "a counselor"
+            },
+            {
+              "hebrew": "בְּלִיָּֽעַל",
+              "strongs": "H1100",
+              "gloss": "wicked"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "words": [
+            {
+              "hebrew": "כֹּ֣ה",
+              "strongs": "H3541",
+              "gloss": "Thus"
+            },
+            {
+              "hebrew": "אָמַ֣ר",
+              "strongs": "H559",
+              "gloss": "says"
+            },
+            {
+              "hebrew": "יְהוָ֗ה",
+              "strongs": "H3068",
+              "gloss": "Yahweh"
+            },
+            {
+              "hebrew": "אִם",
+              "strongs": "H518",
+              "gloss": "Though"
+            },
+            {
+              "hebrew": "שְׁלֵמִים֙",
+              "strongs": "H8003",
+              "gloss": "[they are] safe"
+            },
+            {
+              "hebrew": "וְ/כֵ֣ן",
+              "strongs": "H3651",
+              "gloss": "and likewise"
+            },
+            {
+              "hebrew": "רַבִּ֔ים",
+              "strongs": "H7227",
+              "gloss": "many"
+            },
+            {
+              "hebrew": "וְ/כֵ֥ן",
+              "strongs": "H3651",
+              "gloss": "and yet in this manner"
+            },
+            {
+              "hebrew": "נָגֹ֖זּוּ",
+              "strongs": "H1494",
+              "gloss": "they will be cut down"
+            },
+            {
+              "hebrew": "וְ/עָבָ֑ר",
+              "strongs": "H5674",
+              "gloss": "and when he passes through"
+            },
+            {
+              "hebrew": "וְ/עִ֨נִּתִ֔/ךְ",
+              "strongs": "H6031",
+              "gloss": "And Though I have afflicted you"
+            },
+            {
+              "hebrew": "לֹ֥א",
+              "strongs": "H3808",
+              "gloss": "no"
+            },
+            {
+              "hebrew": "אֲעַנֵּ֖/ךְ",
+              "strongs": "H6031",
+              "gloss": "I will afflict you"
+            },
+            {
+              "hebrew": "עֽוֹד",
+              "strongs": "H5750",
+              "gloss": "more"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "words": [
+            {
+              "hebrew": "וְ/עַתָּ֕ה",
+              "strongs": "H6258",
+              "gloss": "For now"
+            },
+            {
+              "hebrew": "אֶשְׁבֹּ֥ר",
+              "strongs": "H7665",
+              "gloss": "I will break off"
+            },
+            {
+              "hebrew": "מֹטֵ֖/הוּ",
+              "strongs": "H4132",
+              "gloss": "his yoke"
+            },
+            {
+              "hebrew": "מֵֽ/עָלָ֑יִ/ךְ",
+              "strongs": "H5921",
+              "gloss": "from you"
+            },
+            {
+              "hebrew": "וּ/מוֹסְרֹתַ֖יִ/ךְ",
+              "strongs": "H4147",
+              "gloss": "and your bonds"
+            },
+            {
+              "hebrew": "אֲנַתֵּֽק",
+              "strongs": "H5423",
+              "gloss": "burst apart"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "words": [
+            {
+              "hebrew": "וְ/צִוָּ֤ה",
+              "strongs": "H6680",
+              "gloss": "And has given a command"
+            },
+            {
+              "hebrew": "עָלֶ֨י/ךָ֙",
+              "strongs": "H5921",
+              "gloss": "concerning you"
+            },
+            {
+              "hebrew": "יְהוָ֔ה",
+              "strongs": "H3068",
+              "gloss": "Yahweh"
+            },
+            {
+              "hebrew": "לֹֽא",
+              "strongs": "H3808",
+              "gloss": "no"
+            },
+            {
+              "hebrew": "יִזָּרַ֥ע",
+              "strongs": "H2232",
+              "gloss": "shall be perpetuated"
+            },
+            {
+              "hebrew": "מִ/שִּׁמְ/ךָ֖",
+              "strongs": "H8034",
+              "gloss": "Your name"
+            },
+            {
+              "hebrew": "ע֑וֹד",
+              "strongs": "H5750",
+              "gloss": "longer"
+            },
+            {
+              "hebrew": "מִ/בֵּ֨ית",
+              "strongs": "H1004",
+              "gloss": "Out of the house"
+            },
+            {
+              "hebrew": "אֱלֹהֶ֜י/ךָ",
+              "strongs": "H430",
+              "gloss": "of your gods"
+            },
+            {
+              "hebrew": "אַכְרִ֨ית",
+              "strongs": "H3772",
+              "gloss": "I will cut off"
+            },
+            {
+              "hebrew": "פֶּ֧סֶל",
+              "strongs": "H6459",
+              "gloss": "the carved image"
+            },
+            {
+              "hebrew": "וּ/מַסֵּכָ֛ה",
+              "strongs": "H4541",
+              "gloss": "and the molded image"
+            },
+            {
+              "hebrew": "אָשִׂ֥ים",
+              "strongs": "H7760",
+              "gloss": "I will dig"
+            },
+            {
+              "hebrew": "קִבְרֶ֖/ךָ",
+              "strongs": "H6913",
+              "gloss": "your grave"
+            },
+            {
+              "hebrew": "כִּ֥י",
+              "strongs": "H3588",
+              "gloss": "for"
+            },
+            {
+              "hebrew": "קַלּֽוֹתָ",
+              "strongs": "H7043",
+              "gloss": "you are vile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "words": [
+            {
+              "hebrew": "הִנֵּ֨ה",
+              "strongs": "H2009",
+              "gloss": "Has come up"
+            },
+            {
+              "hebrew": "עַל",
+              "strongs": "H5921",
+              "gloss": "He who scatters"
+            },
+            {
+              "hebrew": "הֶ/הָרִ֜ים",
+              "strongs": "H2022",
+              "gloss": "before"
+            },
+            {
+              "hebrew": "רַגְלֵ֤י",
+              "strongs": "H7272",
+              "gloss": "your face"
+            },
+            {
+              "hebrew": "מְבַשֵּׂר֙",
+              "strongs": "H1319",
+              "gloss": "Man"
+            },
+            {
+              "hebrew": "מַשְׁמִ֣יעַ",
+              "strongs": "H8085",
+              "gloss": "the fort"
+            },
+            {
+              "hebrew": "שָׁל֔וֹם",
+              "strongs": "H7965",
+              "gloss": "Watch"
+            },
+            {
+              "hebrew": "חָגִּ֧י",
+              "strongs": "H2287",
+              "gloss": "the road"
+            },
+            {
+              "hebrew": "יְהוּדָ֛ה",
+              "strongs": "H3063",
+              "gloss": "Strengthen"
+            },
+            {
+              "hebrew": "חַגַּ֖יִ/ךְ",
+              "strongs": "H2282",
+              "gloss": "[your] flanks"
+            },
+            {
+              "hebrew": "שַׁלְּמִ֣י",
+              "strongs": "H7999",
+              "gloss": "Fortify"
+            },
+            {
+              "hebrew": "נְדָרָ֑יִ/ךְ",
+              "strongs": "H5088",
+              "gloss": "[your] power"
+            },
+            {
+              "hebrew": "כִּי֩",
+              "strongs": "H3588",
+              "gloss": "mightily"
+            },
+            {
+              "hebrew": "לֹ֨א",
+              "strongs": "H3808",
+              "gloss": "a little boy"
+            },
+            {
+              "hebrew": "יוֹסִ֥יף",
+              "strongs": "H3254",
+              "gloss": "Not Used"
+            },
+            {
+              "hebrew": "ע֛וֹד",
+              "strongs": "H5750",
+              "gloss": "a going around, continuance, still, yet, again, beside"
+            },
+            {
+              "hebrew": "ל/עבור",
+              "strongs": "H5674",
+              "gloss": "alienate"
+            },
+            {
+              "hebrew": "בָּ֥/ךְ",
+              "strongs": "",
+              "gloss": ""
+            },
+            {
+              "hebrew": "בְּלִיַּ֖עַל",
+              "strongs": "H1100",
+              "gloss": "the tongue, a language"
+            },
+            {
+              "hebrew": "כֻּלֹּ֥/ה",
+              "strongs": "H3605",
+              "gloss": "to (emit a) smell"
+            },
+            {
+              "hebrew": "נִכְרָֽת",
+              "strongs": "H3772",
+              "gloss": "heaven"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "words": [
+            {
+              "hebrew": "עָלָ֥ה",
+              "strongs": "H5927",
+              "gloss": "For"
+            },
+            {
+              "hebrew": "מֵפִ֛יץ",
+              "strongs": "H6327",
+              "gloss": "will restore"
+            },
+            {
+              "hebrew": "עַל",
+              "strongs": "H5921",
+              "gloss": "Yahweh"
+            },
+            {
+              "hebrew": "פָּנַ֖יִ/ךְ",
+              "strongs": "H6440",
+              "gloss": "-"
+            },
+            {
+              "hebrew": "נָצ֣וֹר",
+              "strongs": "H5341",
+              "gloss": "the excellence"
+            },
+            {
+              "hebrew": "מְצֻרָ֑ה",
+              "strongs": "H4694",
+              "gloss": "of Jacob"
+            },
+            {
+              "hebrew": "צַפֵּה",
+              "strongs": "H6822",
+              "gloss": "Like the excellence"
+            },
+            {
+              "hebrew": "דֶ֨רֶךְ֙",
+              "strongs": "H1870",
+              "gloss": "of Israel"
+            },
+            {
+              "hebrew": "חַזֵּ֣ק",
+              "strongs": "H2388",
+              "gloss": "for"
+            },
+            {
+              "hebrew": "מָתְנַ֔יִם",
+              "strongs": "H4975",
+              "gloss": "have emptied them out"
+            },
+            {
+              "hebrew": "אַמֵּ֥ץ",
+              "strongs": "H553",
+              "gloss": "the emptiers"
+            },
+            {
+              "hebrew": "כֹּ֖חַ",
+              "strongs": "H3581",
+              "gloss": "and their vine branches"
+            },
+            {
+              "hebrew": "מְאֹֽד",
+              "strongs": "H3966",
+              "gloss": "ruined"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "words": [
+            {
+              "hebrew": "כִּ֣י",
+              "strongs": "H3588",
+              "gloss": "The shields"
+            },
+            {
+              "hebrew": "שָׁ֤ב",
+              "strongs": "H7725",
+              "gloss": "of his mighty men"
+            },
+            {
+              "hebrew": "יְהוָה֙",
+              "strongs": "H3068",
+              "gloss": "[are] made red"
+            },
+            {
+              "hebrew": "אֶת",
+              "strongs": "H853",
+              "gloss": "the men [are]"
+            },
+            {
+              "hebrew": "גְּא֣וֹן",
+              "strongs": "H1347",
+              "gloss": "valiant"
+            },
+            {
+              "hebrew": "יַעֲקֹ֔ב",
+              "strongs": "H3290",
+              "gloss": "in scarlet"
+            },
+            {
+              "hebrew": "כִּ/גְא֖וֹן",
+              "strongs": "H1347",
+              "gloss": "with flaming"
+            },
+            {
+              "hebrew": "יִשְׂרָאֵ֑ל",
+              "strongs": "H3478",
+              "gloss": "torches"
+            },
+            {
+              "hebrew": "כִּ֤י",
+              "strongs": "H3588",
+              "gloss": "the chariots [come]"
+            },
+            {
+              "hebrew": "בְקָקוּ/ם֙",
+              "strongs": "H1238",
+              "gloss": "in the day"
+            },
+            {
+              "hebrew": "בֹּֽקְקִ֔ים",
+              "strongs": "H1238",
+              "gloss": "of his preparation"
+            },
+            {
+              "hebrew": "וּ/זְמֹרֵי/הֶ֖ם",
+              "strongs": "H2156",
+              "gloss": "and the spears"
+            },
+            {
+              "hebrew": "שִׁחֵֽתוּ",
+              "strongs": "H7843",
+              "gloss": "are brandished"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "words": [
+            {
+              "hebrew": "מָגֵ֨ן",
+              "strongs": "H4043",
+              "gloss": "In the streets"
+            },
+            {
+              "hebrew": "גִּבֹּרֵ֜י/הוּ",
+              "strongs": "H1368",
+              "gloss": "rage"
+            },
+            {
+              "hebrew": "מְאָדָּ֗ם",
+              "strongs": "H119",
+              "gloss": "the chariots"
+            },
+            {
+              "hebrew": "אַנְשֵׁי",
+              "strongs": "H376",
+              "gloss": "they jostle one another"
+            },
+            {
+              "hebrew": "חַ֨יִל֙",
+              "strongs": "H2428",
+              "gloss": "in the broad [roads]"
+            },
+            {
+              "hebrew": "מְתֻלָּעִ֔ים",
+              "strongs": "H8529",
+              "gloss": "they seem"
+            },
+            {
+              "hebrew": "בְּ/אֵשׁ",
+              "strongs": "H784",
+              "gloss": "like torches"
+            },
+            {
+              "hebrew": "פְּלָד֥וֹת",
+              "strongs": "H6393",
+              "gloss": "like lightning"
+            },
+            {
+              "hebrew": "הָ/רֶ֖כֶב",
+              "strongs": "H7393",
+              "gloss": "they run"
+            },
+            {
+              "hebrew": "בְּ/י֣וֹם",
+              "strongs": "H3117",
+              "gloss": "long, far distant"
+            },
+            {
+              "hebrew": "הֲכִינ֑/וֹ",
+              "strongs": "H3559",
+              "gloss": "admonition"
+            },
+            {
+              "hebrew": "וְ/הַ/בְּרֹשִׁ֖ים",
+              "strongs": "H1265",
+              "gloss": "to remain, continue"
+            },
+            {
+              "hebrew": "הָרְעָֽלוּ",
+              "strongs": "H7477",
+              "gloss": "to quiver, shake, reel"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "words": [
+            {
+              "hebrew": "בַּֽ/חוּצוֹת֙",
+              "strongs": "H2351",
+              "gloss": "He remembers"
+            },
+            {
+              "hebrew": "יִתְהוֹלְל֣וּ",
+              "strongs": "H1984",
+              "gloss": "his nobles"
+            },
+            {
+              "hebrew": "הָ/רֶ֔כֶב",
+              "strongs": "H7393",
+              "gloss": "they stumble"
+            },
+            {
+              "hebrew": "יִֽשְׁתַּקְשְׁק֖וּ/ן",
+              "strongs": "H8264",
+              "gloss": "in their walk"
+            },
+            {
+              "hebrew": "בָּ/רְחֹב֑וֹת",
+              "strongs": "H7339",
+              "gloss": "they make haste"
+            },
+            {
+              "hebrew": "מַרְאֵי/הֶן֙",
+              "strongs": "H4758",
+              "gloss": "to her walls"
+            },
+            {
+              "hebrew": "כַּ/לַּפִּידִ֔ם",
+              "strongs": "H3940",
+              "gloss": "and is prepared"
+            },
+            {
+              "hebrew": "כַּ/בְּרָקִ֖ים",
+              "strongs": "H1300",
+              "gloss": "the defense"
+            },
+            {
+              "hebrew": "יְרוֹצֵֽצוּ",
+              "strongs": "H7323",
+              "gloss": "to run"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "words": [
+            {
+              "hebrew": "יִזְכֹּר֙",
+              "strongs": "H2142",
+              "gloss": "The gates"
+            },
+            {
+              "hebrew": "אַדִּירָ֔י/ו",
+              "strongs": "H117",
+              "gloss": "of the rivers"
+            },
+            {
+              "hebrew": "יִכָּשְׁל֖וּ",
+              "strongs": "H3782",
+              "gloss": "are opened"
+            },
+            {
+              "hebrew": "ב/הלכות/ם",
+              "strongs": "H1979",
+              "gloss": "and the palace"
+            },
+            {
+              "hebrew": "יְמַֽהֲרוּ֙",
+              "strongs": "H4116",
+              "gloss": "is dissolved"
+            },
+            {
+              "hebrew": "חֽוֹמָתָ֔/הּ",
+              "strongs": "H2346",
+              "gloss": "to press, afflict"
+            },
+            {
+              "hebrew": "וְ/הֻכַ֖ן",
+              "strongs": "H3559",
+              "gloss": "admonition"
+            },
+            {
+              "hebrew": "הַ/סֹּכֵֽךְ",
+              "strongs": "H5526",
+              "gloss": "to feed, fatten, fill, satisfy"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "words": [
+            {
+              "hebrew": "שַׁעֲרֵ֥י",
+              "strongs": "H8179",
+              "gloss": "And it is decreed"
+            },
+            {
+              "hebrew": "הַ/נְּהָר֖וֹת",
+              "strongs": "H5104",
+              "gloss": "she shall be led away captive"
+            },
+            {
+              "hebrew": "נִפְתָּ֑חוּ",
+              "strongs": "H6605",
+              "gloss": "she shall be brought up"
+            },
+            {
+              "hebrew": "וְ/הַֽ/הֵיכָ֖ל",
+              "strongs": "H1964",
+              "gloss": "and her maidservants"
+            },
+            {
+              "hebrew": "נָמֽוֹג",
+              "strongs": "H4127",
+              "gloss": "shall lead [her]"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "words": [
+            {
+              "hebrew": "וְ/הֻצַּ֖ב",
+              "strongs": "H5324",
+              "gloss": "And Though Nineveh"
+            },
+            {
+              "hebrew": "גֻּלְּתָ֣ה",
+              "strongs": "H1540",
+              "gloss": "like a pool"
+            },
+            {
+              "hebrew": "הֹֽעֲלָ֑תָה",
+              "strongs": "H5927",
+              "gloss": "of water"
+            },
+            {
+              "hebrew": "וְ/אַמְהֹתֶ֗י/הָ",
+              "strongs": "H519",
+              "gloss": "of old"
+            },
+            {
+              "hebrew": "מְנַֽהֲגוֹת֙",
+              "strongs": "H5090",
+              "gloss": "was"
+            },
+            {
+              "hebrew": "כְּ/ק֣וֹל",
+              "strongs": "H6963",
+              "gloss": "and they"
+            },
+            {
+              "hebrew": "יוֹנִ֔ים",
+              "strongs": "H3123",
+              "gloss": "flee away"
+            },
+            {
+              "hebrew": "מְתֹפְפֹ֖ת",
+              "strongs": "H8608",
+              "gloss": "Halt"
+            },
+            {
+              "hebrew": "עַל",
+              "strongs": "H5921",
+              "gloss": "Halt [they cry]"
+            },
+            {
+              "hebrew": "לִבְבֵ/הֶֽן",
+              "strongs": "H3824",
+              "gloss": "but no one"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "words": [
+            {
+              "hebrew": "וְ/נִינְוֵ֥ה",
+              "strongs": "H5210",
+              "gloss": "Take spoil"
+            },
+            {
+              "hebrew": "כִ/בְרֵֽכַת",
+              "strongs": "H1295",
+              "gloss": "of silver"
+            },
+            {
+              "hebrew": "מַ֖יִם",
+              "strongs": "H4325",
+              "gloss": "take spoil"
+            },
+            {
+              "hebrew": "מִ֣/ימֵי",
+              "strongs": "H3117",
+              "gloss": "of gold"
+            },
+            {
+              "hebrew": "הִ֑יא",
+              "strongs": "H1931",
+              "gloss": "and [There is] no"
+            },
+            {
+              "hebrew": "וְ/הֵ֣מָּה",
+              "strongs": "H1992",
+              "gloss": "end"
+            },
+            {
+              "hebrew": "נָסִ֔ים",
+              "strongs": "H5127",
+              "gloss": "of treasure"
+            },
+            {
+              "hebrew": "עִמְד֥וּ",
+              "strongs": "H5975",
+              "gloss": "Or wealth"
+            },
+            {
+              "hebrew": "עֲמֹ֖דוּ",
+              "strongs": "H5975",
+              "gloss": "of every"
+            },
+            {
+              "hebrew": "וְ/אֵ֥ין",
+              "strongs": "H369",
+              "gloss": "prize"
+            },
+            {
+              "hebrew": "מַפְנֶֽה",
+              "strongs": "H6437",
+              "gloss": "desirable"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "words": [
+            {
+              "hebrew": "בֹּ֥זּוּ",
+              "strongs": "H962",
+              "gloss": "She is empty"
+            },
+            {
+              "hebrew": "כֶ֖סֶף",
+              "strongs": "H3701",
+              "gloss": "and desolate"
+            },
+            {
+              "hebrew": "בֹּ֣זּוּ",
+              "strongs": "H962",
+              "gloss": "and waste"
+            },
+            {
+              "hebrew": "זָהָ֑ב",
+              "strongs": "H2091",
+              "gloss": "and the heart"
+            },
+            {
+              "hebrew": "וְ/אֵ֥ין",
+              "strongs": "H369",
+              "gloss": "melts"
+            },
+            {
+              "hebrew": "קֵ֨צֶה֙",
+              "strongs": "H7097",
+              "gloss": "and shake"
+            },
+            {
+              "hebrew": "לַ/תְּכוּנָ֔ה",
+              "strongs": "H8498",
+              "gloss": "the knees"
+            },
+            {
+              "hebrew": "כָּבֹ֕ד",
+              "strongs": "H3519",
+              "gloss": "and [Much] pain [is]"
+            },
+            {
+              "hebrew": "מִ/כֹּ֖ל",
+              "strongs": "H3605",
+              "gloss": "in every"
+            },
+            {
+              "hebrew": "כְּלִ֥י",
+              "strongs": "H3627",
+              "gloss": "side"
+            },
+            {
+              "hebrew": "חֶמְדָּֽה",
+              "strongs": "H2532",
+              "gloss": "and faces"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "words": [
+            {
+              "hebrew": "בּוּקָ֥ה",
+              "strongs": "H950",
+              "gloss": "Where"
+            },
+            {
+              "hebrew": "וּ/מְבוּקָ֖ה",
+              "strongs": "H4003",
+              "gloss": "the dwelling"
+            },
+            {
+              "hebrew": "וּ/מְבֻלָּקָ֑ה",
+              "strongs": "H1110",
+              "gloss": "of the lions"
+            },
+            {
+              "hebrew": "וְ/לֵ֨ב",
+              "strongs": "H3820",
+              "gloss": "and the feeding place"
+            },
+            {
+              "hebrew": "נָמֵ֜ס",
+              "strongs": "H4549",
+              "gloss": "is"
+            },
+            {
+              "hebrew": "וּ/פִ֣ק",
+              "strongs": "H6375",
+              "gloss": "of the young lions"
+            },
+            {
+              "hebrew": "בִּרְכַּ֗יִם",
+              "strongs": "H1290",
+              "gloss": "where"
+            },
+            {
+              "hebrew": "וְ/חַלְחָלָה֙",
+              "strongs": "H2479",
+              "gloss": "walked"
+            },
+            {
+              "hebrew": "בְּ/כָל",
+              "strongs": "H3605",
+              "gloss": "the lion"
+            },
+            {
+              "hebrew": "מָתְנַ֔יִם",
+              "strongs": "H4975",
+              "gloss": "the lioness"
+            },
+            {
+              "hebrew": "וּ/פְנֵ֥י",
+              "strongs": "H6440",
+              "gloss": "there"
+            },
+            {
+              "hebrew": "כֻלָּ֖/ם",
+              "strongs": "H3605",
+              "gloss": "[and] cub"
+            },
+            {
+              "hebrew": "קִבְּצ֥וּ",
+              "strongs": "H6908",
+              "gloss": "of lion"
+            },
+            {
+              "hebrew": "פָארֽוּר",
+              "strongs": "H6289",
+              "gloss": "and no one"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "words": [
+            {
+              "hebrew": "אַיֵּה֙",
+              "strongs": "H346",
+              "gloss": "the lion"
+            },
+            {
+              "hebrew": "מְע֣וֹן",
+              "strongs": "H4583",
+              "gloss": "tore in pieces"
+            },
+            {
+              "hebrew": "אֲרָי֔וֹת",
+              "strongs": "H738",
+              "gloss": "enough for"
+            },
+            {
+              "hebrew": "וּ/מִרְעֶ֥ה",
+              "strongs": "H4829",
+              "gloss": "his cubs"
+            },
+            {
+              "hebrew": "ה֖וּא",
+              "strongs": "H1931",
+              "gloss": "and Killed"
+            },
+            {
+              "hebrew": "לַ/כְּפִרִ֑ים",
+              "strongs": "H3715",
+              "gloss": "for his lionesses"
+            },
+            {
+              "hebrew": "אֲשֶׁ֣ר",
+              "strongs": "H834",
+              "gloss": "and Filled"
+            },
+            {
+              "hebrew": "הָלַךְ֩",
+              "strongs": "H1980",
+              "gloss": "with prey"
+            },
+            {
+              "hebrew": "אַרְיֵ֨ה",
+              "strongs": "H738",
+              "gloss": "his caves"
+            },
+            {
+              "hebrew": "לָבִ֥יא",
+              "strongs": "H3833",
+              "gloss": "and his dens"
+            },
+            {
+              "hebrew": "שָׁ֛ם",
+              "strongs": "H8033",
+              "gloss": "with flesh"
+            },
+            {
+              "hebrew": "גּ֥וּר",
+              "strongs": "H1482",
+              "gloss": "national, foreign, i.e. spec. a Gentile"
+            },
+            {
+              "hebrew": "אַרְיֵ֖ה",
+              "strongs": "H738",
+              "gloss": "newborn"
+            },
+            {
+              "hebrew": "וְ/אֵ֥ין",
+              "strongs": "H369",
+              "gloss": "without contradiction"
+            },
+            {
+              "hebrew": "מַחֲרִֽיד",
+              "strongs": "H2729",
+              "gloss": "to overpower"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "words": [
+            {
+              "hebrew": "אַרְיֵ֤ה",
+              "strongs": "H738",
+              "gloss": "Behold I [am]"
+            },
+            {
+              "hebrew": "טֹרֵף֙",
+              "strongs": "H2963",
+              "gloss": "against you"
+            },
+            {
+              "hebrew": "בְּ/דֵ֣י",
+              "strongs": "H1767",
+              "gloss": "says"
+            },
+            {
+              "hebrew": "גֹֽרוֹתָ֔י/ו",
+              "strongs": "H1484",
+              "gloss": "Yahweh"
+            },
+            {
+              "hebrew": "וּ/מְחַנֵּ֖ק",
+              "strongs": "H2614",
+              "gloss": "of hosts"
+            },
+            {
+              "hebrew": "לְ/לִבְאֹתָ֑י/ו",
+              "strongs": "H3833",
+              "gloss": "and I will burn"
+            },
+            {
+              "hebrew": "וַ/יְמַלֵּא",
+              "strongs": "H4390",
+              "gloss": "in smoke"
+            },
+            {
+              "hebrew": "טֶ֣רֶף",
+              "strongs": "H2964",
+              "gloss": "your chariots"
+            },
+            {
+              "hebrew": "חֹרָ֔י/ו",
+              "strongs": "H2356",
+              "gloss": "and your young lions"
+            },
+            {
+              "hebrew": "וּ/מְעֹֽנֹתָ֖י/ו",
+              "strongs": "H4585",
+              "gloss": "shall devour"
+            },
+            {
+              "hebrew": "טְרֵפָֽה",
+              "strongs": "H2966",
+              "gloss": "the sword"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "words": [
+            {
+              "hebrew": "הִנְ/נִ֣י",
+              "strongs": "H2005",
+              "gloss": "to complete, accomplish"
+            },
+            {
+              "hebrew": "אֵלַ֗יִ/ךְ",
+              "strongs": "H413",
+              "gloss": "unfailing"
+            },
+            {
+              "hebrew": "נְאֻם֙",
+              "strongs": "H5002",
+              "gloss": "ordered, stated"
+            },
+            {
+              "hebrew": "יְהוָ֣ה",
+              "strongs": "H3068",
+              "gloss": "to bathe, to wash"
+            },
+            {
+              "hebrew": "צְבָא֔וֹת",
+              "strongs": "H6635",
+              "gloss": "army, war, warfare"
+            },
+            {
+              "hebrew": "וְ/הִבְעַרְתִּ֤י",
+              "strongs": "H1197",
+              "gloss": "a bundle"
+            },
+            {
+              "hebrew": "בֶֽ/עָשָׁן֙",
+              "strongs": "H6227",
+              "gloss": "smoke"
+            },
+            {
+              "hebrew": "רִכְבָּ֔/הּ",
+              "strongs": "H7393",
+              "gloss": "chariotry, chariot, millstone"
+            },
+            {
+              "hebrew": "וּ/כְפִירַ֖יִ/ךְ",
+              "strongs": "H3715",
+              "gloss": "desire, longing"
+            },
+            {
+              "hebrew": "תֹּ֣אכַל",
+              "strongs": "H398",
+              "gloss": "to bring to light, make to appear"
+            },
+            {
+              "hebrew": "חָ֑רֶב",
+              "strongs": "H2719",
+              "gloss": "to eat up"
+            },
+            {
+              "hebrew": "וְ/הִכְרַתִּ֤י",
+              "strongs": "H3772",
+              "gloss": "heaven"
+            },
+            {
+              "hebrew": "מֵ/אֶ֨רֶץ֙",
+              "strongs": "H776",
+              "gloss": "abstinence from food"
+            },
+            {
+              "hebrew": "טַרְפֵּ֔/ךְ",
+              "strongs": "H2964",
+              "gloss": "to make valid"
+            },
+            {
+              "hebrew": "וְ/לֹֽא",
+              "strongs": "H3808",
+              "gloss": "a little boy"
+            },
+            {
+              "hebrew": "יִשָּׁמַ֥ע",
+              "strongs": "H8085",
+              "gloss": "to hear"
+            },
+            {
+              "hebrew": "ע֖וֹד",
+              "strongs": "H5750",
+              "gloss": "a going around, continuance, still, yet, again, beside"
+            },
+            {
+              "hebrew": "ק֥וֹל",
+              "strongs": "H6963",
+              "gloss": "sound, voice"
+            },
+            {
+              "hebrew": "מַלְאָכֵֽ/כֵה",
+              "strongs": "H4397",
+              "gloss": "prophetic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "words": [
+            {
+              "hebrew": "ה֖וֹי",
+              "strongs": "H1945",
+              "gloss": "Woe"
+            },
+            {
+              "hebrew": "עִ֣יר",
+              "strongs": "H5892",
+              "gloss": "to the city"
+            },
+            {
+              "hebrew": "דָּמִ֑ים",
+              "strongs": "H1818",
+              "gloss": "bloody"
+            },
+            {
+              "hebrew": "כֻּלָּ֗/הּ",
+              "strongs": "H3605",
+              "gloss": "it [is] all"
+            },
+            {
+              "hebrew": "כַּ֤חַשׁ",
+              "strongs": "H3585",
+              "gloss": "lies"
+            },
+            {
+              "hebrew": "פֶּ֨רֶק֙",
+              "strongs": "H6563",
+              "gloss": "[and] robbery"
+            },
+            {
+              "hebrew": "מְלֵאָ֔ה",
+              "strongs": "H4395",
+              "gloss": "full"
+            },
+            {
+              "hebrew": "לֹ֥א",
+              "strongs": "H3808",
+              "gloss": "of never"
+            },
+            {
+              "hebrew": "יָמִ֖ישׁ",
+              "strongs": "H4185",
+              "gloss": "departs"
+            },
+            {
+              "hebrew": "טָֽרֶף",
+              "strongs": "H2964",
+              "gloss": "[Its] victim"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "words": [
+            {
+              "hebrew": "ק֣וֹל",
+              "strongs": "H6963",
+              "gloss": "The noise"
+            },
+            {
+              "hebrew": "שׁ֔וֹט",
+              "strongs": "H7752",
+              "gloss": "of a whip"
+            },
+            {
+              "hebrew": "וְ/ק֖וֹל",
+              "strongs": "H6963",
+              "gloss": "and the noise"
+            },
+            {
+              "hebrew": "רַ֣עַשׁ",
+              "strongs": "H7494",
+              "gloss": "of rattling"
+            },
+            {
+              "hebrew": "אוֹפָ֑ן",
+              "strongs": "H212",
+              "gloss": "wheels"
+            },
+            {
+              "hebrew": "וְ/ס֣וּס",
+              "strongs": "H5483",
+              "gloss": "and of horses"
+            },
+            {
+              "hebrew": "דֹּהֵ֔ר",
+              "strongs": "H1725",
+              "gloss": "galloping"
+            },
+            {
+              "hebrew": "וּ/מֶרְכָּבָ֖ה",
+              "strongs": "H4818",
+              "gloss": "and of chariots"
+            },
+            {
+              "hebrew": "מְרַקֵּדָֽה",
+              "strongs": "H7540",
+              "gloss": "clattering"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "words": [
+            {
+              "hebrew": "פָּרָ֣שׁ",
+              "strongs": "H6571",
+              "gloss": "Horsemen"
+            },
+            {
+              "hebrew": "מַעֲלֶ֗ה",
+              "strongs": "H5927",
+              "gloss": "charge with"
+            },
+            {
+              "hebrew": "וְ/לַ֤הַב",
+              "strongs": "H3851",
+              "gloss": "and bright"
+            },
+            {
+              "hebrew": "חֶ֨רֶב֙",
+              "strongs": "H2719",
+              "gloss": "sword"
+            },
+            {
+              "hebrew": "וּ/בְרַ֣ק",
+              "strongs": "H1300",
+              "gloss": "and glittering"
+            },
+            {
+              "hebrew": "חֲנִ֔ית",
+              "strongs": "H2595",
+              "gloss": "spear"
+            },
+            {
+              "hebrew": "וְ/רֹ֥ב",
+              "strongs": "H7230",
+              "gloss": "and [There is] a multitude"
+            },
+            {
+              "hebrew": "חָלָ֖ל",
+              "strongs": "H2491",
+              "gloss": "of slain"
+            },
+            {
+              "hebrew": "וְ/כֹ֣בֶד",
+              "strongs": "H3514",
+              "gloss": "and a great number"
+            },
+            {
+              "hebrew": "פָּ֑גֶר",
+              "strongs": "H6297",
+              "gloss": "of bodies"
+            },
+            {
+              "hebrew": "וְ/אֵ֥ין",
+              "strongs": "H369",
+              "gloss": "and"
+            },
+            {
+              "hebrew": "קֵ֨צֶה֙",
+              "strongs": "H7097",
+              "gloss": "Countless"
+            },
+            {
+              "hebrew": "לַ/גְּוִיָּ֔ה",
+              "strongs": "H1472",
+              "gloss": "corpses"
+            },
+            {
+              "hebrew": "יכשלו",
+              "strongs": "H3782",
+              "gloss": "they stumble"
+            },
+            {
+              "hebrew": "בִּ/גְוִיָּתָֽ/ם",
+              "strongs": "H1472",
+              "gloss": "over the corpses"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "words": [
+            {
+              "hebrew": "מֵ/רֹב֙",
+              "strongs": "H7230",
+              "gloss": "because of the multitude"
+            },
+            {
+              "hebrew": "זְנוּנֵ֣י",
+              "strongs": "H2183",
+              "gloss": "of harlotries"
+            },
+            {
+              "hebrew": "זוֹנָ֔ה",
+              "strongs": "H2181",
+              "gloss": "of the harlot"
+            },
+            {
+              "hebrew": "ט֥וֹבַת",
+              "strongs": "H2896",
+              "gloss": "of the well favored"
+            },
+            {
+              "hebrew": "חֵ֖ן",
+              "strongs": "H2580",
+              "gloss": "seductive"
+            },
+            {
+              "hebrew": "בַּעֲלַ֣ת",
+              "strongs": "H1172",
+              "gloss": "the mistress"
+            },
+            {
+              "hebrew": "כְּשָׁפִ֑ים",
+              "strongs": "H3785",
+              "gloss": "of sorceries"
+            },
+            {
+              "hebrew": "הַ/מֹּכֶ֤רֶת",
+              "strongs": "H4376",
+              "gloss": "who sells"
+            },
+            {
+              "hebrew": "גּוֹיִם֙",
+              "strongs": "H1471",
+              "gloss": "nations"
+            },
+            {
+              "hebrew": "בִּ/זְנוּנֶ֔י/הָ",
+              "strongs": "H2183",
+              "gloss": "through her harlotries"
+            },
+            {
+              "hebrew": "וּ/מִשְׁפָּח֖וֹת",
+              "strongs": "H4940",
+              "gloss": "and families"
+            },
+            {
+              "hebrew": "בִּ/כְשָׁפֶֽי/הָ",
+              "strongs": "H3785",
+              "gloss": "through her sorceries"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "words": [
+            {
+              "hebrew": "הִנְ/נִ֣י",
+              "strongs": "H2005",
+              "gloss": "Behold I [am]"
+            },
+            {
+              "hebrew": "אֵלַ֗יִ/ךְ",
+              "strongs": "H413",
+              "gloss": "against you"
+            },
+            {
+              "hebrew": "נְאֻם֙",
+              "strongs": "H5002",
+              "gloss": "says"
+            },
+            {
+              "hebrew": "יְהוָ֣ה",
+              "strongs": "H3068",
+              "gloss": "Yahweh"
+            },
+            {
+              "hebrew": "צְבָא֔וֹת",
+              "strongs": "H6635",
+              "gloss": "of hosts"
+            },
+            {
+              "hebrew": "וְ/גִלֵּיתִ֥י",
+              "strongs": "H1540",
+              "gloss": "and I will lift"
+            },
+            {
+              "hebrew": "שׁוּלַ֖יִ/ךְ",
+              "strongs": "H7757",
+              "gloss": "your skirts"
+            },
+            {
+              "hebrew": "עַל",
+              "strongs": "H5921",
+              "gloss": "over"
+            },
+            {
+              "hebrew": "פָּנָ֑יִ/ךְ",
+              "strongs": "H6440",
+              "gloss": "your face"
+            },
+            {
+              "hebrew": "וְ/הַרְאֵיתִ֤י",
+              "strongs": "H7200",
+              "gloss": "and I will show"
+            },
+            {
+              "hebrew": "גוֹיִם֙",
+              "strongs": "H1471",
+              "gloss": "the nations"
+            },
+            {
+              "hebrew": "מַעְרֵ֔/ךְ",
+              "strongs": "H4626",
+              "gloss": "your nakedness"
+            },
+            {
+              "hebrew": "וּ/מַמְלָכ֖וֹת",
+              "strongs": "H4467",
+              "gloss": "and the kingdoms"
+            },
+            {
+              "hebrew": "קְלוֹנֵֽ/ךְ",
+              "strongs": "H7036",
+              "gloss": "your shame"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "words": [
+            {
+              "hebrew": "וְ/הִשְׁלַכְתִּ֥י",
+              "strongs": "H7993",
+              "gloss": "And I will cast"
+            },
+            {
+              "hebrew": "עָלַ֛יִ/ךְ",
+              "strongs": "H5921",
+              "gloss": "upon you"
+            },
+            {
+              "hebrew": "שִׁקֻּצִ֖ים",
+              "strongs": "H8251",
+              "gloss": "abominable [filth]"
+            },
+            {
+              "hebrew": "וְ/נִבַּלְתִּ֑י/ךְ",
+              "strongs": "H5034",
+              "gloss": "and Make you vile"
+            },
+            {
+              "hebrew": "וְ/שַׂמְתִּ֖י/ךְ",
+              "strongs": "H7760",
+              "gloss": "and make you"
+            },
+            {
+              "hebrew": "כְּ/רֹֽאִי",
+              "strongs": "H7210",
+              "gloss": "a spectacle"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "words": [
+            {
+              "hebrew": "וְ/הָיָ֤ה",
+              "strongs": "H1961",
+              "gloss": "And it shall come to pass"
+            },
+            {
+              "hebrew": "כָל",
+              "strongs": "H3605",
+              "gloss": "[that] all"
+            },
+            {
+              "hebrew": "רֹאַ֨יִ/ךְ֙",
+              "strongs": "H7200",
+              "gloss": "who look upon you"
+            },
+            {
+              "hebrew": "יִדּ֣וֹד",
+              "strongs": "H5074",
+              "gloss": "will flee"
+            },
+            {
+              "hebrew": "מִמֵּ֔/ךְ",
+              "strongs": "H4480",
+              "gloss": "from you"
+            },
+            {
+              "hebrew": "וְ/אָמַר֙",
+              "strongs": "H559",
+              "gloss": "and say"
+            },
+            {
+              "hebrew": "שָׁדְּדָ֣ה",
+              "strongs": "H7703",
+              "gloss": "is laid waste"
+            },
+            {
+              "hebrew": "נִֽינְוֵ֔ה",
+              "strongs": "H5210",
+              "gloss": "Nineveh"
+            },
+            {
+              "hebrew": "מִ֖י",
+              "strongs": "H4310",
+              "gloss": "who"
+            },
+            {
+              "hebrew": "יָנ֣וּד",
+              "strongs": "H5110",
+              "gloss": "will bemoan"
+            },
+            {
+              "hebrew": "לָ֑/הּ",
+              "strongs": "",
+              "gloss": "where"
+            },
+            {
+              "hebrew": "מֵ/אַ֛יִן",
+              "strongs": "H370",
+              "gloss": "shall I seek"
+            },
+            {
+              "hebrew": "אֲבַקֵּ֥שׁ",
+              "strongs": "H1245",
+              "gloss": "comforters"
+            },
+            {
+              "hebrew": "מְנַחֲמִ֖ים",
+              "strongs": "H5162",
+              "gloss": "a nurse"
+            },
+            {
+              "hebrew": "לָֽ/ךְ",
+              "strongs": "",
+              "gloss": ""
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "words": [
+            {
+              "hebrew": "הֲ/תֵֽיטְבִי֙",
+              "strongs": "H3190",
+              "gloss": "Are you better"
+            },
+            {
+              "hebrew": "מִ/נֹּ֣א",
+              "strongs": "H4996",
+              "gloss": "than No"
+            },
+            {
+              "hebrew": "אָמ֔וֹן",
+              "strongs": "H528",
+              "gloss": "Amon"
+            },
+            {
+              "hebrew": "הַ/יֹּֽשְׁבָה֙",
+              "strongs": "H3427",
+              "gloss": "[That was] situated"
+            },
+            {
+              "hebrew": "בַּ/יְאֹרִ֔ים",
+              "strongs": "H2975",
+              "gloss": "by the River"
+            },
+            {
+              "hebrew": "מַ֖יִם",
+              "strongs": "H4325",
+              "gloss": "that had the waters"
+            },
+            {
+              "hebrew": "סָבִ֣יב",
+              "strongs": "H5439",
+              "gloss": "around"
+            },
+            {
+              "hebrew": "לָ֑/הּ",
+              "strongs": "",
+              "gloss": "Whose"
+            },
+            {
+              "hebrew": "אֲשֶׁר",
+              "strongs": "H834",
+              "gloss": "rampart [was]"
+            },
+            {
+              "hebrew": "חֵ֣יל",
+              "strongs": "H2426",
+              "gloss": "the sea"
+            },
+            {
+              "hebrew": "יָ֔ם",
+              "strongs": "H3220",
+              "gloss": "the sea"
+            },
+            {
+              "hebrew": "מִ/יָּ֖ם",
+              "strongs": "H3220",
+              "gloss": "Whose wall [was]"
+            },
+            {
+              "hebrew": "חוֹמָתָֽ/הּ",
+              "strongs": "H2346",
+              "gloss": "to press, afflict"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "words": [
+            {
+              "hebrew": "כּ֥וּשׁ",
+              "strongs": "H3568",
+              "gloss": "Ethiopia"
+            },
+            {
+              "hebrew": "עָצְמָ֛/ה",
+              "strongs": "H6109",
+              "gloss": "[were] her strength"
+            },
+            {
+              "hebrew": "וּ/מִצְרַ֖יִם",
+              "strongs": "H4714",
+              "gloss": "and Egypt"
+            },
+            {
+              "hebrew": "וְ/אֵ֣ין",
+              "strongs": "H369",
+              "gloss": "and"
+            },
+            {
+              "hebrew": "קֵ֑צֶה",
+              "strongs": "H7097",
+              "gloss": "[it was] boundless"
+            },
+            {
+              "hebrew": "פּ֣וּט",
+              "strongs": "H6316",
+              "gloss": "Libya"
+            },
+            {
+              "hebrew": "וְ/לוּבִ֔ים",
+              "strongs": "H3864",
+              "gloss": "and Lubim"
+            },
+            {
+              "hebrew": "הָי֖וּ",
+              "strongs": "H1961",
+              "gloss": "were"
+            },
+            {
+              "hebrew": "בְּ/עֶזְרָתֵֽ/ךְ",
+              "strongs": "H5833",
+              "gloss": "your helpers"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "words": [
+            {
+              "hebrew": "גַּם",
+              "strongs": "H1571",
+              "gloss": "Yet"
+            },
+            {
+              "hebrew": "הִ֗יא",
+              "strongs": "H1931",
+              "gloss": "she [was]"
+            },
+            {
+              "hebrew": "לַ/גֹּלָה֙",
+              "strongs": "H1473",
+              "gloss": "[carried away] captive"
+            },
+            {
+              "hebrew": "הָלְכָ֣ה",
+              "strongs": "H1980",
+              "gloss": "she went"
+            },
+            {
+              "hebrew": "בַ/שֶּׁ֔בִי",
+              "strongs": "H7628",
+              "gloss": "into captivity"
+            },
+            {
+              "hebrew": "גַּ֧ם",
+              "strongs": "H1571",
+              "gloss": "also"
+            },
+            {
+              "hebrew": "עֹלָלֶ֛י/הָ",
+              "strongs": "H5768",
+              "gloss": "Her young children"
+            },
+            {
+              "hebrew": "יְרֻטְּשׁ֖וּ",
+              "strongs": "H7376",
+              "gloss": "were dashed to pieces"
+            },
+            {
+              "hebrew": "בְּ/רֹ֣אשׁ",
+              "strongs": "H7218",
+              "gloss": "at the head"
+            },
+            {
+              "hebrew": "כָּל",
+              "strongs": "H3605",
+              "gloss": "of every"
+            },
+            {
+              "hebrew": "חוּצ֑וֹת",
+              "strongs": "H2351",
+              "gloss": "street"
+            },
+            {
+              "hebrew": "וְ/עַל",
+              "strongs": "H5921",
+              "gloss": "for"
+            },
+            {
+              "hebrew": "נִכְבַּדֶּ֨י/הָ֙",
+              "strongs": "H3513",
+              "gloss": "her honorable men"
+            },
+            {
+              "hebrew": "יַדּ֣וּ",
+              "strongs": "H3032",
+              "gloss": "they cast"
+            },
+            {
+              "hebrew": "גוֹרָ֔ל",
+              "strongs": "H1486",
+              "gloss": "lots"
+            },
+            {
+              "hebrew": "וְ/כָל",
+              "strongs": "H3605",
+              "gloss": "and all"
+            },
+            {
+              "hebrew": "גְּדוֹלֶ֖י/הָ",
+              "strongs": "H1419",
+              "gloss": "her great men"
+            },
+            {
+              "hebrew": "רֻתְּק֥וּ",
+              "strongs": "H7576",
+              "gloss": "were bound"
+            },
+            {
+              "hebrew": "בַ/זִּקִּֽים",
+              "strongs": "H2131",
+              "gloss": "in chains"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "words": [
+            {
+              "hebrew": "גַּם",
+              "strongs": "H1571",
+              "gloss": "Also"
+            },
+            {
+              "hebrew": "אַ֣תְּ",
+              "strongs": "H859",
+              "gloss": "You"
+            },
+            {
+              "hebrew": "תִּשְׁכְּרִ֔י",
+              "strongs": "H7937",
+              "gloss": "will be drunk"
+            },
+            {
+              "hebrew": "תְּהִ֖י",
+              "strongs": "H1961",
+              "gloss": "You will be"
+            },
+            {
+              "hebrew": "נַֽעֲלָמָ֑ה",
+              "strongs": "H5956",
+              "gloss": "hidden"
+            },
+            {
+              "hebrew": "גַּם",
+              "strongs": "H1571",
+              "gloss": "also"
+            },
+            {
+              "hebrew": "אַ֛תְּ",
+              "strongs": "H859",
+              "gloss": "You"
+            },
+            {
+              "hebrew": "תְּבַקְשִׁ֥י",
+              "strongs": "H1245",
+              "gloss": "will seek"
+            },
+            {
+              "hebrew": "מָע֖וֹז",
+              "strongs": "H4581",
+              "gloss": "refuge"
+            },
+            {
+              "hebrew": "מֵ/אוֹיֵֽב",
+              "strongs": "H341",
+              "gloss": "from the enemy"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "words": [
+            {
+              "hebrew": "כָּ֨ל",
+              "strongs": "H3605",
+              "gloss": "All"
+            },
+            {
+              "hebrew": "מִבְצָרַ֔יִ/ךְ",
+              "strongs": "H4013",
+              "gloss": "your strongholds [are]"
+            },
+            {
+              "hebrew": "תְּאֵנִ֖ים",
+              "strongs": "H8384",
+              "gloss": "fig trees"
+            },
+            {
+              "hebrew": "עִם",
+              "strongs": "H5973",
+              "gloss": "with"
+            },
+            {
+              "hebrew": "בִּכּוּרִ֑ים",
+              "strongs": "H1061",
+              "gloss": "ripened figs"
+            },
+            {
+              "hebrew": "אִם",
+              "strongs": "H518",
+              "gloss": "if"
+            },
+            {
+              "hebrew": "יִנּ֕וֹעוּ",
+              "strongs": "H5128",
+              "gloss": "they are shaken"
+            },
+            {
+              "hebrew": "וְ/נָפְל֖וּ",
+              "strongs": "H5307",
+              "gloss": "and they fall"
+            },
+            {
+              "hebrew": "עַל",
+              "strongs": "H5921",
+              "gloss": "into"
+            },
+            {
+              "hebrew": "פִּ֥י",
+              "strongs": "H6310",
+              "gloss": "the mouth"
+            },
+            {
+              "hebrew": "אוֹכֵֽל",
+              "strongs": "H398",
+              "gloss": "of the eater"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "words": [
+            {
+              "hebrew": "הִנֵּ֨ה",
+              "strongs": "H2009",
+              "gloss": "Surely"
+            },
+            {
+              "hebrew": "עַמֵּ֤/ךְ",
+              "strongs": "H5971",
+              "gloss": "your people"
+            },
+            {
+              "hebrew": "נָשִׁים֙",
+              "strongs": "H802",
+              "gloss": "[are] women"
+            },
+            {
+              "hebrew": "בְּ/קִרְבֵּ֔/ךְ",
+              "strongs": "H7130",
+              "gloss": "in your midst"
+            },
+            {
+              "hebrew": "לְ/אֹ֣יְבַ֔יִ/ךְ",
+              "strongs": "H341",
+              "gloss": "for your enemies"
+            },
+            {
+              "hebrew": "פָּת֥וֹחַ",
+              "strongs": "H6605",
+              "gloss": "wide"
+            },
+            {
+              "hebrew": "נִפְתְּח֖וּ",
+              "strongs": "H6605",
+              "gloss": "are open"
+            },
+            {
+              "hebrew": "שַׁעֲרֵ֣י",
+              "strongs": "H8179",
+              "gloss": "the gates"
+            },
+            {
+              "hebrew": "אַרְצֵ֑/ךְ",
+              "strongs": "H776",
+              "gloss": "of your land"
+            },
+            {
+              "hebrew": "אָכְלָ֥ה",
+              "strongs": "H398",
+              "gloss": "shall devour"
+            },
+            {
+              "hebrew": "אֵ֖שׁ",
+              "strongs": "H784",
+              "gloss": "Fire"
+            },
+            {
+              "hebrew": "בְּרִיחָֽיִ/ך",
+              "strongs": "H1280",
+              "gloss": "the bars of your [gates]"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "words": [
+            {
+              "hebrew": "מֵ֤י",
+              "strongs": "H4325",
+              "gloss": "Water"
+            },
+            {
+              "hebrew": "מָצוֹר֙",
+              "strongs": "H4692",
+              "gloss": "for the siege"
+            },
+            {
+              "hebrew": "שַֽׁאֲבִי",
+              "strongs": "H7579",
+              "gloss": "Draw"
+            },
+            {
+              "hebrew": "לָ֔/ךְ",
+              "strongs": "",
+              "gloss": "Fortify"
+            },
+            {
+              "hebrew": "חַזְּקִ֖י",
+              "strongs": "H2388",
+              "gloss": "your strongholds"
+            },
+            {
+              "hebrew": "מִבְצָרָ֑יִ/ךְ",
+              "strongs": "H4013",
+              "gloss": "go"
+            },
+            {
+              "hebrew": "בֹּ֧אִי",
+              "strongs": "H935",
+              "gloss": "into the clay"
+            },
+            {
+              "hebrew": "בַ/טִּ֛יט",
+              "strongs": "H2916",
+              "gloss": "and tread"
+            },
+            {
+              "hebrew": "וְ/רִמְסִ֥י",
+              "strongs": "H7429",
+              "gloss": "the mortar"
+            },
+            {
+              "hebrew": "בַ/חֹ֖מֶר",
+              "strongs": "H2563",
+              "gloss": "Make strong"
+            },
+            {
+              "hebrew": "הַחֲזִ֥יקִי",
+              "strongs": "H2388",
+              "gloss": "the brick [kiln]"
+            },
+            {
+              "hebrew": "מַלְבֵּֽן",
+              "strongs": "H4404",
+              "gloss": "early"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "words": [
+            {
+              "hebrew": "שָׁ֚ם",
+              "strongs": "H8033",
+              "gloss": "There"
+            },
+            {
+              "hebrew": "תֹּאכְלֵ֣/ךְ",
+              "strongs": "H398",
+              "gloss": "will devour you"
+            },
+            {
+              "hebrew": "אֵ֔שׁ",
+              "strongs": "H784",
+              "gloss": "the fire"
+            },
+            {
+              "hebrew": "תַּכְרִיתֵ֣/ךְ",
+              "strongs": "H3772",
+              "gloss": "will cut you off"
+            },
+            {
+              "hebrew": "חֶ֔רֶב",
+              "strongs": "H2719",
+              "gloss": "the sword"
+            },
+            {
+              "hebrew": "תֹּאכְלֵ֖/ךְ",
+              "strongs": "H398",
+              "gloss": "it will eat you up"
+            },
+            {
+              "hebrew": "כַּ/יָּ֑לֶק",
+              "strongs": "H3218",
+              "gloss": "like a locust"
+            },
+            {
+              "hebrew": "הִתְכַּבֵּ֣ד",
+              "strongs": "H3513",
+              "gloss": "Make yourself many"
+            },
+            {
+              "hebrew": "כַּ/יֶּ֔לֶק",
+              "strongs": "H3218",
+              "gloss": "like the locust"
+            },
+            {
+              "hebrew": "הִֽתְכַּבְּדִ֖י",
+              "strongs": "H3513",
+              "gloss": "Make yourself many"
+            },
+            {
+              "hebrew": "כָּ/אַרְבֶּֽה",
+              "strongs": "H697",
+              "gloss": "like the [swarming] locusts"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "words": [
+            {
+              "hebrew": "הִרְבֵּית֙",
+              "strongs": "H7235",
+              "gloss": "You have multiplied"
+            },
+            {
+              "hebrew": "רֹֽכְלַ֔יִ/ךְ",
+              "strongs": "H7402",
+              "gloss": "your merchants"
+            },
+            {
+              "hebrew": "מִ/כּוֹכְבֵ֖י",
+              "strongs": "H3556",
+              "gloss": "more than stars"
+            },
+            {
+              "hebrew": "הַ/שָּׁמָ֑יִם",
+              "strongs": "H8064",
+              "gloss": "of the heaven"
+            },
+            {
+              "hebrew": "יֶ֥לֶק",
+              "strongs": "H3218",
+              "gloss": "the locust"
+            },
+            {
+              "hebrew": "פָּשַׁ֖ט",
+              "strongs": "H6584",
+              "gloss": "plunders"
+            },
+            {
+              "hebrew": "וַ/יָּעֹֽף",
+              "strongs": "H5774",
+              "gloss": "and flies away"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "words": [
+            {
+              "hebrew": "מִנְּזָרַ֨יִ/ךְ֙",
+              "strongs": "H4502",
+              "gloss": "Your commanders [are]"
+            },
+            {
+              "hebrew": "כָּֽ/אַרְבֶּ֔ה",
+              "strongs": "H697",
+              "gloss": "like [swarming] locusts"
+            },
+            {
+              "hebrew": "וְ/טַפְסְרַ֖יִ/ךְ",
+              "strongs": "H2951",
+              "gloss": "and your generals"
+            },
+            {
+              "hebrew": "כְּ/ג֣וֹב",
+              "strongs": "H1462",
+              "gloss": "like grasshoppers"
+            },
+            {
+              "hebrew": "גֹּבָ֑י",
+              "strongs": "H1462",
+              "gloss": "great"
+            },
+            {
+              "hebrew": "הַֽ/חוֹנִ֤ים",
+              "strongs": "H2583",
+              "gloss": "which camp"
+            },
+            {
+              "hebrew": "בַּ/גְּדֵרוֹת֙",
+              "strongs": "H1448",
+              "gloss": "in the hedges"
+            },
+            {
+              "hebrew": "בְּ/י֣וֹם",
+              "strongs": "H3117",
+              "gloss": "on a day"
+            },
+            {
+              "hebrew": "קָרָ֔ה",
+              "strongs": "H7135",
+              "gloss": "cold"
+            },
+            {
+              "hebrew": "שֶׁ֤מֶשׁ",
+              "strongs": "H8121",
+              "gloss": "the sun"
+            },
+            {
+              "hebrew": "זָֽרְחָה֙",
+              "strongs": "H2224",
+              "gloss": "when rises"
+            },
+            {
+              "hebrew": "וְ/נוֹדַ֔ד",
+              "strongs": "H5074",
+              "gloss": "and they flee away"
+            },
+            {
+              "hebrew": "וְ/לֹֽא",
+              "strongs": "H3808",
+              "gloss": "and not"
+            },
+            {
+              "hebrew": "נוֹדַ֥ע",
+              "strongs": "H3045",
+              "gloss": "is known"
+            },
+            {
+              "hebrew": "מְקוֹמ֖/וֹ",
+              "strongs": "H4725",
+              "gloss": "the place"
+            },
+            {
+              "hebrew": "אַיָּֽ/ם",
+              "strongs": "H335",
+              "gloss": "where they [are]"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "words": [
+            {
+              "hebrew": "נָמ֤וּ",
+              "strongs": "H5123",
+              "gloss": "Slumber"
+            },
+            {
+              "hebrew": "רֹעֶ֨י/ךָ֙",
+              "strongs": "H7462",
+              "gloss": "Your shepherds"
+            },
+            {
+              "hebrew": "מֶ֣לֶךְ",
+              "strongs": "H4428",
+              "gloss": "king"
+            },
+            {
+              "hebrew": "אַשּׁ֔וּר",
+              "strongs": "H804",
+              "gloss": "of Assyria"
+            },
+            {
+              "hebrew": "יִשְׁכְּנ֖וּ",
+              "strongs": "H7931",
+              "gloss": "rest [in the dust]"
+            },
+            {
+              "hebrew": "אַדִּירֶ֑י/ךָ",
+              "strongs": "H117",
+              "gloss": "Your nobles"
+            },
+            {
+              "hebrew": "נָפֹ֧שׁוּ",
+              "strongs": "H6335",
+              "gloss": "are scattered"
+            },
+            {
+              "hebrew": "עַמְּ/ךָ֛",
+              "strongs": "H5971",
+              "gloss": "Your people"
+            },
+            {
+              "hebrew": "עַל",
+              "strongs": "H5921",
+              "gloss": "on"
+            },
+            {
+              "hebrew": "הֶ/הָרִ֖ים",
+              "strongs": "H2022",
+              "gloss": "the mountains"
+            },
+            {
+              "hebrew": "וְ/אֵ֥ין",
+              "strongs": "H369",
+              "gloss": "and no one"
+            },
+            {
+              "hebrew": "מְקַבֵּֽץ",
+              "strongs": "H6908",
+              "gloss": "gathers them"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "words": [
+            {
+              "hebrew": "אֵין",
+              "strongs": "H369",
+              "gloss": "No"
+            },
+            {
+              "hebrew": "כֵּהָ֣ה",
+              "strongs": "H3545",
+              "gloss": "healing"
+            },
+            {
+              "hebrew": "לְ/שִׁבְרֶ֔/ךָ",
+              "strongs": "H7667",
+              "gloss": "Your injury [has]"
+            },
+            {
+              "hebrew": "נַחְלָ֖ה",
+              "strongs": "H2470",
+              "gloss": "is severe"
+            },
+            {
+              "hebrew": "מַכָּתֶ֑/ךָ",
+              "strongs": "H4347",
+              "gloss": "Your wound"
+            },
+            {
+              "hebrew": "כֹּ֣ל",
+              "strongs": "H3605",
+              "gloss": "all"
+            },
+            {
+              "hebrew": "שֹׁמְעֵ֣י",
+              "strongs": "H8085",
+              "gloss": "who hear"
+            },
+            {
+              "hebrew": "שִׁמְעֲ/ךָ֗",
+              "strongs": "H8088",
+              "gloss": "news of you"
+            },
+            {
+              "hebrew": "תָּ֤קְעוּ",
+              "strongs": "H8628",
+              "gloss": "will clap"
+            },
+            {
+              "hebrew": "כַף֙",
+              "strongs": "H3709",
+              "gloss": "[their] hands"
+            },
+            {
+              "hebrew": "עָלֶ֔י/ךָ",
+              "strongs": "H5921",
+              "gloss": "over you"
+            },
+            {
+              "hebrew": "כִּ֗י",
+              "strongs": "H3588",
+              "gloss": "for"
+            },
+            {
+              "hebrew": "עַל",
+              "strongs": "H5921",
+              "gloss": "upon"
+            },
+            {
+              "hebrew": "מִ֛י",
+              "strongs": "H4310",
+              "gloss": "whom"
+            },
+            {
+              "hebrew": "לֹֽא",
+              "strongs": "H3808",
+              "gloss": "not"
+            },
+            {
+              "hebrew": "עָבְרָ֥ה",
+              "strongs": "H5674",
+              "gloss": "has passed"
+            },
+            {
+              "hebrew": "רָעָתְ/ךָ֖",
+              "strongs": "H7451",
+              "gloss": "your wickedness"
+            },
+            {
+              "hebrew": "תָּמִֽיד",
+              "strongs": "H8548",
+              "gloss": "continually"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
