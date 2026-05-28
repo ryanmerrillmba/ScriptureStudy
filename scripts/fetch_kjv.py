@@ -15,6 +15,17 @@ OT_SLUGS = [
     "haggai", "zechariah", "malachi",
 ]
 
+NT_SLUGS = [
+    "matthew", "mark", "luke", "john", "acts",
+    "romans", "1-corinthians", "2-corinthians", "galatians", "ephesians",
+    "philippians", "colossians", "1-thessalonians", "2-thessalonians",
+    "1-timothy", "2-timothy", "titus", "philemon", "hebrews",
+    "james", "1-peter", "2-peter", "1-john", "2-john", "3-john",
+    "jude", "revelation",
+]
+
+ALL_SLUGS = OT_SLUGS + NT_SLUGS
+
 BASE_URL = "https://raw.githubusercontent.com/aruljohn/Bible-kjv/master"
 
 
@@ -26,11 +37,20 @@ def kjv_github_filename(slug: str) -> str:
 
 
 def transform_book(raw: dict, slug: str) -> dict:
-    """Add slug field to the raw KJV JSON (schema already matches ours)."""
+    """Add slug field and normalize chapter/verse to int (raw data uses strings)."""
     return {
         "book": raw["book"],
         "slug": slug,
-        "chapters": raw["chapters"],
+        "chapters": [
+            {
+                "chapter": int(ch["chapter"]),
+                "verses": [
+                    {"verse": int(v["verse"]), "text": v["text"]}
+                    for v in ch["verses"]
+                ],
+            }
+            for ch in raw["chapters"]
+        ],
     }
 
 
@@ -38,7 +58,7 @@ def fetch_kjv(output_dir: str) -> None:
     out = Path(output_dir)
     out.mkdir(parents=True, exist_ok=True)
 
-    for slug in OT_SLUGS:
+    for slug in ALL_SLUGS:
         filename = kjv_github_filename(slug)
         url = f"{BASE_URL}/{filename}.json"
         print(f"  Fetching {url}...")

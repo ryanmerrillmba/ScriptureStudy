@@ -1,0 +1,7268 @@
+{
+  "book": "1 Peter",
+  "slug": "1-peter",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "words": [
+            {
+              "greek": "Πέτρος",
+              "gloss": "Peter"
+            },
+            {
+              "greek": "ἀπόστολος",
+              "gloss": "an apostle"
+            },
+            {
+              "greek": "Ἰησοῦ",
+              "gloss": "of Jesus"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "Christ"
+            },
+            {
+              "greek": "ἐκλεκτοῖς",
+              "gloss": "To [the] elect"
+            },
+            {
+              "greek": "παρεπιδήμοις",
+              "gloss": "sojourners"
+            },
+            {
+              "greek": "διασπορᾶς",
+              "gloss": "of [the] Dispersion"
+            },
+            {
+              "greek": "Πόντου",
+              "gloss": "of Pontus"
+            },
+            {
+              "greek": "Γαλατίας",
+              "gloss": "Galatia"
+            },
+            {
+              "greek": "Καππαδοκίας",
+              "gloss": "Cappadocia"
+            },
+            {
+              "greek": "Ἀσίας",
+              "gloss": "Asia"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "Βιθυνίας",
+              "gloss": "Bithynia"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "words": [
+            {
+              "greek": "κατὰ",
+              "gloss": "according to"
+            },
+            {
+              "greek": "πρόγνωσιν",
+              "gloss": "[the] foreknowledge"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "πατρός",
+              "gloss": "[the] Father"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "by"
+            },
+            {
+              "greek": "ἁγιασμῷ",
+              "gloss": "[the] sanctification"
+            },
+            {
+              "greek": "πνεύματος",
+              "gloss": "of [the] Spirit"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "unto"
+            },
+            {
+              "greek": "ὑπακοὴν",
+              "gloss": "[the] obedience"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ῥαντισμὸν",
+              "gloss": "sprinkling"
+            },
+            {
+              "greek": "αἵματος",
+              "gloss": "of [the] blood"
+            },
+            {
+              "greek": "Ἰησοῦ",
+              "gloss": "of Jesus"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "Christ"
+            },
+            {
+              "greek": "χάρις",
+              "gloss": "Grace"
+            },
+            {
+              "greek": "ὑμῖν",
+              "gloss": "to you"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "εἰρήνη",
+              "gloss": "peace"
+            },
+            {
+              "greek": "πληθυνθείη",
+              "gloss": "may be multiplied"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "words": [
+            {
+              "greek": "Εὐλογητὸς",
+              "gloss": "Blessed [be]"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the"
+            },
+            {
+              "greek": "θεὸς",
+              "gloss": "God"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "πατὴρ",
+              "gloss": "Father"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "of the"
+            },
+            {
+              "greek": "κυρίου",
+              "gloss": "Lord"
+            },
+            {
+              "greek": "ἡμῶν",
+              "gloss": "of us"
+            },
+            {
+              "greek": "Ἰησοῦ",
+              "gloss": "Jesus"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "Christ"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the [One]"
+            },
+            {
+              "greek": "κατὰ",
+              "gloss": "according to"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "πολὺ",
+              "gloss": "great"
+            },
+            {
+              "greek": "αὐτοῦ",
+              "gloss": "of Him"
+            },
+            {
+              "greek": "ἔλεος",
+              "gloss": "mercy"
+            },
+            {
+              "greek": "ἀναγεννήσας",
+              "gloss": "having begotten again"
+            },
+            {
+              "greek": "ἡμᾶς",
+              "gloss": "us"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "to"
+            },
+            {
+              "greek": "ἐλπίδα",
+              "gloss": "a hope"
+            },
+            {
+              "greek": "ζῶσαν",
+              "gloss": "living"
+            },
+            {
+              "greek": "δι’",
+              "gloss": "through"
+            },
+            {
+              "greek": "ἀναστάσεως",
+              "gloss": "[the] resurrection"
+            },
+            {
+              "greek": "Ἰησοῦ",
+              "gloss": "of Jesus"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "Christ"
+            },
+            {
+              "greek": "ἐκ",
+              "gloss": "out from"
+            },
+            {
+              "greek": "νεκρῶν",
+              "gloss": "[the] dead"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "words": [
+            {
+              "greek": "εἰς",
+              "gloss": "to"
+            },
+            {
+              "greek": "κληρονομίαν",
+              "gloss": "an inheritance"
+            },
+            {
+              "greek": "ἄφθαρτον",
+              "gloss": "imperishable"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ἀμίαντον",
+              "gloss": "undefiled"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ἀμάραντον",
+              "gloss": "unfading"
+            },
+            {
+              "greek": "τετηρημένην",
+              "gloss": "being reserved"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "οὐρανοῖς",
+              "gloss": "[the] heavens"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "for"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "words": [
+            {
+              "greek": "τοὺς",
+              "gloss": "who"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "by"
+            },
+            {
+              "greek": "δυνάμει",
+              "gloss": "[the] power"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "φρουρουμένους",
+              "gloss": "[are] being guarded"
+            },
+            {
+              "greek": "διὰ",
+              "gloss": "through"
+            },
+            {
+              "greek": "πίστεως",
+              "gloss": "faith"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "for"
+            },
+            {
+              "greek": "σωτηρίαν",
+              "gloss": "[the] salvation"
+            },
+            {
+              "greek": "ἑτοίμην",
+              "gloss": "ready"
+            },
+            {
+              "greek": "ἀποκαλυφθῆναι",
+              "gloss": "to be revealed"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "καιρῷ",
+              "gloss": "[the] time"
+            },
+            {
+              "greek": "ἐσχάτῳ",
+              "gloss": "last"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "words": [
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "ᾧ",
+              "gloss": "which"
+            },
+            {
+              "greek": "ἀγαλλιᾶσθε",
+              "gloss": "you greatly rejoice"
+            },
+            {
+              "greek": "ὀλίγον",
+              "gloss": "for a little while"
+            },
+            {
+              "greek": "ἄρτι",
+              "gloss": "at present"
+            },
+            {
+              "greek": "εἰ",
+              "gloss": "if"
+            },
+            {
+              "greek": "δέον",
+              "gloss": "being necessary"
+            },
+            {
+              "greek": "λυπηθέντες",
+              "gloss": "it is"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "having been put to grief"
+            },
+            {
+              "greek": "ποικίλοις",
+              "gloss": "by"
+            },
+            {
+              "greek": "πειρασμοῖς",
+              "gloss": "various"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "words": [
+            {
+              "greek": "ἵνα",
+              "gloss": "so that"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "δοκίμιον",
+              "gloss": "proven genuineness"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of your"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "-"
+            },
+            {
+              "greek": "πίστεως",
+              "gloss": "faith"
+            },
+            {
+              "greek": "πολυτιμότερον",
+              "gloss": "more precious"
+            },
+            {
+              "greek": "χρυσίου",
+              "gloss": "than gold"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "ἀπολλυμένου",
+              "gloss": "perishing"
+            },
+            {
+              "greek": "διὰ",
+              "gloss": "by"
+            },
+            {
+              "greek": "πυρὸς",
+              "gloss": "fire"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "though"
+            },
+            {
+              "greek": "δοκιμαζομένου",
+              "gloss": "being refined"
+            },
+            {
+              "greek": "εὑρεθῇ",
+              "gloss": "may be discovered"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "to result in"
+            },
+            {
+              "greek": "ἔπαινον",
+              "gloss": "praise"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "δόξαν",
+              "gloss": "glory"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "τιμὴν",
+              "gloss": "honor"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "ἀποκαλύψει",
+              "gloss": "[the] revelation"
+            },
+            {
+              "greek": "Ἰησοῦ",
+              "gloss": "of Jesus"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "Christ"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "words": [
+            {
+              "greek": "ὃν",
+              "gloss": "whom"
+            },
+            {
+              "greek": "οὐκ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ἰδόντες",
+              "gloss": "having seen"
+            },
+            {
+              "greek": "ἀγαπᾶτε",
+              "gloss": "you love"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "on"
+            },
+            {
+              "greek": "ὃν",
+              "gloss": "whom"
+            },
+            {
+              "greek": "ἄρτι",
+              "gloss": "now [though]"
+            },
+            {
+              "greek": "μὴ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ὁρῶντες",
+              "gloss": "seeing"
+            },
+            {
+              "greek": "πιστεύοντες",
+              "gloss": "believing"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "now"
+            },
+            {
+              "greek": "ἀγαλλιᾶσθε",
+              "gloss": "you exult"
+            },
+            {
+              "greek": "χαρᾷ",
+              "gloss": "with joy"
+            },
+            {
+              "greek": "ἀνεκλαλήτῳ",
+              "gloss": "inexpressible"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "δεδοξασμένῃ",
+              "gloss": "filled with glory"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "words": [
+            {
+              "greek": "κομιζόμενοι",
+              "gloss": "receiving"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "τέλος",
+              "gloss": "outcome"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "of the"
+            },
+            {
+              "greek": "πίστεως",
+              "gloss": "faith"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            },
+            {
+              "greek": "σωτηρίαν",
+              "gloss": "[the] salvation"
+            },
+            {
+              "greek": "ψυχῶν",
+              "gloss": "of [your] souls"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "words": [
+            {
+              "greek": "Περὶ",
+              "gloss": "Concerning"
+            },
+            {
+              "greek": "ἧς",
+              "gloss": "this"
+            },
+            {
+              "greek": "σωτηρίας",
+              "gloss": "salvation"
+            },
+            {
+              "greek": "ἐξεζήτησαν",
+              "gloss": "sought out"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ἐξηραύνησαν",
+              "gloss": "searched out diligently"
+            },
+            {
+              "greek": "προφῆται",
+              "gloss": "[the] prophets"
+            },
+            {
+              "greek": "οἱ",
+              "gloss": "-"
+            },
+            {
+              "greek": "περὶ",
+              "gloss": "of"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "the"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "toward"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            },
+            {
+              "greek": "χάριτος",
+              "gloss": "grace"
+            },
+            {
+              "greek": "προφητεύσαντες",
+              "gloss": "having prophesied"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "words": [
+            {
+              "greek": "ἐραυνῶντες",
+              "gloss": "inquiring"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "into"
+            },
+            {
+              "greek": "τίνα",
+              "gloss": "what"
+            },
+            {
+              "greek": "ἢ",
+              "gloss": "or"
+            },
+            {
+              "greek": "ποῖον",
+              "gloss": "what manner of"
+            },
+            {
+              "greek": "καιρὸν",
+              "gloss": "time"
+            },
+            {
+              "greek": "ἐδήλου",
+              "gloss": "was signifying"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "αὐτοῖς",
+              "gloss": "them"
+            },
+            {
+              "greek": "πνεῦμα",
+              "gloss": "Spirit"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "of Christ"
+            },
+            {
+              "greek": "προμαρτυρόμενον",
+              "gloss": "testifying beforehand"
+            },
+            {
+              "greek": "τὰ",
+              "gloss": "-"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "unto"
+            },
+            {
+              "greek": "Χριστὸν",
+              "gloss": "Christ's"
+            },
+            {
+              "greek": "παθήματα",
+              "gloss": "sufferings"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "τὰς",
+              "gloss": "the"
+            },
+            {
+              "greek": "μετὰ",
+              "gloss": "after"
+            },
+            {
+              "greek": "ταῦτα",
+              "gloss": "these"
+            },
+            {
+              "greek": "δόξας",
+              "gloss": "glories"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "words": [
+            {
+              "greek": "οἷς",
+              "gloss": "to whom"
+            },
+            {
+              "greek": "ἀπεκαλύφθη",
+              "gloss": "it was revealed"
+            },
+            {
+              "greek": "ὅτι",
+              "gloss": "that"
+            },
+            {
+              "greek": "οὐχ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ἑαυτοῖς",
+              "gloss": "themselves"
+            },
+            {
+              "greek": "ὑμῖν",
+              "gloss": "you"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "διηκόνουν",
+              "gloss": "they were serving"
+            },
+            {
+              "greek": "αὐτά",
+              "gloss": "in those things"
+            },
+            {
+              "greek": "ἃ",
+              "gloss": "which"
+            },
+            {
+              "greek": "νῦν",
+              "gloss": "now"
+            },
+            {
+              "greek": "ἀνηγγέλη",
+              "gloss": "have been proclaimed"
+            },
+            {
+              "greek": "ὑμῖν",
+              "gloss": "to you"
+            },
+            {
+              "greek": "διὰ",
+              "gloss": "by"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "those"
+            },
+            {
+              "greek": "εὐαγγελισαμένων",
+              "gloss": "having proclaimed the gospel to"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            },
+            {
+              "greek": "πνεύματι",
+              "gloss": "by"
+            },
+            {
+              "greek": "ἁγίῳ",
+              "gloss": "[the] Spirit"
+            },
+            {
+              "greek": "ἀποσταλέντι",
+              "gloss": "Holy"
+            },
+            {
+              "greek": "ἀπ’",
+              "gloss": "having been sent"
+            },
+            {
+              "greek": "οὐρανοῦ",
+              "gloss": "from"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "heaven"
+            },
+            {
+              "greek": "ἃ",
+              "gloss": "into"
+            },
+            {
+              "greek": "ἐπιθυμοῦσιν",
+              "gloss": "which"
+            },
+            {
+              "greek": "ἄγγελοι",
+              "gloss": "desire"
+            },
+            {
+              "greek": "παρακύψαι",
+              "gloss": "angels"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "words": [
+            {
+              "greek": "Διὸ",
+              "gloss": "Therefore"
+            },
+            {
+              "greek": "ἀναζωσάμενοι",
+              "gloss": "having girded up"
+            },
+            {
+              "greek": "τὰς",
+              "gloss": "the"
+            },
+            {
+              "greek": "ὀσφύας",
+              "gloss": "loins"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "of the"
+            },
+            {
+              "greek": "διανοίας",
+              "gloss": "mind"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            },
+            {
+              "greek": "νήφοντες",
+              "gloss": "being sober-minded"
+            },
+            {
+              "greek": "τελείως",
+              "gloss": "fully"
+            },
+            {
+              "greek": "ἐλπίσατε",
+              "gloss": "set [your] hope"
+            },
+            {
+              "greek": "ἐπὶ",
+              "gloss": "upon"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "the"
+            },
+            {
+              "greek": "φερομένην",
+              "gloss": "being brought"
+            },
+            {
+              "greek": "ὑμῖν",
+              "gloss": "to you"
+            },
+            {
+              "greek": "χάριν",
+              "gloss": "grace"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "ἀποκαλύψει",
+              "gloss": "[the] revelation"
+            },
+            {
+              "greek": "Ἰησοῦ",
+              "gloss": "of Jesus"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "Christ"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "words": [
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "τέκνα",
+              "gloss": "children"
+            },
+            {
+              "greek": "ὑπακοῆς",
+              "gloss": "of obedience"
+            },
+            {
+              "greek": "μὴ",
+              "gloss": "not"
+            },
+            {
+              "greek": "συσχηματιζόμενοι",
+              "gloss": "fashioning yourselves"
+            },
+            {
+              "greek": "ταῖς",
+              "gloss": "to the"
+            },
+            {
+              "greek": "πρότερον",
+              "gloss": "former"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "τῇ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἀγνοίᾳ",
+              "gloss": "ignorance"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            },
+            {
+              "greek": "ἐπιθυμίαις",
+              "gloss": "desires"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "words": [
+            {
+              "greek": "ἀλλὰ",
+              "gloss": "But"
+            },
+            {
+              "greek": "κατὰ",
+              "gloss": "as"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "the [One]"
+            },
+            {
+              "greek": "καλέσαντα",
+              "gloss": "having called"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            },
+            {
+              "greek": "ἅγιον",
+              "gloss": "[is] holy"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "αὐτοὶ",
+              "gloss": "yourselves"
+            },
+            {
+              "greek": "ἅγιοι",
+              "gloss": "holy"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "πάσῃ",
+              "gloss": "all"
+            },
+            {
+              "greek": "ἀναστροφῇ",
+              "gloss": "[your] conduct"
+            },
+            {
+              "greek": "γενήθητε",
+              "gloss": "be"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "words": [
+            {
+              "greek": "διότι",
+              "gloss": "because"
+            },
+            {
+              "greek": "γέγραπται",
+              "gloss": "it has been written"
+            },
+            {
+              "greek": "ὅτι",
+              "gloss": "-"
+            },
+            {
+              "greek": "Ἅγιοι",
+              "gloss": "Holy"
+            },
+            {
+              "greek": "ἔσεσθε",
+              "gloss": "you shall be"
+            },
+            {
+              "greek": "ὅτι",
+              "gloss": "because"
+            },
+            {
+              "greek": "ἐγὼ",
+              "gloss": "I"
+            },
+            {
+              "greek": "ἅγιος",
+              "gloss": "holy"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "words": [
+            {
+              "greek": "Καὶ",
+              "gloss": "And"
+            },
+            {
+              "greek": "εἰ",
+              "gloss": "if"
+            },
+            {
+              "greek": "πατέρα",
+              "gloss": "[as] Father"
+            },
+            {
+              "greek": "ἐπικαλεῖσθε",
+              "gloss": "you call on"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "the [One]"
+            },
+            {
+              "greek": "ἀπροσωπολήμπτως",
+              "gloss": "impartially"
+            },
+            {
+              "greek": "κρίνοντα",
+              "gloss": "judging"
+            },
+            {
+              "greek": "κατὰ",
+              "gloss": "according to"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἑκάστου",
+              "gloss": "of each"
+            },
+            {
+              "greek": "ἔργον",
+              "gloss": "work"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "φόβῳ",
+              "gloss": "fear"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "during the"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "of the"
+            },
+            {
+              "greek": "παροικίας",
+              "gloss": "sojourn"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            },
+            {
+              "greek": "χρόνον",
+              "gloss": "time"
+            },
+            {
+              "greek": "ἀναστράφητε",
+              "gloss": "conduct yourselves"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "words": [
+            {
+              "greek": "εἰδότες",
+              "gloss": "knowing"
+            },
+            {
+              "greek": "ὅτι",
+              "gloss": "that"
+            },
+            {
+              "greek": "οὐ",
+              "gloss": "not"
+            },
+            {
+              "greek": "φθαρτοῖς",
+              "gloss": "by perishable things"
+            },
+            {
+              "greek": "ἀργυρίῳ",
+              "gloss": "by silver"
+            },
+            {
+              "greek": "ἢ",
+              "gloss": "or"
+            },
+            {
+              "greek": "χρυσίῳ",
+              "gloss": "by gold"
+            },
+            {
+              "greek": "ἐλυτρώθητε",
+              "gloss": "you were redeemed"
+            },
+            {
+              "greek": "ἐκ",
+              "gloss": "from"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "the"
+            },
+            {
+              "greek": "ματαίας",
+              "gloss": "futile"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            },
+            {
+              "greek": "ἀναστροφῆς",
+              "gloss": "manner of life"
+            },
+            {
+              "greek": "πατροπαραδότου",
+              "gloss": "handed down from [your] fathers"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "words": [
+            {
+              "greek": "ἀλλὰ",
+              "gloss": "but"
+            },
+            {
+              "greek": "τιμίῳ",
+              "gloss": "by [the] precious"
+            },
+            {
+              "greek": "αἵματι",
+              "gloss": "blood"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "ἀμνοῦ",
+              "gloss": "of a lamb"
+            },
+            {
+              "greek": "ἀμώμου",
+              "gloss": "without blemish"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ἀσπίλου",
+              "gloss": "without spot"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "of Christ"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "words": [
+            {
+              "greek": "προεγνωσμένου",
+              "gloss": "having been foreknown"
+            },
+            {
+              "greek": "μὲν",
+              "gloss": "indeed"
+            },
+            {
+              "greek": "πρὸ",
+              "gloss": "before"
+            },
+            {
+              "greek": "καταβολῆς",
+              "gloss": "[the] foundation"
+            },
+            {
+              "greek": "κόσμου",
+              "gloss": "of [the] world"
+            },
+            {
+              "greek": "φανερωθέντος",
+              "gloss": "having been revealed"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "ἐπ’",
+              "gloss": "in"
+            },
+            {
+              "greek": "ἐσχάτου",
+              "gloss": "[the] last"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "-"
+            },
+            {
+              "greek": "χρόνων",
+              "gloss": "times"
+            },
+            {
+              "greek": "δι’",
+              "gloss": "for the sake of"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "words": [
+            {
+              "greek": "τοὺς",
+              "gloss": "who"
+            },
+            {
+              "greek": "δι’",
+              "gloss": "by"
+            },
+            {
+              "greek": "αὐτοῦ",
+              "gloss": "Him"
+            },
+            {
+              "greek": "πιστοὺς",
+              "gloss": "believe"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "in"
+            },
+            {
+              "greek": "θεὸν",
+              "gloss": "God"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "the [one]"
+            },
+            {
+              "greek": "ἐγείραντα",
+              "gloss": "having raised up"
+            },
+            {
+              "greek": "αὐτὸν",
+              "gloss": "Him"
+            },
+            {
+              "greek": "ἐκ",
+              "gloss": "out from"
+            },
+            {
+              "greek": "νεκρῶν",
+              "gloss": "[the] dead"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "δόξαν",
+              "gloss": "glory"
+            },
+            {
+              "greek": "αὐτῷ",
+              "gloss": "Him"
+            },
+            {
+              "greek": "δόντα",
+              "gloss": "having given"
+            },
+            {
+              "greek": "ὥστε",
+              "gloss": "so as for"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "the"
+            },
+            {
+              "greek": "πίστιν",
+              "gloss": "faith"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ἐλπίδα",
+              "gloss": "hope"
+            },
+            {
+              "greek": "εἶναι",
+              "gloss": "to be"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "in"
+            },
+            {
+              "greek": "θεόν",
+              "gloss": "God"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "words": [
+            {
+              "greek": "Τὰς",
+              "gloss": "The"
+            },
+            {
+              "greek": "ψυχὰς",
+              "gloss": "souls"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            },
+            {
+              "greek": "ἡγνικότες",
+              "gloss": "having purified"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "by"
+            },
+            {
+              "greek": "τῇ",
+              "gloss": "-"
+            },
+            {
+              "greek": "ὑπακοῇ",
+              "gloss": "obedience"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "to the"
+            },
+            {
+              "greek": "ἀληθείας",
+              "gloss": "truth"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "unto"
+            },
+            {
+              "greek": "φιλαδελφίαν",
+              "gloss": "brotherly love"
+            },
+            {
+              "greek": "ἀνυπόκριτον",
+              "gloss": "sincere"
+            },
+            {
+              "greek": "ἐκ",
+              "gloss": "out of"
+            },
+            {
+              "greek": "καρδίας",
+              "gloss": "purity"
+            },
+            {
+              "greek": "ἀλλήλους",
+              "gloss": "of heart"
+            },
+            {
+              "greek": "ἀγαπήσατε",
+              "gloss": "one another"
+            },
+            {
+              "greek": "ἐκτενῶς",
+              "gloss": "love"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "words": [
+            {
+              "greek": "ἀναγεγεννημένοι",
+              "gloss": "Having been born again"
+            },
+            {
+              "greek": "οὐκ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ἐκ",
+              "gloss": "of"
+            },
+            {
+              "greek": "σπορᾶς",
+              "gloss": "seed"
+            },
+            {
+              "greek": "φθαρτῆς",
+              "gloss": "perishable"
+            },
+            {
+              "greek": "ἀλλὰ",
+              "gloss": "but"
+            },
+            {
+              "greek": "ἀφθάρτου",
+              "gloss": "of imperishable"
+            },
+            {
+              "greek": "διὰ",
+              "gloss": "by"
+            },
+            {
+              "greek": "λόγου",
+              "gloss": "[the] word"
+            },
+            {
+              "greek": "ζῶντος",
+              "gloss": "living"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "μένοντος",
+              "gloss": "abiding"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "words": [
+            {
+              "greek": "διότι",
+              "gloss": "because"
+            },
+            {
+              "greek": "πᾶσα",
+              "gloss": "All"
+            },
+            {
+              "greek": "σὰρξ",
+              "gloss": "flesh [is]"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "like"
+            },
+            {
+              "greek": "χόρτος",
+              "gloss": "grass"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "πᾶσα",
+              "gloss": "all"
+            },
+            {
+              "greek": "δόξα",
+              "gloss": "[the] glory"
+            },
+            {
+              "greek": "αὐτῆς",
+              "gloss": "of it"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "like"
+            },
+            {
+              "greek": "ἄνθος",
+              "gloss": "[the] flower"
+            },
+            {
+              "greek": "χόρτου",
+              "gloss": "of grass"
+            },
+            {
+              "greek": "ἐξηράνθη",
+              "gloss": "Withers"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the"
+            },
+            {
+              "greek": "χόρτος",
+              "gloss": "grass"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἄνθος",
+              "gloss": "flower"
+            },
+            {
+              "greek": "ἐξέπεσεν",
+              "gloss": "falls away"
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "words": [
+            {
+              "greek": "τὸ",
+              "gloss": "-"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "but"
+            },
+            {
+              "greek": "ῥῆμα",
+              "gloss": "the word"
+            },
+            {
+              "greek": "κυρίου",
+              "gloss": "of [the] Lord"
+            },
+            {
+              "greek": "μένει",
+              "gloss": "abides"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "to"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "the"
+            },
+            {
+              "greek": "αἰῶνα",
+              "gloss": "age"
+            },
+            {
+              "greek": "τοῦτο",
+              "gloss": "This"
+            },
+            {
+              "greek": "δέ",
+              "gloss": "now"
+            },
+            {
+              "greek": "ἐστιν",
+              "gloss": "is"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ῥῆμα",
+              "gloss": "word"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "-"
+            },
+            {
+              "greek": "εὐαγγελισθὲν",
+              "gloss": "having been proclaimed"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "to"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "words": [
+            {
+              "greek": "Ἀποθέμενοι",
+              "gloss": "Having put aside"
+            },
+            {
+              "greek": "οὖν",
+              "gloss": "therefore"
+            },
+            {
+              "greek": "πᾶσαν",
+              "gloss": "all"
+            },
+            {
+              "greek": "κακίαν",
+              "gloss": "malice"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "πάντα",
+              "gloss": "all"
+            },
+            {
+              "greek": "δόλον",
+              "gloss": "deceit"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ὑποκρίσεις",
+              "gloss": "hypocrisy"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "φθόνους",
+              "gloss": "envies"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "πάσας",
+              "gloss": "all"
+            },
+            {
+              "greek": "καταλαλιάς",
+              "gloss": "evil speakings"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "words": [
+            {
+              "greek": "ὡς",
+              "gloss": "like"
+            },
+            {
+              "greek": "ἀρτιγέννητα",
+              "gloss": "newborn"
+            },
+            {
+              "greek": "βρέφη",
+              "gloss": "babies"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "-"
+            },
+            {
+              "greek": "λογικὸν",
+              "gloss": "reasonable"
+            },
+            {
+              "greek": "ἄδολον",
+              "gloss": "pure"
+            },
+            {
+              "greek": "γάλα",
+              "gloss": "milk"
+            },
+            {
+              "greek": "ἐπιποθήσατε",
+              "gloss": "crave"
+            },
+            {
+              "greek": "ἵνα",
+              "gloss": "so that"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "by"
+            },
+            {
+              "greek": "αὐτῷ",
+              "gloss": "it"
+            },
+            {
+              "greek": "αὐξηθῆτε",
+              "gloss": "you may grow up"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "in respect to"
+            },
+            {
+              "greek": "σωτηρίαν",
+              "gloss": "salvation"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "words": [
+            {
+              "greek": "εἰ",
+              "gloss": "if indeed"
+            },
+            {
+              "greek": "ἐγεύσασθε",
+              "gloss": "you have tasted"
+            },
+            {
+              "greek": "ὅτι",
+              "gloss": "that"
+            },
+            {
+              "greek": "χρηστὸς",
+              "gloss": "[is] good"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the"
+            },
+            {
+              "greek": "κύριος",
+              "gloss": "Lord"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "words": [
+            {
+              "greek": "Πρὸς",
+              "gloss": "To"
+            },
+            {
+              "greek": "ὃν",
+              "gloss": "whom"
+            },
+            {
+              "greek": "προσερχόμενοι",
+              "gloss": "coming"
+            },
+            {
+              "greek": "λίθον",
+              "gloss": "a stone"
+            },
+            {
+              "greek": "ζῶντα",
+              "gloss": "living"
+            },
+            {
+              "greek": "ὑπὸ",
+              "gloss": "by"
+            },
+            {
+              "greek": "ἀνθρώπων",
+              "gloss": "men"
+            },
+            {
+              "greek": "μὲν",
+              "gloss": "indeed"
+            },
+            {
+              "greek": "ἀποδεδοκιμασμένον",
+              "gloss": "rejected"
+            },
+            {
+              "greek": "παρὰ",
+              "gloss": "in the sight of"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "θεῷ",
+              "gloss": "God"
+            },
+            {
+              "greek": "ἐκλεκτὸν",
+              "gloss": "chosen"
+            },
+            {
+              "greek": "ἔντιμον",
+              "gloss": "[and] precious"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "words": [
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "αὐτοὶ",
+              "gloss": "you yourselves"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "λίθοι",
+              "gloss": "stones"
+            },
+            {
+              "greek": "ζῶντες",
+              "gloss": "living"
+            },
+            {
+              "greek": "οἰκοδομεῖσθε",
+              "gloss": "are being built up"
+            },
+            {
+              "greek": "οἶκος",
+              "gloss": "as a house"
+            },
+            {
+              "greek": "πνευματικὸς",
+              "gloss": "spiritual"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "into"
+            },
+            {
+              "greek": "ἱεράτευμα",
+              "gloss": "a priesthood"
+            },
+            {
+              "greek": "ἅγιον",
+              "gloss": "holy"
+            },
+            {
+              "greek": "ἀνενέγκαι",
+              "gloss": "to offer"
+            },
+            {
+              "greek": "πνευματικὰς",
+              "gloss": "spiritual"
+            },
+            {
+              "greek": "θυσίας",
+              "gloss": "sacrifices"
+            },
+            {
+              "greek": "εὐπροσδέκτους",
+              "gloss": "acceptable"
+            },
+            {
+              "greek": "θεῷ",
+              "gloss": "-"
+            },
+            {
+              "greek": "διὰ",
+              "gloss": "to God"
+            },
+            {
+              "greek": "Ἰησοῦ",
+              "gloss": "through"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "Jesus"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "words": [
+            {
+              "greek": "διότι",
+              "gloss": "Therefore"
+            },
+            {
+              "greek": "περιέχει",
+              "gloss": "it is contained"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "γραφῇ",
+              "gloss": "Scripture"
+            },
+            {
+              "greek": "Ἰδοὺ",
+              "gloss": "Behold"
+            },
+            {
+              "greek": "τίθημι",
+              "gloss": "I lay"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "Σιὼν",
+              "gloss": "Zion"
+            },
+            {
+              "greek": "λίθον",
+              "gloss": "a stone"
+            },
+            {
+              "greek": "ἀκρογωνιαῖον",
+              "gloss": "a chosen"
+            },
+            {
+              "greek": "ἐκλεκτὸν",
+              "gloss": "cornerstone"
+            },
+            {
+              "greek": "ἔντιμον",
+              "gloss": "precious"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the [one]"
+            },
+            {
+              "greek": "πιστεύων",
+              "gloss": "believing"
+            },
+            {
+              "greek": "ἐπ’",
+              "gloss": "on"
+            },
+            {
+              "greek": "αὐτῷ",
+              "gloss": "Him"
+            },
+            {
+              "greek": "οὐ",
+              "gloss": "no"
+            },
+            {
+              "greek": "μὴ",
+              "gloss": "not"
+            },
+            {
+              "greek": "καταισχυνθῇ",
+              "gloss": "shall be put to shame"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "words": [
+            {
+              "greek": "ὑμῖν",
+              "gloss": "To you"
+            },
+            {
+              "greek": "οὖν",
+              "gloss": "therefore [is]"
+            },
+            {
+              "greek": "ἡ",
+              "gloss": "the"
+            },
+            {
+              "greek": "τιμὴ",
+              "gloss": "preciousness"
+            },
+            {
+              "greek": "τοῖς",
+              "gloss": "-"
+            },
+            {
+              "greek": "πιστεύουσιν",
+              "gloss": "believing"
+            },
+            {
+              "greek": "ἀπιστοῦσιν",
+              "gloss": "[to those] disobeying"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "λίθος",
+              "gloss": "[The] stone"
+            },
+            {
+              "greek": "ὃν",
+              "gloss": "which"
+            },
+            {
+              "greek": "ἀπεδοκίμασαν",
+              "gloss": "have rejected"
+            },
+            {
+              "greek": "οἱ",
+              "gloss": "those"
+            },
+            {
+              "greek": "οἰκοδομοῦντες",
+              "gloss": "building"
+            },
+            {
+              "greek": "οὗτος",
+              "gloss": "this"
+            },
+            {
+              "greek": "ἐγενήθη",
+              "gloss": "has become"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "into"
+            },
+            {
+              "greek": "κεφαλὴν",
+              "gloss": "[the] head"
+            },
+            {
+              "greek": "γωνίας",
+              "gloss": "of [the] corner"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "words": [
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "λίθος",
+              "gloss": "A stone"
+            },
+            {
+              "greek": "προσκόμματος",
+              "gloss": "of stumbling"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "πέτρα",
+              "gloss": "a rock"
+            },
+            {
+              "greek": "σκανδάλου",
+              "gloss": "of offense"
+            },
+            {
+              "greek": "οἳ",
+              "gloss": "[They]"
+            },
+            {
+              "greek": "προσκόπτουσιν",
+              "gloss": "stumble at"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "to the"
+            },
+            {
+              "greek": "λόγῳ",
+              "gloss": "word"
+            },
+            {
+              "greek": "ἀπειθοῦντες",
+              "gloss": "being disobedient"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "to"
+            },
+            {
+              "greek": "ὃ",
+              "gloss": "which"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "ἐτέθησαν",
+              "gloss": "they were appointed"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "words": [
+            {
+              "greek": "Ὑμεῖς",
+              "gloss": "You"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "γένος",
+              "gloss": "[are] a race"
+            },
+            {
+              "greek": "ἐκλεκτόν",
+              "gloss": "chosen"
+            },
+            {
+              "greek": "βασίλειον",
+              "gloss": "a royal"
+            },
+            {
+              "greek": "ἱεράτευμα",
+              "gloss": "priesthood"
+            },
+            {
+              "greek": "ἔθνος",
+              "gloss": "a nation"
+            },
+            {
+              "greek": "ἅγιον",
+              "gloss": "holy"
+            },
+            {
+              "greek": "λαὸς",
+              "gloss": "a people"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "for [His]"
+            },
+            {
+              "greek": "περιποίησιν",
+              "gloss": "possession"
+            },
+            {
+              "greek": "ὅπως",
+              "gloss": "so that"
+            },
+            {
+              "greek": "τὰς",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἀρετὰς",
+              "gloss": "excellencies"
+            },
+            {
+              "greek": "ἐξαγγείλητε",
+              "gloss": "you may proclaim"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "of the [One]"
+            },
+            {
+              "greek": "ἐκ",
+              "gloss": "out of"
+            },
+            {
+              "greek": "σκότους",
+              "gloss": "darkness"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            },
+            {
+              "greek": "καλέσαντος",
+              "gloss": "having called"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "to"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "θαυμαστὸν",
+              "gloss": "marvelous"
+            },
+            {
+              "greek": "αὐτοῦ",
+              "gloss": "of Him"
+            },
+            {
+              "greek": "φῶς",
+              "gloss": "light"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "words": [
+            {
+              "greek": "οἵ",
+              "gloss": "who"
+            },
+            {
+              "greek": "ποτε",
+              "gloss": "once [were]"
+            },
+            {
+              "greek": "οὐ",
+              "gloss": "not"
+            },
+            {
+              "greek": "λαὸς",
+              "gloss": "a people"
+            },
+            {
+              "greek": "νῦν",
+              "gloss": "now"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "λαὸς",
+              "gloss": "[the] people"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "οἱ",
+              "gloss": "those"
+            },
+            {
+              "greek": "οὐκ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ἠλεημένοι",
+              "gloss": "having received mercy"
+            },
+            {
+              "greek": "νῦν",
+              "gloss": "now"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "ἐλεηθέντες",
+              "gloss": "having received mercy"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "words": [
+            {
+              "greek": "Ἀγαπητοί",
+              "gloss": "Beloved"
+            },
+            {
+              "greek": "παρακαλῶ",
+              "gloss": "I exhort [you]"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "παροίκους",
+              "gloss": "aliens"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "παρεπιδήμους",
+              "gloss": "sojourners"
+            },
+            {
+              "greek": "ἀπέχεσθαι",
+              "gloss": "to abstain"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "from"
+            },
+            {
+              "greek": "σαρκικῶν",
+              "gloss": "fleshly"
+            },
+            {
+              "greek": "ἐπιθυμιῶν",
+              "gloss": "desires"
+            },
+            {
+              "greek": "αἵτινες",
+              "gloss": "which"
+            },
+            {
+              "greek": "στρατεύονται",
+              "gloss": "war"
+            },
+            {
+              "greek": "κατὰ",
+              "gloss": "against"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "the"
+            },
+            {
+              "greek": "ψυχῆς",
+              "gloss": "soul"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "words": [
+            {
+              "greek": "τὴν",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἀναστροφὴν",
+              "gloss": "conduct"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "among"
+            },
+            {
+              "greek": "τοῖς",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἔθνεσιν",
+              "gloss": "Gentiles"
+            },
+            {
+              "greek": "ἔχοντες",
+              "gloss": "keeping"
+            },
+            {
+              "greek": "καλήν",
+              "gloss": "honorable"
+            },
+            {
+              "greek": "ἵνα",
+              "gloss": "so that"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "wherein"
+            },
+            {
+              "greek": "ᾧ",
+              "gloss": "which"
+            },
+            {
+              "greek": "καταλαλοῦσιν",
+              "gloss": "they speak against"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "you"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "κακοποιῶν",
+              "gloss": "evildoers"
+            },
+            {
+              "greek": "ἐκ",
+              "gloss": "through"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "the"
+            },
+            {
+              "greek": "καλῶν",
+              "gloss": "good"
+            },
+            {
+              "greek": "ἔργων",
+              "gloss": "deeds"
+            },
+            {
+              "greek": "ἐποπτεύοντες",
+              "gloss": "having witnessed"
+            },
+            {
+              "greek": "δοξάσωσι",
+              "gloss": "they may glorify"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεὸν",
+              "gloss": "God"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "ἡμέρᾳ",
+              "gloss": "[the] day"
+            },
+            {
+              "greek": "ἐπισκοπῆς",
+              "gloss": "of visitation"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "words": [
+            {
+              "greek": "Ὑποτάγητε",
+              "gloss": "Be in subjection"
+            },
+            {
+              "greek": "πάσῃ",
+              "gloss": "to every"
+            },
+            {
+              "greek": "ἀνθρωπίνῃ",
+              "gloss": "human"
+            },
+            {
+              "greek": "κτίσει",
+              "gloss": "institution"
+            },
+            {
+              "greek": "διὰ",
+              "gloss": "for the sake of"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "the"
+            },
+            {
+              "greek": "κύριον",
+              "gloss": "Lord"
+            },
+            {
+              "greek": "εἴτε",
+              "gloss": "whether"
+            },
+            {
+              "greek": "βασιλεῖ",
+              "gloss": "to [the] king"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "ὑπερέχοντι",
+              "gloss": "being supreme"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "words": [
+            {
+              "greek": "εἴτε",
+              "gloss": "or"
+            },
+            {
+              "greek": "ἡγεμόσιν",
+              "gloss": "to governors"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "δι’",
+              "gloss": "by"
+            },
+            {
+              "greek": "αὐτοῦ",
+              "gloss": "him"
+            },
+            {
+              "greek": "πεμπομένοις",
+              "gloss": "being sent"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "for"
+            },
+            {
+              "greek": "ἐκδίκησιν",
+              "gloss": "vengeance"
+            },
+            {
+              "greek": "κακοποιῶν",
+              "gloss": "to evildoers"
+            },
+            {
+              "greek": "ἔπαινον",
+              "gloss": "praise"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "then"
+            },
+            {
+              "greek": "ἀγαθοποιῶν",
+              "gloss": "to well-doers"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "words": [
+            {
+              "greek": "ὅτι",
+              "gloss": "because"
+            },
+            {
+              "greek": "οὕτως",
+              "gloss": "this"
+            },
+            {
+              "greek": "ἐστὶν",
+              "gloss": "is"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "θέλημα",
+              "gloss": "will"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "ἀγαθοποιοῦντας",
+              "gloss": "doing good"
+            },
+            {
+              "greek": "φιμοῦν",
+              "gloss": "to put to silence"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "the"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "-"
+            },
+            {
+              "greek": "ἀφρόνων",
+              "gloss": "of foolish"
+            },
+            {
+              "greek": "ἀνθρώπων",
+              "gloss": "men"
+            },
+            {
+              "greek": "ἀγνωσίαν",
+              "gloss": "ignorance"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "words": [
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "ἐλεύθεροι",
+              "gloss": "free"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "μὴ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "ἐπικάλυμμα",
+              "gloss": "a cover-up"
+            },
+            {
+              "greek": "ἔχοντες",
+              "gloss": "having"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "for"
+            },
+            {
+              "greek": "κακίας",
+              "gloss": "evil"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἐλευθερίαν",
+              "gloss": "freedom"
+            },
+            {
+              "greek": "ἀλλ’",
+              "gloss": "but"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "δοῦλοι",
+              "gloss": "servants"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "words": [
+            {
+              "greek": "πάντας",
+              "gloss": "Everyone"
+            },
+            {
+              "greek": "τιμήσατε",
+              "gloss": "honor"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "The"
+            },
+            {
+              "greek": "ἀδελφότητα",
+              "gloss": "brotherhood"
+            },
+            {
+              "greek": "ἀγαπᾶτε",
+              "gloss": "love"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεὸν",
+              "gloss": "God"
+            },
+            {
+              "greek": "φοβεῖσθε",
+              "gloss": "fear"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "the"
+            },
+            {
+              "greek": "βασιλέα",
+              "gloss": "king"
+            },
+            {
+              "greek": "τιμᾶτε",
+              "gloss": "honor"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "words": [
+            {
+              "greek": "Οἱ",
+              "gloss": "-"
+            },
+            {
+              "greek": "οἰκέται",
+              "gloss": "Servants"
+            },
+            {
+              "greek": "ὑποτασσόμενοι",
+              "gloss": "be subject"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "with"
+            },
+            {
+              "greek": "παντὶ",
+              "gloss": "all"
+            },
+            {
+              "greek": "φόβῳ",
+              "gloss": "fear"
+            },
+            {
+              "greek": "τοῖς",
+              "gloss": "to"
+            },
+            {
+              "greek": "δεσπόταις",
+              "gloss": "masters"
+            },
+            {
+              "greek": "οὐ",
+              "gloss": "not"
+            },
+            {
+              "greek": "μόνον",
+              "gloss": "only"
+            },
+            {
+              "greek": "τοῖς",
+              "gloss": "to the"
+            },
+            {
+              "greek": "ἀγαθοῖς",
+              "gloss": "good"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ἐπιεικέσιν",
+              "gloss": "gentle"
+            },
+            {
+              "greek": "ἀλλὰ",
+              "gloss": "but"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "τοῖς",
+              "gloss": "to the"
+            },
+            {
+              "greek": "σκολιοῖς",
+              "gloss": "unreasonable"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "words": [
+            {
+              "greek": "τοῦτο",
+              "gloss": "This"
+            },
+            {
+              "greek": "γὰρ",
+              "gloss": "for"
+            },
+            {
+              "greek": "χάρις",
+              "gloss": "[is] acceptable"
+            },
+            {
+              "greek": "εἰ",
+              "gloss": "if"
+            },
+            {
+              "greek": "διὰ",
+              "gloss": "for sake of"
+            },
+            {
+              "greek": "συνείδησιν",
+              "gloss": "conscience"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "toward God"
+            },
+            {
+              "greek": "ὑποφέρει",
+              "gloss": "endures"
+            },
+            {
+              "greek": "τις",
+              "gloss": "anyone"
+            },
+            {
+              "greek": "λύπας",
+              "gloss": "griefs"
+            },
+            {
+              "greek": "πάσχων",
+              "gloss": "suffering"
+            },
+            {
+              "greek": "ἀδίκως",
+              "gloss": "unjustly"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "words": [
+            {
+              "greek": "ποῖον",
+              "gloss": "What kind of"
+            },
+            {
+              "greek": "γὰρ",
+              "gloss": "for"
+            },
+            {
+              "greek": "κλέος",
+              "gloss": "credit [is it]"
+            },
+            {
+              "greek": "εἰ",
+              "gloss": "if"
+            },
+            {
+              "greek": "ἁμαρτάνοντες",
+              "gloss": "sinning"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "κολαφιζόμενοι",
+              "gloss": "being struck"
+            },
+            {
+              "greek": "ὑπομενεῖτε",
+              "gloss": "you shall endure"
+            },
+            {
+              "greek": "ἀλλ’",
+              "gloss": "But"
+            },
+            {
+              "greek": "εἰ",
+              "gloss": "if"
+            },
+            {
+              "greek": "ἀγαθοποιοῦντες",
+              "gloss": "doing good"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "πάσχοντες",
+              "gloss": "suffering"
+            },
+            {
+              "greek": "ὑπομενεῖτε",
+              "gloss": "you shall endure"
+            },
+            {
+              "greek": "τοῦτο",
+              "gloss": "this [is]"
+            },
+            {
+              "greek": "χάρις",
+              "gloss": "commendable"
+            },
+            {
+              "greek": "παρὰ",
+              "gloss": "before"
+            },
+            {
+              "greek": "θεῷ",
+              "gloss": "God"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "words": [
+            {
+              "greek": "εἰς",
+              "gloss": "To this"
+            },
+            {
+              "greek": "τοῦτο",
+              "gloss": "hereunto"
+            },
+            {
+              "greek": "γὰρ",
+              "gloss": "for"
+            },
+            {
+              "greek": "ἐκλήθητε",
+              "gloss": "you have been called"
+            },
+            {
+              "greek": "ὅτι",
+              "gloss": "because"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "Χριστὸς",
+              "gloss": "Christ"
+            },
+            {
+              "greek": "ἔπαθεν",
+              "gloss": "suffered"
+            },
+            {
+              "greek": "ὑπὲρ",
+              "gloss": "for"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "you"
+            },
+            {
+              "greek": "ὑμῖν",
+              "gloss": "you"
+            },
+            {
+              "greek": "ὑπολιμπάνων",
+              "gloss": "leaving"
+            },
+            {
+              "greek": "ὑπογραμμὸν",
+              "gloss": "an example"
+            },
+            {
+              "greek": "ἵνα",
+              "gloss": "that"
+            },
+            {
+              "greek": "ἐπακολουθήσητε",
+              "gloss": "you should follow after"
+            },
+            {
+              "greek": "τοῖς",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἴχνεσιν",
+              "gloss": "steps"
+            },
+            {
+              "greek": "αὐτοῦ",
+              "gloss": "of Him"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "words": [
+            {
+              "greek": "ὃς",
+              "gloss": "Who"
+            },
+            {
+              "greek": "ἁμαρτίαν",
+              "gloss": "sin"
+            },
+            {
+              "greek": "οὐκ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ἐποίησεν",
+              "gloss": "committed"
+            },
+            {
+              "greek": "οὐδὲ",
+              "gloss": "neither"
+            },
+            {
+              "greek": "εὑρέθη",
+              "gloss": "was found"
+            },
+            {
+              "greek": "δόλος",
+              "gloss": "trickery"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "the"
+            },
+            {
+              "greek": "στόματι",
+              "gloss": "mouth"
+            },
+            {
+              "greek": "αὐτοῦ",
+              "gloss": "of Him"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "words": [
+            {
+              "greek": "ὃς",
+              "gloss": "Who"
+            },
+            {
+              "greek": "λοιδορούμενος",
+              "gloss": "being reviled"
+            },
+            {
+              "greek": "οὐκ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ἀντελοιδόρει",
+              "gloss": "reviled in return"
+            },
+            {
+              "greek": "πάσχων",
+              "gloss": "suffering"
+            },
+            {
+              "greek": "οὐκ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ἠπείλει",
+              "gloss": "threatened"
+            },
+            {
+              "greek": "παρεδίδου",
+              "gloss": "He gave [Himself] over"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "to Him"
+            },
+            {
+              "greek": "κρίνοντι",
+              "gloss": "judging"
+            },
+            {
+              "greek": "δικαίως",
+              "gloss": "justly"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "words": [
+            {
+              "greek": "ὃς",
+              "gloss": "Who"
+            },
+            {
+              "greek": "τὰς",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἁμαρτίας",
+              "gloss": "sins"
+            },
+            {
+              "greek": "ἡμῶν",
+              "gloss": "of us"
+            },
+            {
+              "greek": "αὐτὸς",
+              "gloss": "Himself"
+            },
+            {
+              "greek": "ἀνήνεγκεν",
+              "gloss": "bore"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "the"
+            },
+            {
+              "greek": "σώματι",
+              "gloss": "body"
+            },
+            {
+              "greek": "αὐτοῦ",
+              "gloss": "of Him"
+            },
+            {
+              "greek": "ἐπὶ",
+              "gloss": "on"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ξύλον",
+              "gloss": "tree"
+            },
+            {
+              "greek": "ἵνα",
+              "gloss": "so that"
+            },
+            {
+              "greek": "ταῖς",
+              "gloss": "-"
+            },
+            {
+              "greek": "ἁμαρτίαις",
+              "gloss": "to sins"
+            },
+            {
+              "greek": "ἀπογενόμενοι",
+              "gloss": "having been dead"
+            },
+            {
+              "greek": "τῇ",
+              "gloss": "-"
+            },
+            {
+              "greek": "δικαιοσύνῃ",
+              "gloss": "to righteousness"
+            },
+            {
+              "greek": "ζήσωμεν",
+              "gloss": "we might live"
+            },
+            {
+              "greek": "οὗ",
+              "gloss": "By whose"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "-"
+            },
+            {
+              "greek": "μώλωπι",
+              "gloss": "wounds"
+            },
+            {
+              "greek": "ἰάθητε",
+              "gloss": "you have been healed"
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "words": [
+            {
+              "greek": "ἦτε",
+              "gloss": "You were"
+            },
+            {
+              "greek": "γὰρ",
+              "gloss": "for"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "like"
+            },
+            {
+              "greek": "πρόβατα",
+              "gloss": "sheep"
+            },
+            {
+              "greek": "πλανώμενοι",
+              "gloss": "going astray"
+            },
+            {
+              "greek": "ἀλλὰ",
+              "gloss": "but"
+            },
+            {
+              "greek": "ἐπεστράφητε",
+              "gloss": "you have returned"
+            },
+            {
+              "greek": "νῦν",
+              "gloss": "now"
+            },
+            {
+              "greek": "ἐπὶ",
+              "gloss": "to"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "the"
+            },
+            {
+              "greek": "ποιμένα",
+              "gloss": "Shepherd"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ἐπίσκοπον",
+              "gloss": "Overseer"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "of the"
+            },
+            {
+              "greek": "ψυχῶν",
+              "gloss": "souls"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "words": [
+            {
+              "greek": "Ὁμοίως",
+              "gloss": "Likewise"
+            },
+            {
+              "greek": "γυναῖκες",
+              "gloss": "-"
+            },
+            {
+              "greek": "ὑποτασσόμεναι",
+              "gloss": "wives"
+            },
+            {
+              "greek": "τοῖς",
+              "gloss": "be subject"
+            },
+            {
+              "greek": "ἰδίοις",
+              "gloss": "to the"
+            },
+            {
+              "greek": "ἀνδράσιν",
+              "gloss": "own"
+            },
+            {
+              "greek": "ἵνα",
+              "gloss": "husbands"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "so that"
+            },
+            {
+              "greek": "εἴ",
+              "gloss": "even"
+            },
+            {
+              "greek": "τινες",
+              "gloss": "if"
+            },
+            {
+              "greek": "ἀπειθοῦσιν",
+              "gloss": "any"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "are disobedient"
+            },
+            {
+              "greek": "λόγῳ",
+              "gloss": "to the"
+            },
+            {
+              "greek": "διὰ",
+              "gloss": "word"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "by"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "the"
+            },
+            {
+              "greek": "γυναικῶν",
+              "gloss": "of the"
+            },
+            {
+              "greek": "ἀναστροφῆς",
+              "gloss": "wives"
+            },
+            {
+              "greek": "ἄνευ",
+              "gloss": "conduct"
+            },
+            {
+              "greek": "λόγου",
+              "gloss": "without"
+            },
+            {
+              "greek": "κερδηθήσονται",
+              "gloss": "word"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "words": [
+            {
+              "greek": "ἐποπτεύσαντες",
+              "gloss": "having witnessed"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "φόβῳ",
+              "gloss": "respect"
+            },
+            {
+              "greek": "ἁγνὴν",
+              "gloss": "pure"
+            },
+            {
+              "greek": "ἀναστροφὴν",
+              "gloss": "conduct"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "words": [
+            {
+              "greek": "ὧν",
+              "gloss": "whose"
+            },
+            {
+              "greek": "ἔστω",
+              "gloss": "let it be"
+            },
+            {
+              "greek": "οὐχ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἔξωθεν",
+              "gloss": "external"
+            },
+            {
+              "greek": "ἐμπλοκῆς",
+              "gloss": "of braiding"
+            },
+            {
+              "greek": "τριχῶν",
+              "gloss": "of hair"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "περιθέσεως",
+              "gloss": "putting around"
+            },
+            {
+              "greek": "χρυσίων",
+              "gloss": "of gold"
+            },
+            {
+              "greek": "ἢ",
+              "gloss": "or"
+            },
+            {
+              "greek": "ἐνδύσεως",
+              "gloss": "putting on"
+            },
+            {
+              "greek": "ἱματίων",
+              "gloss": "of garments"
+            },
+            {
+              "greek": "κόσμος",
+              "gloss": "adorning"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "words": [
+            {
+              "greek": "ἀλλ’",
+              "gloss": "but"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the"
+            },
+            {
+              "greek": "κρυπτὸς",
+              "gloss": "hidden"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "of the"
+            },
+            {
+              "greek": "καρδίας",
+              "gloss": "heart"
+            },
+            {
+              "greek": "ἄνθρωπος",
+              "gloss": "man"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἀφθάρτῳ",
+              "gloss": "imperishable"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "of the"
+            },
+            {
+              "greek": "πραέως",
+              "gloss": "gentle"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ἡσυχίου",
+              "gloss": "quiet"
+            },
+            {
+              "greek": "πνεύματος",
+              "gloss": "spirit"
+            },
+            {
+              "greek": "ὅ",
+              "gloss": "which"
+            },
+            {
+              "greek": "ἐστιν",
+              "gloss": "is"
+            },
+            {
+              "greek": "ἐνώπιον",
+              "gloss": "before"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "God"
+            },
+            {
+              "greek": "πολυτελές",
+              "gloss": "of great worth"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "words": [
+            {
+              "greek": "οὕτως",
+              "gloss": "In this way"
+            },
+            {
+              "greek": "γάρ",
+              "gloss": "for"
+            },
+            {
+              "greek": "ποτε",
+              "gloss": "formerly"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "αἱ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἅγιαι",
+              "gloss": "holy"
+            },
+            {
+              "greek": "γυναῖκες",
+              "gloss": "women"
+            },
+            {
+              "greek": "αἱ",
+              "gloss": "-"
+            },
+            {
+              "greek": "ἐλπίζουσαι",
+              "gloss": "hoping"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "in"
+            },
+            {
+              "greek": "θεὸν",
+              "gloss": "God"
+            },
+            {
+              "greek": "ἐκόσμουν",
+              "gloss": "used to adorn"
+            },
+            {
+              "greek": "ἑαυτάς",
+              "gloss": "themselves"
+            },
+            {
+              "greek": "ὑποτασσόμεναι",
+              "gloss": "being subject"
+            },
+            {
+              "greek": "τοῖς",
+              "gloss": "to the"
+            },
+            {
+              "greek": "ἰδίοις",
+              "gloss": "own"
+            },
+            {
+              "greek": "ἀνδράσιν",
+              "gloss": "husbands"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "words": [
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "Σάρρα",
+              "gloss": "Sarah"
+            },
+            {
+              "greek": "ὑπήκουσεν",
+              "gloss": "obeyed"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "-"
+            },
+            {
+              "greek": "Ἀβραάμ",
+              "gloss": "Abraham"
+            },
+            {
+              "greek": "κύριον",
+              "gloss": "lord"
+            },
+            {
+              "greek": "αὐτὸν",
+              "gloss": "him"
+            },
+            {
+              "greek": "καλοῦσα",
+              "gloss": "calling"
+            },
+            {
+              "greek": "ἧς",
+              "gloss": "of whom"
+            },
+            {
+              "greek": "ἐγενήθητε",
+              "gloss": "you have become"
+            },
+            {
+              "greek": "τέκνα",
+              "gloss": "children"
+            },
+            {
+              "greek": "ἀγαθοποιοῦσαι",
+              "gloss": "doing good"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "μὴ",
+              "gloss": "not"
+            },
+            {
+              "greek": "φοβούμεναι",
+              "gloss": "fearing"
+            },
+            {
+              "greek": "μηδεμίαν",
+              "gloss": "not one"
+            },
+            {
+              "greek": "πτόησιν",
+              "gloss": "consternation"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "words": [
+            {
+              "greek": "Οἱ",
+              "gloss": "-"
+            },
+            {
+              "greek": "ἄνδρες",
+              "gloss": "Husbands"
+            },
+            {
+              "greek": "ὁμοίως",
+              "gloss": "likewise"
+            },
+            {
+              "greek": "συνοικοῦντες",
+              "gloss": "dwelling with [them]"
+            },
+            {
+              "greek": "κατὰ",
+              "gloss": "according to"
+            },
+            {
+              "greek": "γνῶσιν",
+              "gloss": "knowledge"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "ἀσθενεστέρῳ",
+              "gloss": "with a weaker"
+            },
+            {
+              "greek": "σκεύει",
+              "gloss": "vessel"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "with the"
+            },
+            {
+              "greek": "γυναικείῳ",
+              "gloss": "female"
+            },
+            {
+              "greek": "ἀπονέμοντες",
+              "gloss": "rendering"
+            },
+            {
+              "greek": "τιμήν",
+              "gloss": "honor"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "συγκληρονόμοις",
+              "gloss": "joint-heirs"
+            },
+            {
+              "greek": "χάριτος",
+              "gloss": "of [the] grace"
+            },
+            {
+              "greek": "ζωῆς",
+              "gloss": "of life"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "so as for"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "-"
+            },
+            {
+              "greek": "μὴ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ἐγκόπτεσθαι",
+              "gloss": "to be hindered"
+            },
+            {
+              "greek": "τὰς",
+              "gloss": "the"
+            },
+            {
+              "greek": "προσευχὰς",
+              "gloss": "prayers"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "words": [
+            {
+              "greek": "Τὸ",
+              "gloss": "-"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "Now"
+            },
+            {
+              "greek": "τέλος",
+              "gloss": "the end"
+            },
+            {
+              "greek": "πάντες",
+              "gloss": "All [be]"
+            },
+            {
+              "greek": "ὁμόφρονες",
+              "gloss": "single-minded"
+            },
+            {
+              "greek": "συμπαθεῖς",
+              "gloss": "sympathetic"
+            },
+            {
+              "greek": "φιλάδελφοι",
+              "gloss": "loving as brothers"
+            },
+            {
+              "greek": "εὔσπλαγχνοι",
+              "gloss": "tender-hearted"
+            },
+            {
+              "greek": "ταπεινόφρονες",
+              "gloss": "humble"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "words": [
+            {
+              "greek": "μὴ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ἀποδιδόντες",
+              "gloss": "repaying"
+            },
+            {
+              "greek": "κακὸν",
+              "gloss": "evil"
+            },
+            {
+              "greek": "ἀντὶ",
+              "gloss": "for"
+            },
+            {
+              "greek": "κακοῦ",
+              "gloss": "evil"
+            },
+            {
+              "greek": "ἢ",
+              "gloss": "or"
+            },
+            {
+              "greek": "λοιδορίαν",
+              "gloss": "insult"
+            },
+            {
+              "greek": "ἀντὶ",
+              "gloss": "for"
+            },
+            {
+              "greek": "λοιδορίας",
+              "gloss": "insult"
+            },
+            {
+              "greek": "τοὐναντίον",
+              "gloss": "on the contrary"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "εὐλογοῦντες",
+              "gloss": "blessing"
+            },
+            {
+              "greek": "ὅτι",
+              "gloss": "because"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "to"
+            },
+            {
+              "greek": "τοῦτο",
+              "gloss": "this"
+            },
+            {
+              "greek": "ἐκλήθητε",
+              "gloss": "you were called"
+            },
+            {
+              "greek": "ἵνα",
+              "gloss": "so that"
+            },
+            {
+              "greek": "εὐλογίαν",
+              "gloss": "blessing"
+            },
+            {
+              "greek": "κληρονομήσητε",
+              "gloss": "you should inherit"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "words": [
+            {
+              "greek": "ὁ",
+              "gloss": "The [one]"
+            },
+            {
+              "greek": "γὰρ",
+              "gloss": "for"
+            },
+            {
+              "greek": "θέλων",
+              "gloss": "desiring"
+            },
+            {
+              "greek": "ζωὴν",
+              "gloss": "life"
+            },
+            {
+              "greek": "ἀγαπᾶν",
+              "gloss": "to love"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ἰδεῖν",
+              "gloss": "to see"
+            },
+            {
+              "greek": "ἡμέρας",
+              "gloss": "days"
+            },
+            {
+              "greek": "ἀγαθὰς",
+              "gloss": "good"
+            },
+            {
+              "greek": "παυσάτω",
+              "gloss": "let him keep"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "the"
+            },
+            {
+              "greek": "γλῶσσαν",
+              "gloss": "tongue"
+            },
+            {
+              "greek": "ἀπὸ",
+              "gloss": "from"
+            },
+            {
+              "greek": "κακοῦ",
+              "gloss": "evil"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "χείλη",
+              "gloss": "lips"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "μὴ",
+              "gloss": "not"
+            },
+            {
+              "greek": "λαλῆσαι",
+              "gloss": "to speak"
+            },
+            {
+              "greek": "δόλον",
+              "gloss": "deceit"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "words": [
+            {
+              "greek": "ἐκκλινάτω",
+              "gloss": "Let him turn away"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "also"
+            },
+            {
+              "greek": "ἀπὸ",
+              "gloss": "from"
+            },
+            {
+              "greek": "κακοῦ",
+              "gloss": "evil"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ποιησάτω",
+              "gloss": "let him do"
+            },
+            {
+              "greek": "ἀγαθόν",
+              "gloss": "good"
+            },
+            {
+              "greek": "ζητησάτω",
+              "gloss": "Let him seek"
+            },
+            {
+              "greek": "εἰρήνην",
+              "gloss": "peace"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "διωξάτω",
+              "gloss": "let him pursue"
+            },
+            {
+              "greek": "αὐτήν",
+              "gloss": "it"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "words": [
+            {
+              "greek": "ὅτι",
+              "gloss": "Because"
+            },
+            {
+              "greek": "ὀφθαλμοὶ",
+              "gloss": "[the] eyes"
+            },
+            {
+              "greek": "κυρίου",
+              "gloss": "of [the] Lord"
+            },
+            {
+              "greek": "ἐπὶ",
+              "gloss": "[are] on"
+            },
+            {
+              "greek": "δικαίους",
+              "gloss": "[the] righteous"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ὦτα",
+              "gloss": "[the] ears"
+            },
+            {
+              "greek": "αὐτοῦ",
+              "gloss": "of Him"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "toward"
+            },
+            {
+              "greek": "δέησιν",
+              "gloss": "prayer"
+            },
+            {
+              "greek": "αὐτῶν",
+              "gloss": "of them"
+            },
+            {
+              "greek": "πρόσωπον",
+              "gloss": "[The] face"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "κυρίου",
+              "gloss": "of [the] Lord"
+            },
+            {
+              "greek": "ἐπὶ",
+              "gloss": "[is] against"
+            },
+            {
+              "greek": "ποιοῦντας",
+              "gloss": "those doing"
+            },
+            {
+              "greek": "κακά",
+              "gloss": "evil"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "words": [
+            {
+              "greek": "Καὶ",
+              "gloss": "And"
+            },
+            {
+              "greek": "τίς",
+              "gloss": "who [is]"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "he who"
+            },
+            {
+              "greek": "κακώσων",
+              "gloss": "will harm"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            },
+            {
+              "greek": "ἐὰν",
+              "gloss": "if"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "for that which [is]"
+            },
+            {
+              "greek": "ἀγαθοῦ",
+              "gloss": "good"
+            },
+            {
+              "greek": "ζηλωταὶ",
+              "gloss": "zealous"
+            },
+            {
+              "greek": "γένησθε",
+              "gloss": "you should be"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "words": [
+            {
+              "greek": "ἀλλ’",
+              "gloss": "But"
+            },
+            {
+              "greek": "εἰ",
+              "gloss": "if"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "even"
+            },
+            {
+              "greek": "πάσχοιτε",
+              "gloss": "you should suffer"
+            },
+            {
+              "greek": "διὰ",
+              "gloss": "because of"
+            },
+            {
+              "greek": "δικαιοσύνην",
+              "gloss": "righteousness"
+            },
+            {
+              "greek": "μακάριοι",
+              "gloss": "[you are] blessed"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "-"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "And"
+            },
+            {
+              "greek": "φόβον",
+              "gloss": "the threats"
+            },
+            {
+              "greek": "αὐτῶν",
+              "gloss": "of them"
+            },
+            {
+              "greek": "μὴ",
+              "gloss": "not"
+            },
+            {
+              "greek": "φοβηθῆτε",
+              "gloss": "you should be afraid of"
+            },
+            {
+              "greek": "μηδὲ",
+              "gloss": "neither"
+            },
+            {
+              "greek": "ταραχθῆτε",
+              "gloss": "should you be troubled"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "words": [
+            {
+              "greek": "κύριον",
+              "gloss": "[As] Lord"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "-"
+            },
+            {
+              "greek": "Χριστὸν",
+              "gloss": "Christ"
+            },
+            {
+              "greek": "ἁγιάσατε",
+              "gloss": "sanctify"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "ταῖς",
+              "gloss": "the"
+            },
+            {
+              "greek": "καρδίαις",
+              "gloss": "hearts"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            },
+            {
+              "greek": "ἕτοιμοι",
+              "gloss": "ready"
+            },
+            {
+              "greek": "ἀεὶ",
+              "gloss": "always"
+            },
+            {
+              "greek": "πρὸς",
+              "gloss": "for"
+            },
+            {
+              "greek": "ἀπολογίαν",
+              "gloss": "a defense"
+            },
+            {
+              "greek": "παντὶ",
+              "gloss": "to everyone"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "-"
+            },
+            {
+              "greek": "αἰτοῦντι",
+              "gloss": "asking"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            },
+            {
+              "greek": "λόγον",
+              "gloss": "an account"
+            },
+            {
+              "greek": "περὶ",
+              "gloss": "concerning"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "ὑμῖν",
+              "gloss": "you"
+            },
+            {
+              "greek": "ἐλπίδος",
+              "gloss": "hope"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "words": [
+            {
+              "greek": "ἀλλὰ",
+              "gloss": "a conscience"
+            },
+            {
+              "greek": "μετὰ",
+              "gloss": "having"
+            },
+            {
+              "greek": "πραΰτητος",
+              "gloss": "good"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "so that"
+            },
+            {
+              "greek": "φόβου",
+              "gloss": "in"
+            },
+            {
+              "greek": "συνείδησιν",
+              "gloss": "this"
+            },
+            {
+              "greek": "ἔχοντες",
+              "gloss": "they might speak against you"
+            },
+            {
+              "greek": "ἀγαθήν",
+              "gloss": "they shall be ashamed"
+            },
+            {
+              "greek": "ἵνα",
+              "gloss": "those"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "reviling"
+            },
+            {
+              "greek": "ᾧ",
+              "gloss": "your"
+            },
+            {
+              "greek": "καταλαλεῖσθε",
+              "gloss": "-"
+            },
+            {
+              "greek": "καταισχυνθῶσιν",
+              "gloss": "good"
+            },
+            {
+              "greek": "οἱ",
+              "gloss": "in"
+            },
+            {
+              "greek": "ἐπηρεάζοντες",
+              "gloss": "Christ"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "manner of life"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": ""
+            },
+            {
+              "greek": "ἀγαθὴν",
+              "gloss": ""
+            },
+            {
+              "greek": "ἐν",
+              "gloss": ""
+            },
+            {
+              "greek": "Χριστῷ",
+              "gloss": ""
+            },
+            {
+              "greek": "ἀναστροφήν",
+              "gloss": ""
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "words": [
+            {
+              "greek": "κρεῖττον",
+              "gloss": "[It is] better"
+            },
+            {
+              "greek": "γὰρ",
+              "gloss": "for"
+            },
+            {
+              "greek": "ἀγαθοποιοῦντας",
+              "gloss": "doing good"
+            },
+            {
+              "greek": "εἰ",
+              "gloss": "if"
+            },
+            {
+              "greek": "θέλοι",
+              "gloss": "wills [it]"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "θέλημα",
+              "gloss": "will"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "πάσχειν",
+              "gloss": "to suffer"
+            },
+            {
+              "greek": "ἢ",
+              "gloss": "than"
+            },
+            {
+              "greek": "κακοποιοῦντας",
+              "gloss": "doing evil"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "words": [
+            {
+              "greek": "ὅτι",
+              "gloss": "because"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "Χριστὸς",
+              "gloss": "Christ"
+            },
+            {
+              "greek": "ἅπαξ",
+              "gloss": "once"
+            },
+            {
+              "greek": "περὶ",
+              "gloss": "for"
+            },
+            {
+              "greek": "ἁμαρτιῶν",
+              "gloss": "sins"
+            },
+            {
+              "greek": "ἔπαθεν",
+              "gloss": "suffered"
+            },
+            {
+              "greek": "δίκαιος",
+              "gloss": "[the] righteous"
+            },
+            {
+              "greek": "ὑπὲρ",
+              "gloss": "for"
+            },
+            {
+              "greek": "ἀδίκων",
+              "gloss": "[the] unrighteous"
+            },
+            {
+              "greek": "ἵνα",
+              "gloss": "so that"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            },
+            {
+              "greek": "προσαγάγῃ",
+              "gloss": "He might bring"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεῷ",
+              "gloss": "to God"
+            },
+            {
+              "greek": "θανατωθεὶς",
+              "gloss": "having been put to death"
+            },
+            {
+              "greek": "μὲν",
+              "gloss": "indeed"
+            },
+            {
+              "greek": "σαρκὶ",
+              "gloss": "in [the] flesh"
+            },
+            {
+              "greek": "ζῳοποιηθεὶς",
+              "gloss": "having been made alive"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "πνεύματι",
+              "gloss": "in [the] spirit"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "words": [
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "ᾧ",
+              "gloss": "which"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "τοῖς",
+              "gloss": "to the"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "φυλακῇ",
+              "gloss": "prison"
+            },
+            {
+              "greek": "πνεύμασιν",
+              "gloss": "spirits"
+            },
+            {
+              "greek": "πορευθεὶς",
+              "gloss": "having gone"
+            },
+            {
+              "greek": "ἐκήρυξεν",
+              "gloss": "He preached"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "words": [
+            {
+              "greek": "ἀπειθήσασίν",
+              "gloss": "having disobeyed"
+            },
+            {
+              "greek": "ποτε",
+              "gloss": "at one time"
+            },
+            {
+              "greek": "ὅτε",
+              "gloss": "when"
+            },
+            {
+              "greek": "ἀπεξεδέχετο",
+              "gloss": "was waiting"
+            },
+            {
+              "greek": "ἡ",
+              "gloss": "the"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "μακροθυμία",
+              "gloss": "longsuffering"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "ἡμέραις",
+              "gloss": "[the] days"
+            },
+            {
+              "greek": "Νῶε",
+              "gloss": "of Noah"
+            },
+            {
+              "greek": "κατασκευαζομένης",
+              "gloss": "being prepared"
+            },
+            {
+              "greek": "κιβωτοῦ",
+              "gloss": "of [the] ark"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "in"
+            },
+            {
+              "greek": "ἣν",
+              "gloss": "which"
+            },
+            {
+              "greek": "ὀλίγοι",
+              "gloss": "a few"
+            },
+            {
+              "greek": "τοῦτ’",
+              "gloss": "that"
+            },
+            {
+              "greek": "ἔστιν",
+              "gloss": "is"
+            },
+            {
+              "greek": "ὀκτὼ",
+              "gloss": "eight"
+            },
+            {
+              "greek": "ψυχαί",
+              "gloss": "souls"
+            },
+            {
+              "greek": "διεσώθησαν",
+              "gloss": "were saved"
+            },
+            {
+              "greek": "δι’",
+              "gloss": "through"
+            },
+            {
+              "greek": "ὕδατος",
+              "gloss": "water"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "words": [
+            {
+              "greek": "ὃ",
+              "gloss": "which"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            },
+            {
+              "greek": "ἀντίτυπον",
+              "gloss": "prefigures"
+            },
+            {
+              "greek": "νῦν",
+              "gloss": "now"
+            },
+            {
+              "greek": "σῴζει",
+              "gloss": "saving"
+            },
+            {
+              "greek": "βάπτισμα",
+              "gloss": "baptism"
+            },
+            {
+              "greek": "οὐ",
+              "gloss": "not"
+            },
+            {
+              "greek": "σαρκὸς",
+              "gloss": "of flesh"
+            },
+            {
+              "greek": "ἀπόθεσις",
+              "gloss": "a putting away"
+            },
+            {
+              "greek": "ῥύπου",
+              "gloss": "of [the] filth"
+            },
+            {
+              "greek": "ἀλλὰ",
+              "gloss": "but"
+            },
+            {
+              "greek": "συνειδήσεως",
+              "gloss": "of a conscience"
+            },
+            {
+              "greek": "ἀγαθῆς",
+              "gloss": "good"
+            },
+            {
+              "greek": "ἐπερώτημα",
+              "gloss": "[the] demand"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "toward"
+            },
+            {
+              "greek": "θεόν",
+              "gloss": "God"
+            },
+            {
+              "greek": "δι’",
+              "gloss": "through"
+            },
+            {
+              "greek": "ἀναστάσεως",
+              "gloss": "[the] resurrection"
+            },
+            {
+              "greek": "Ἰησοῦ",
+              "gloss": "of Jesus"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "Christ"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "words": [
+            {
+              "greek": "ὅς",
+              "gloss": "who"
+            },
+            {
+              "greek": "ἐστιν",
+              "gloss": "is"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "at"
+            },
+            {
+              "greek": "δεξιᾷ",
+              "gloss": "[the] right hand"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "πορευθεὶς",
+              "gloss": "of God"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "having gone"
+            },
+            {
+              "greek": "οὐρανὸν",
+              "gloss": "into"
+            },
+            {
+              "greek": "ὑποταγέντων",
+              "gloss": "heaven"
+            },
+            {
+              "greek": "αὐτῷ",
+              "gloss": "having been subjected"
+            },
+            {
+              "greek": "ἀγγέλων",
+              "gloss": "to Him"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "angels"
+            },
+            {
+              "greek": "ἐξουσιῶν",
+              "gloss": "and"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "authorities"
+            },
+            {
+              "greek": "δυνάμεων",
+              "gloss": "and"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "words": [
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "Christ"
+            },
+            {
+              "greek": "οὖν",
+              "gloss": "therefore"
+            },
+            {
+              "greek": "παθόντος",
+              "gloss": "having suffered"
+            },
+            {
+              "greek": "σαρκὶ",
+              "gloss": "in [the] flesh"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "ὑμεῖς",
+              "gloss": "you"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "the"
+            },
+            {
+              "greek": "αὐτὴν",
+              "gloss": "same"
+            },
+            {
+              "greek": "ἔννοιαν",
+              "gloss": "mind"
+            },
+            {
+              "greek": "ὁπλίσασθε",
+              "gloss": "arm yourselves with"
+            },
+            {
+              "greek": "ὅτι",
+              "gloss": "because"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the [one]"
+            },
+            {
+              "greek": "παθὼν",
+              "gloss": "having suffered"
+            },
+            {
+              "greek": "σαρκὶ",
+              "gloss": "[in the] flesh"
+            },
+            {
+              "greek": "πέπαυται",
+              "gloss": "is done with"
+            },
+            {
+              "greek": "ἁμαρτίας",
+              "gloss": "sin"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "words": [
+            {
+              "greek": "εἰς",
+              "gloss": "so as"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "-"
+            },
+            {
+              "greek": "μηκέτι",
+              "gloss": "no longer"
+            },
+            {
+              "greek": "ἀνθρώπων",
+              "gloss": "to men’s"
+            },
+            {
+              "greek": "ἐπιθυμίαις",
+              "gloss": "desires"
+            },
+            {
+              "greek": "ἀλλὰ",
+              "gloss": "but"
+            },
+            {
+              "greek": "θελήματι",
+              "gloss": "to [the] will"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἐπίλοιπον",
+              "gloss": "remaining"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "σαρκὶ",
+              "gloss": "[the] flesh"
+            },
+            {
+              "greek": "βιῶσαι",
+              "gloss": "to live"
+            },
+            {
+              "greek": "χρόνον",
+              "gloss": "time"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "words": [
+            {
+              "greek": "ἀρκετὸς",
+              "gloss": "[Is] sufficient"
+            },
+            {
+              "greek": "γὰρ",
+              "gloss": "for"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the"
+            },
+            {
+              "greek": "παρεληλυθὼς",
+              "gloss": "past"
+            },
+            {
+              "greek": "χρόνος",
+              "gloss": "time"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "βούλημα",
+              "gloss": "desire"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "of the"
+            },
+            {
+              "greek": "ἐθνῶν",
+              "gloss": "Gentiles"
+            },
+            {
+              "greek": "κατειργάσθαι",
+              "gloss": "to have carried out"
+            },
+            {
+              "greek": "πεπορευμένους",
+              "gloss": "having walked"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "ἀσελγείαις",
+              "gloss": "sensuality"
+            },
+            {
+              "greek": "ἐπιθυμίαις",
+              "gloss": "lusts"
+            },
+            {
+              "greek": "οἰνοφλυγίαις",
+              "gloss": "drunkenness"
+            },
+            {
+              "greek": "κώμοις",
+              "gloss": "orgies"
+            },
+            {
+              "greek": "πότοις",
+              "gloss": "carousing"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ἀθεμίτοις",
+              "gloss": "abominable"
+            },
+            {
+              "greek": "εἰδωλολατρίαις",
+              "gloss": "idolatries"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "words": [
+            {
+              "greek": "ἐν",
+              "gloss": "With respect to"
+            },
+            {
+              "greek": "ᾧ",
+              "gloss": "this"
+            },
+            {
+              "greek": "ξενίζονται",
+              "gloss": "they think it strange"
+            },
+            {
+              "greek": "μὴ",
+              "gloss": "not"
+            },
+            {
+              "greek": "συντρεχόντων",
+              "gloss": "running with [them]"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "into"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "the"
+            },
+            {
+              "greek": "αὐτὴν",
+              "gloss": "same"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "-"
+            },
+            {
+              "greek": "ἀσωτίας",
+              "gloss": "of debauchery"
+            },
+            {
+              "greek": "ἀνάχυσιν",
+              "gloss": "overflow"
+            },
+            {
+              "greek": "βλασφημοῦντες",
+              "gloss": "speaking evil [of you]"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "words": [
+            {
+              "greek": "οἳ",
+              "gloss": "who"
+            },
+            {
+              "greek": "ἀποδώσουσιν",
+              "gloss": "will give"
+            },
+            {
+              "greek": "λόγον",
+              "gloss": "account"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "to Him who"
+            },
+            {
+              "greek": "ἑτοίμως",
+              "gloss": "ready"
+            },
+            {
+              "greek": "ἔχοντι",
+              "gloss": "is"
+            },
+            {
+              "greek": "κρῖναι",
+              "gloss": "to judge"
+            },
+            {
+              "greek": "ζῶντας",
+              "gloss": "[the] living"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "νεκρούς",
+              "gloss": "[the] dead"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "words": [
+            {
+              "greek": "εἰς",
+              "gloss": "To"
+            },
+            {
+              "greek": "τοῦτο",
+              "gloss": "this [end]"
+            },
+            {
+              "greek": "γὰρ",
+              "gloss": "indeed"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "even"
+            },
+            {
+              "greek": "νεκροῖς",
+              "gloss": "to [the] dead"
+            },
+            {
+              "greek": "εὐηγγελίσθη",
+              "gloss": "the gospel was proclaimed"
+            },
+            {
+              "greek": "ἵνα",
+              "gloss": "so that"
+            },
+            {
+              "greek": "κριθῶσι",
+              "gloss": "they might be judged"
+            },
+            {
+              "greek": "μὲν",
+              "gloss": "indeed"
+            },
+            {
+              "greek": "κατὰ",
+              "gloss": "according to"
+            },
+            {
+              "greek": "ἀνθρώπους",
+              "gloss": "men"
+            },
+            {
+              "greek": "σαρκὶ",
+              "gloss": "in [the] flesh"
+            },
+            {
+              "greek": "ζῶσι",
+              "gloss": "they might live"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "κατὰ",
+              "gloss": "according to"
+            },
+            {
+              "greek": "θεὸν",
+              "gloss": "God"
+            },
+            {
+              "greek": "πνεύματι",
+              "gloss": "in [the] spirit"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "words": [
+            {
+              "greek": "Πάντων",
+              "gloss": "Of all"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "now"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "τέλος",
+              "gloss": "end"
+            },
+            {
+              "greek": "ἤγγικεν",
+              "gloss": "has drawn near"
+            },
+            {
+              "greek": "σωφρονήσατε",
+              "gloss": "Be clear-minded"
+            },
+            {
+              "greek": "οὖν",
+              "gloss": "therefore"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "νήψατε",
+              "gloss": "sober"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "for the purpose of"
+            },
+            {
+              "greek": "προσευχάς",
+              "gloss": "prayers"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "words": [
+            {
+              "greek": "πρὸ",
+              "gloss": "above"
+            },
+            {
+              "greek": "πάντων",
+              "gloss": "all things"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "-"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "among"
+            },
+            {
+              "greek": "ἑαυτοὺς",
+              "gloss": "yourselves"
+            },
+            {
+              "greek": "ἀγάπην",
+              "gloss": "love"
+            },
+            {
+              "greek": "ἐκτενῆ",
+              "gloss": "fervent"
+            },
+            {
+              "greek": "ἔχοντες",
+              "gloss": "having"
+            },
+            {
+              "greek": "ὅτι",
+              "gloss": "because"
+            },
+            {
+              "greek": "ἀγάπη",
+              "gloss": "love"
+            },
+            {
+              "greek": "καλύπτει",
+              "gloss": "covers over"
+            },
+            {
+              "greek": "πλῆθος",
+              "gloss": "a multitude"
+            },
+            {
+              "greek": "ἁμαρτιῶν",
+              "gloss": "of sins"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "words": [
+            {
+              "greek": "φιλόξενοι",
+              "gloss": "hospitable"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "to"
+            },
+            {
+              "greek": "ἀλλήλους",
+              "gloss": "one another"
+            },
+            {
+              "greek": "ἄνευ",
+              "gloss": "without"
+            },
+            {
+              "greek": "γογγυσμοῦ",
+              "gloss": "complaint"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "words": [
+            {
+              "greek": "ἕκαστος",
+              "gloss": "each"
+            },
+            {
+              "greek": "καθὼς",
+              "gloss": "as"
+            },
+            {
+              "greek": "ἔλαβεν",
+              "gloss": "has received"
+            },
+            {
+              "greek": "χάρισμα",
+              "gloss": "a gift"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "to"
+            },
+            {
+              "greek": "ἑαυτοὺς",
+              "gloss": "each other"
+            },
+            {
+              "greek": "αὐτὸ",
+              "gloss": "them"
+            },
+            {
+              "greek": "διακονοῦντες",
+              "gloss": "serving"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "καλοὶ",
+              "gloss": "good"
+            },
+            {
+              "greek": "οἰκονόμοι",
+              "gloss": "stewards"
+            },
+            {
+              "greek": "ποικίλης",
+              "gloss": "of [the] manifold"
+            },
+            {
+              "greek": "χάριτος",
+              "gloss": "grace"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "words": [
+            {
+              "greek": "εἴ",
+              "gloss": "if"
+            },
+            {
+              "greek": "τις",
+              "gloss": "anyone"
+            },
+            {
+              "greek": "λαλεῖ",
+              "gloss": "speaks"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "λόγια",
+              "gloss": "oracles"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "εἴ",
+              "gloss": "if"
+            },
+            {
+              "greek": "τις",
+              "gloss": "anyone"
+            },
+            {
+              "greek": "διακονεῖ",
+              "gloss": "serves"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "ἐξ",
+              "gloss": "of"
+            },
+            {
+              "greek": "ἰσχύος",
+              "gloss": "strength"
+            },
+            {
+              "greek": "ἧς",
+              "gloss": "which"
+            },
+            {
+              "greek": "χορηγεῖ",
+              "gloss": "supplies"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεός",
+              "gloss": "God"
+            },
+            {
+              "greek": "ἵνα",
+              "gloss": "so that"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "πᾶσιν",
+              "gloss": "all things"
+            },
+            {
+              "greek": "δοξάζηται",
+              "gloss": "may be glorified"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεὸς",
+              "gloss": "God"
+            },
+            {
+              "greek": "διὰ",
+              "gloss": "through"
+            },
+            {
+              "greek": "Ἰησοῦ",
+              "gloss": "Jesus"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "Christ"
+            },
+            {
+              "greek": "ᾧ",
+              "gloss": "to whom"
+            },
+            {
+              "greek": "ἐστιν",
+              "gloss": "be"
+            },
+            {
+              "greek": "ἡ",
+              "gloss": "the"
+            },
+            {
+              "greek": "δόξα",
+              "gloss": "glory"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "κράτος",
+              "gloss": "power"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "to"
+            },
+            {
+              "greek": "τοὺς",
+              "gloss": "the"
+            },
+            {
+              "greek": "αἰῶνας",
+              "gloss": "ages"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "of the"
+            },
+            {
+              "greek": "αἰώνων",
+              "gloss": "ages"
+            },
+            {
+              "greek": "ἀμήν",
+              "gloss": "Amen"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "words": [
+            {
+              "greek": "Ἀγαπητοί",
+              "gloss": "Beloved"
+            },
+            {
+              "greek": "μὴ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ξενίζεσθε",
+              "gloss": "be surprised at"
+            },
+            {
+              "greek": "τῇ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "among"
+            },
+            {
+              "greek": "ὑμῖν",
+              "gloss": "you"
+            },
+            {
+              "greek": "πυρώσει",
+              "gloss": "fire"
+            },
+            {
+              "greek": "πρὸς",
+              "gloss": "for"
+            },
+            {
+              "greek": "πειρασμὸν",
+              "gloss": "a trial"
+            },
+            {
+              "greek": "ὑμῖν",
+              "gloss": "to you"
+            },
+            {
+              "greek": "γινομένῃ",
+              "gloss": "taking place"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as if"
+            },
+            {
+              "greek": "ξένου",
+              "gloss": "a strange thing"
+            },
+            {
+              "greek": "ὑμῖν",
+              "gloss": "to you"
+            },
+            {
+              "greek": "συμβαίνοντος",
+              "gloss": "were happening"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "words": [
+            {
+              "greek": "ἀλλὰ",
+              "gloss": "But"
+            },
+            {
+              "greek": "καθὸ",
+              "gloss": "as"
+            },
+            {
+              "greek": "κοινωνεῖτε",
+              "gloss": "you have shared"
+            },
+            {
+              "greek": "τοῖς",
+              "gloss": "in the"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "of Christ"
+            },
+            {
+              "greek": "παθήμασιν",
+              "gloss": "sufferings"
+            },
+            {
+              "greek": "χαίρετε",
+              "gloss": "rejoice"
+            },
+            {
+              "greek": "ἵνα",
+              "gloss": "so that"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "τῇ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἀποκαλύψει",
+              "gloss": "revelation"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "of the"
+            },
+            {
+              "greek": "δόξης",
+              "gloss": "glory"
+            },
+            {
+              "greek": "αὐτοῦ",
+              "gloss": "of Him"
+            },
+            {
+              "greek": "χαρῆτε",
+              "gloss": "you may rejoice"
+            },
+            {
+              "greek": "ἀγαλλιώμενοι",
+              "gloss": "exulting"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "words": [
+            {
+              "greek": "εἰ",
+              "gloss": "If"
+            },
+            {
+              "greek": "ὀνειδίζεσθε",
+              "gloss": "you are insulted"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "ὀνόματι",
+              "gloss": "[the] name"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "of Christ"
+            },
+            {
+              "greek": "μακάριοι",
+              "gloss": "[you are] blessed"
+            },
+            {
+              "greek": "ὅτι",
+              "gloss": "because"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "-"
+            },
+            {
+              "greek": "δόξης",
+              "gloss": "of glory"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "-"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "πνεῦμα",
+              "gloss": "Spirit"
+            },
+            {
+              "greek": "ἐφ’",
+              "gloss": "upon"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            },
+            {
+              "greek": "ἀναπαύεται",
+              "gloss": "rests"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "words": [
+            {
+              "greek": "μὴ",
+              "gloss": "Not"
+            },
+            {
+              "greek": "γάρ",
+              "gloss": "for"
+            },
+            {
+              "greek": "τις",
+              "gloss": "any"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            },
+            {
+              "greek": "πασχέτω",
+              "gloss": "let suffer"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "φονεὺς",
+              "gloss": "a murderer"
+            },
+            {
+              "greek": "ἢ",
+              "gloss": "or"
+            },
+            {
+              "greek": "κλέπτης",
+              "gloss": "a thief"
+            },
+            {
+              "greek": "ἢ",
+              "gloss": "or"
+            },
+            {
+              "greek": "κακοποιὸς",
+              "gloss": "an evildoer"
+            },
+            {
+              "greek": "ἢ",
+              "gloss": "or"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "ἀλλοτριεπίσκοπος",
+              "gloss": "a troublesome meddler"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "words": [
+            {
+              "greek": "εἰ",
+              "gloss": "if"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "Χριστιανός",
+              "gloss": "a Christian"
+            },
+            {
+              "greek": "μὴ",
+              "gloss": "not"
+            },
+            {
+              "greek": "αἰσχυνέσθω",
+              "gloss": "let him be ashamed"
+            },
+            {
+              "greek": "δοξαζέτω",
+              "gloss": "let him glorify"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεὸν",
+              "gloss": "God"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ὀνόματι",
+              "gloss": "name"
+            },
+            {
+              "greek": "τούτῳ",
+              "gloss": "this"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "words": [
+            {
+              "greek": "ὅτι",
+              "gloss": "For [it is]"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the"
+            },
+            {
+              "greek": "καιρὸς",
+              "gloss": "time [for]"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "ἄρξασθαι",
+              "gloss": "to have begun"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "κρίμα",
+              "gloss": "judgment"
+            },
+            {
+              "greek": "ἀπὸ",
+              "gloss": "from"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "the"
+            },
+            {
+              "greek": "οἴκου",
+              "gloss": "house"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "εἰ",
+              "gloss": "if"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "now"
+            },
+            {
+              "greek": "πρῶτον",
+              "gloss": "first"
+            },
+            {
+              "greek": "ἀφ’",
+              "gloss": "from"
+            },
+            {
+              "greek": "ἡμῶν",
+              "gloss": "us"
+            },
+            {
+              "greek": "τί",
+              "gloss": "what [will be]"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "τέλος",
+              "gloss": "outcome"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "of those"
+            },
+            {
+              "greek": "ἀπειθούντων",
+              "gloss": "disobeying"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "the"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "εὐαγγελίῳ",
+              "gloss": "gospel"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "words": [
+            {
+              "greek": "καὶ",
+              "gloss": "And"
+            },
+            {
+              "greek": "εἰ",
+              "gloss": "If"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the"
+            },
+            {
+              "greek": "δίκαιος",
+              "gloss": "righteous [one]"
+            },
+            {
+              "greek": "μόλις",
+              "gloss": "with difficulty"
+            },
+            {
+              "greek": "σῴζεται",
+              "gloss": "is saved"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἀσεβὴς",
+              "gloss": "also"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "ungodly"
+            },
+            {
+              "greek": "ἁμαρτωλὸς",
+              "gloss": "and"
+            },
+            {
+              "greek": "ποῦ",
+              "gloss": "sinner"
+            },
+            {
+              "greek": "φανεῖται",
+              "gloss": "where"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "words": [
+            {
+              "greek": "ὥστε",
+              "gloss": "Therefore"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "οἱ",
+              "gloss": "those"
+            },
+            {
+              "greek": "πάσχοντες",
+              "gloss": "suffering"
+            },
+            {
+              "greek": "κατὰ",
+              "gloss": "according to"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "θέλημα",
+              "gloss": "will"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "πιστῷ",
+              "gloss": "to [the] faithful"
+            },
+            {
+              "greek": "κτίστῃ",
+              "gloss": "Creator"
+            },
+            {
+              "greek": "παρατιθέσθωσαν",
+              "gloss": "let them commit"
+            },
+            {
+              "greek": "τὰς",
+              "gloss": "the"
+            },
+            {
+              "greek": "ψυχὰς",
+              "gloss": "souls"
+            },
+            {
+              "greek": "αὐτῶν",
+              "gloss": "of them"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "ἀγαθοποιΐᾳ",
+              "gloss": "well-doing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "words": [
+            {
+              "greek": "Πρεσβυτέρους",
+              "gloss": "Elders"
+            },
+            {
+              "greek": "οὖν",
+              "gloss": "-"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "among"
+            },
+            {
+              "greek": "ὑμῖν",
+              "gloss": "you"
+            },
+            {
+              "greek": "παρακαλῶ",
+              "gloss": "I exhort"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "-"
+            },
+            {
+              "greek": "συμπρεσβύτερος",
+              "gloss": "a fellow elder"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "μάρτυς",
+              "gloss": "witness"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "of the"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "Χριστοῦ",
+              "gloss": "of Christ"
+            },
+            {
+              "greek": "παθημάτων",
+              "gloss": "sufferings"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "who [am]"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "also"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "of the"
+            },
+            {
+              "greek": "μελλούσης",
+              "gloss": "being about"
+            },
+            {
+              "greek": "ἀποκαλύπτεσθαι",
+              "gloss": "to be revealed"
+            },
+            {
+              "greek": "δόξης",
+              "gloss": "glory"
+            },
+            {
+              "greek": "κοινωνός",
+              "gloss": "partaker"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "words": [
+            {
+              "greek": "ποιμάνατε",
+              "gloss": "Shepherd"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "among"
+            },
+            {
+              "greek": "ὑμῖν",
+              "gloss": "you"
+            },
+            {
+              "greek": "ποίμνιον",
+              "gloss": "flock"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "ἐπισκοποῦντες",
+              "gloss": "exercising oversight"
+            },
+            {
+              "greek": "μὴ",
+              "gloss": "not"
+            },
+            {
+              "greek": "ἀναγκαστῶς",
+              "gloss": "under compulsion"
+            },
+            {
+              "greek": "ἀλλὰ",
+              "gloss": "but"
+            },
+            {
+              "greek": "ἑκουσίως",
+              "gloss": "willingly"
+            },
+            {
+              "greek": "κατὰ",
+              "gloss": "according to"
+            },
+            {
+              "greek": "θεόν",
+              "gloss": "God"
+            },
+            {
+              "greek": "μηδὲ",
+              "gloss": "and not"
+            },
+            {
+              "greek": "αἰσχροκερδῶς",
+              "gloss": "for base gain"
+            },
+            {
+              "greek": "ἀλλὰ",
+              "gloss": "but"
+            },
+            {
+              "greek": "προθύμως",
+              "gloss": "eagerly"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "words": [
+            {
+              "greek": "μηδ’",
+              "gloss": "not"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "κατακυριεύοντες",
+              "gloss": "exercising lordship over"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "-"
+            },
+            {
+              "greek": "κλήρων",
+              "gloss": "those in your charge"
+            },
+            {
+              "greek": "ἀλλὰ",
+              "gloss": "but"
+            },
+            {
+              "greek": "τύποι",
+              "gloss": "examples"
+            },
+            {
+              "greek": "γινόμενοι",
+              "gloss": "being"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "to the"
+            },
+            {
+              "greek": "ποιμνίου",
+              "gloss": "flock"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "words": [
+            {
+              "greek": "καὶ",
+              "gloss": "And"
+            },
+            {
+              "greek": "φανερωθέντος",
+              "gloss": "having been revealed"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἀρχιποίμενος",
+              "gloss": "Chief Shepherd"
+            },
+            {
+              "greek": "κομιεῖσθε",
+              "gloss": "you will receive"
+            },
+            {
+              "greek": "τὸν",
+              "gloss": "the"
+            },
+            {
+              "greek": "ἀμαράντινον",
+              "gloss": "unfading"
+            },
+            {
+              "greek": "τῆς",
+              "gloss": "-"
+            },
+            {
+              "greek": "δόξης",
+              "gloss": "of glory"
+            },
+            {
+              "greek": "στέφανον",
+              "gloss": "crown"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "words": [
+            {
+              "greek": "ὁμοίως",
+              "gloss": "Likewise"
+            },
+            {
+              "greek": "νεώτεροι",
+              "gloss": "younger [ones]"
+            },
+            {
+              "greek": "ὑποτάγητε",
+              "gloss": "be subject"
+            },
+            {
+              "greek": "πρεσβυτέροις",
+              "gloss": "to [your] elders"
+            },
+            {
+              "greek": "πάντες",
+              "gloss": "All"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "now"
+            },
+            {
+              "greek": "ἀλλήλοις",
+              "gloss": "one to another"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "-"
+            },
+            {
+              "greek": "ταπεινοφροσύνην",
+              "gloss": "humility"
+            },
+            {
+              "greek": "ἐγκομβώσασθε",
+              "gloss": "gird on"
+            },
+            {
+              "greek": "ὅτι",
+              "gloss": "because"
+            },
+            {
+              "greek": "Ὁ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεὸς",
+              "gloss": "God"
+            },
+            {
+              "greek": "ὑπερηφάνοις",
+              "gloss": "[the] proud"
+            },
+            {
+              "greek": "ἀντιτάσσεται",
+              "gloss": "opposes"
+            },
+            {
+              "greek": "ταπεινοῖς",
+              "gloss": "to [the] humble"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "however"
+            },
+            {
+              "greek": "δίδωσιν",
+              "gloss": "He gives"
+            },
+            {
+              "greek": "χάριν",
+              "gloss": "grace"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "words": [
+            {
+              "greek": "Ταπεινώθητε",
+              "gloss": "Be humbled"
+            },
+            {
+              "greek": "οὖν",
+              "gloss": "therefore"
+            },
+            {
+              "greek": "ὑπὸ",
+              "gloss": "under"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "the"
+            },
+            {
+              "greek": "κραταιὰν",
+              "gloss": "mighty"
+            },
+            {
+              "greek": "χεῖρα",
+              "gloss": "hand"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "ἵνα",
+              "gloss": "so that"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            },
+            {
+              "greek": "ὑψώσῃ",
+              "gloss": "He may exalt"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "καιρῷ",
+              "gloss": "[due] time"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "words": [
+            {
+              "greek": "πᾶσαν",
+              "gloss": "all"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "the"
+            },
+            {
+              "greek": "μέριμναν",
+              "gloss": "anxiety"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of you"
+            },
+            {
+              "greek": "ἐπιρίψαντες",
+              "gloss": "having cast"
+            },
+            {
+              "greek": "ἐπ’",
+              "gloss": "upon"
+            },
+            {
+              "greek": "αὐτόν",
+              "gloss": "Him"
+            },
+            {
+              "greek": "ὅτι",
+              "gloss": "because"
+            },
+            {
+              "greek": "αὐτῷ",
+              "gloss": "with Him"
+            },
+            {
+              "greek": "μέλει",
+              "gloss": "there is care"
+            },
+            {
+              "greek": "περὶ",
+              "gloss": "about"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "you"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "words": [
+            {
+              "greek": "νήψατε",
+              "gloss": "Be sober-minded"
+            },
+            {
+              "greek": "γρηγορήσατε",
+              "gloss": "watch"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "The"
+            },
+            {
+              "greek": "ἀντίδικος",
+              "gloss": "adversary"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "of You"
+            },
+            {
+              "greek": "διάβολος",
+              "gloss": "[the] devil"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "λέων",
+              "gloss": "a lion"
+            },
+            {
+              "greek": "ὠρυόμενος",
+              "gloss": "roaring"
+            },
+            {
+              "greek": "περιπατεῖ",
+              "gloss": "prowls about"
+            },
+            {
+              "greek": "ζητῶν",
+              "gloss": "seeking"
+            },
+            {
+              "greek": "τινα",
+              "gloss": "whom"
+            },
+            {
+              "greek": "καταπιεῖν",
+              "gloss": "to devour"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "words": [
+            {
+              "greek": "ᾧ",
+              "gloss": "whom"
+            },
+            {
+              "greek": "ἀντίστητε",
+              "gloss": "you should resist"
+            },
+            {
+              "greek": "στερεοὶ",
+              "gloss": "firm"
+            },
+            {
+              "greek": "τῇ",
+              "gloss": "in the"
+            },
+            {
+              "greek": "πίστει",
+              "gloss": "faith"
+            },
+            {
+              "greek": "εἰδότες",
+              "gloss": "knowing"
+            },
+            {
+              "greek": "τὰ",
+              "gloss": "the"
+            },
+            {
+              "greek": "αὐτὰ",
+              "gloss": "same"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "-"
+            },
+            {
+              "greek": "παθημάτων",
+              "gloss": "sufferings"
+            },
+            {
+              "greek": "τῇ",
+              "gloss": "-"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "throughout"
+            },
+            {
+              "greek": "τῷ",
+              "gloss": "the"
+            },
+            {
+              "greek": "κόσμῳ",
+              "gloss": "world"
+            },
+            {
+              "greek": "ὑμῶν",
+              "gloss": "in your"
+            },
+            {
+              "greek": "ἀδελφότητι",
+              "gloss": "brotherhood"
+            },
+            {
+              "greek": "ἐπιτελεῖσθαι",
+              "gloss": "to be accomplished"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "words": [
+            {
+              "greek": "ὁ",
+              "gloss": "The"
+            },
+            {
+              "greek": "δὲ",
+              "gloss": "now"
+            },
+            {
+              "greek": "θεὸς",
+              "gloss": "God"
+            },
+            {
+              "greek": "πάσης",
+              "gloss": "of all"
+            },
+            {
+              "greek": "χάριτος",
+              "gloss": "grace"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the [one]"
+            },
+            {
+              "greek": "καλέσας",
+              "gloss": "having called"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "to"
+            },
+            {
+              "greek": "τὴν",
+              "gloss": "the"
+            },
+            {
+              "greek": "αἰώνιον",
+              "gloss": "eternal"
+            },
+            {
+              "greek": "αὐτοῦ",
+              "gloss": "of Him"
+            },
+            {
+              "greek": "δόξαν",
+              "gloss": "glory"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "Χριστῷ",
+              "gloss": "Christ"
+            },
+            {
+              "greek": "ὀλίγον",
+              "gloss": "Jesus"
+            },
+            {
+              "greek": "παθόντας",
+              "gloss": "a little while"
+            },
+            {
+              "greek": "αὐτὸς",
+              "gloss": "[of you] having suffered"
+            },
+            {
+              "greek": "καταρτίσει",
+              "gloss": "He Himself"
+            },
+            {
+              "greek": "στηρίξει",
+              "gloss": "will perfect"
+            },
+            {
+              "greek": "σθενώσει",
+              "gloss": "will confirm"
+            },
+            {
+              "greek": "θεμελιώσει",
+              "gloss": "will strengthen"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "words": [
+            {
+              "greek": "αὐτῷ",
+              "gloss": "To Him [be]"
+            },
+            {
+              "greek": "τὸ",
+              "gloss": "the"
+            },
+            {
+              "greek": "κράτος",
+              "gloss": "power"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "to"
+            },
+            {
+              "greek": "τοὺς",
+              "gloss": "the"
+            },
+            {
+              "greek": "αἰῶνας",
+              "gloss": "ages"
+            },
+            {
+              "greek": "τῶν",
+              "gloss": "of the"
+            },
+            {
+              "greek": "αἰώνων",
+              "gloss": "ages"
+            },
+            {
+              "greek": "ἀμήν",
+              "gloss": "Amen"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "words": [
+            {
+              "greek": "Διὰ",
+              "gloss": "Through"
+            },
+            {
+              "greek": "Σιλουανοῦ",
+              "gloss": "Silvanus"
+            },
+            {
+              "greek": "ὑμῖν",
+              "gloss": "to you"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "the"
+            },
+            {
+              "greek": "πιστοῦ",
+              "gloss": "faithful"
+            },
+            {
+              "greek": "ἀδελφοῦ",
+              "gloss": "brother"
+            },
+            {
+              "greek": "ὡς",
+              "gloss": "as"
+            },
+            {
+              "greek": "λογίζομαι",
+              "gloss": "I regard [him]"
+            },
+            {
+              "greek": "δι’",
+              "gloss": "through"
+            },
+            {
+              "greek": "ὀλίγων",
+              "gloss": "few [words]"
+            },
+            {
+              "greek": "ἔγραψα",
+              "gloss": "I have written"
+            },
+            {
+              "greek": "παρακαλῶν",
+              "gloss": "exhorting"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "ἐπιμαρτυρῶν",
+              "gloss": "testifying"
+            },
+            {
+              "greek": "ταύτην",
+              "gloss": "this"
+            },
+            {
+              "greek": "εἶναι",
+              "gloss": "to be"
+            },
+            {
+              "greek": "ἀληθῆ",
+              "gloss": "[the] true"
+            },
+            {
+              "greek": "χάριν",
+              "gloss": "grace"
+            },
+            {
+              "greek": "τοῦ",
+              "gloss": "-"
+            },
+            {
+              "greek": "θεοῦ",
+              "gloss": "of God"
+            },
+            {
+              "greek": "εἰς",
+              "gloss": "in"
+            },
+            {
+              "greek": "ἣν",
+              "gloss": "which"
+            },
+            {
+              "greek": "στῆτε",
+              "gloss": "you stand"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "words": [
+            {
+              "greek": "ἀσπάζεται",
+              "gloss": "Greets"
+            },
+            {
+              "greek": "ὑμᾶς",
+              "gloss": "you"
+            },
+            {
+              "greek": "ἡ",
+              "gloss": "she"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "Βαβυλῶνι",
+              "gloss": "Babylon"
+            },
+            {
+              "greek": "συνεκλεκτὴ",
+              "gloss": "elected with [you]"
+            },
+            {
+              "greek": "καὶ",
+              "gloss": "and"
+            },
+            {
+              "greek": "Μᾶρκος",
+              "gloss": "Mark"
+            },
+            {
+              "greek": "ὁ",
+              "gloss": "the"
+            },
+            {
+              "greek": "υἱός",
+              "gloss": "son"
+            },
+            {
+              "greek": "μου",
+              "gloss": "of me"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "words": [
+            {
+              "greek": "ἀσπάσασθε",
+              "gloss": "Greet"
+            },
+            {
+              "greek": "ἀλλήλους",
+              "gloss": "one another"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "with"
+            },
+            {
+              "greek": "φιλήματι",
+              "gloss": "a kiss"
+            },
+            {
+              "greek": "ἀγάπης",
+              "gloss": "of love"
+            },
+            {
+              "greek": "εἰρήνη",
+              "gloss": "Peace [be]"
+            },
+            {
+              "greek": "ὑμῖν",
+              "gloss": "to you"
+            },
+            {
+              "greek": "πᾶσιν",
+              "gloss": "all"
+            },
+            {
+              "greek": "τοῖς",
+              "gloss": "who [are]"
+            },
+            {
+              "greek": "ἐν",
+              "gloss": "in"
+            },
+            {
+              "greek": "Χριστῷ",
+              "gloss": "Christ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

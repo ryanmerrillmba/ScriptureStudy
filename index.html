@@ -241,6 +241,19 @@
             background-color: var(--active-bg);
         }
 
+        .testament-header {
+            font-family: 'Hanken Grotesk', sans-serif;
+            font-size: 9px;
+            text-transform: uppercase;
+            letter-spacing: 0.14em;
+            color: var(--active-color);
+            padding: 20px 16px 4px 16px;
+            font-weight: 700;
+            border-top: 1px solid var(--nav-border);
+            margin-top: 4px;
+        }
+        .testament-header:first-child { border-top: none; margin-top: 0; }
+
         .book-category {
             font-family: 'Hanken Grotesk', sans-serif;
             font-size: 10px;
@@ -318,7 +331,6 @@
 <aside id="sidebar" class="fixed left-0 top-0 h-full w-[180px] bg-custom-nav-bg border-r border-custom-nav-border flex flex-col py-4 overflow-y-auto z-10">
 <div class="px-gutter mb-6">
 <h1 class="font-ui-label-caps text-ui-label-caps font-bold text-primary">Scripture Study</h1>
-<p class="font-ui-small text-ui-small text-on-surface-variant mt-1">Digital Scriptorium</p>
 </div>
 <nav id="book-list" class="flex-1">
 <div class="empty-state text-[#555]">Loading...</div>
@@ -350,15 +362,14 @@
 </div>
 </header>
 
-<!-- Column Labels Bar -->
-<div id="column-labels" class="fixed top-[48px] right-0 h-[32px] w-[calc(100%-180px)] bg-custom-header-bg border-b border-custom-nav-border grid grid-cols-[0.85fr_0.85fr_1.4fr] items-center px-gutter z-20">
-<div class="font-ui-label-caps text-ui-label-caps text-on-surface-variant">King James Version</div>
-<div class="font-ui-label-caps text-ui-label-caps text-on-surface-variant pl-gutter border-l border-custom-nav-border h-full flex items-center">English Standard Version</div>
-<div class="font-ui-label-caps text-ui-label-caps text-on-surface pl-gutter border-l border-custom-nav-border h-full flex items-center">Hebrew Interlinear</div>
-</div>
-
 <!-- Scrollable Verse Container -->
-<div id="scroll-container" class="flex-1 overflow-y-auto mt-[80px] pb-24">
+<div id="scroll-container" class="flex-1 overflow-y-auto mt-[48px] pb-24">
+<!-- Column Labels Bar (sticky so it shares the same width as verse rows, accounting for scrollbar) -->
+<div id="column-labels" class="sticky top-0 h-[32px] bg-custom-header-bg border-b border-custom-nav-border grid grid-cols-[0.85fr_0.85fr_1.4fr] items-center z-20">
+<div class="font-ui-label-caps text-ui-label-caps text-on-surface-variant pl-gutter">King James Version</div>
+<div class="font-ui-label-caps text-ui-label-caps text-on-surface-variant pl-gutter border-l border-custom-nav-border h-full flex items-center">English Standard Version</div>
+<div id="interlinear-label" class="font-ui-label-caps text-ui-label-caps text-on-surface pl-gutter border-l border-custom-nav-border h-full flex items-center">Hebrew Interlinear</div>
+</div>
 <div id="verse-rows">
 <div class="empty-state">Select a book to begin.</div>
 </div>

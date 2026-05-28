@@ -11,9 +11,11 @@ const bookSelect = document.getElementById('book-select');
 const chapterSelect = document.getElementById('chapter-select');
 const btnPrev = document.getElementById('btn-prev');
 const btnNext = document.getElementById('btn-next');
+const interlinearLabel = document.getElementById('interlinear-label');
 
 // === Categories ===
-const categoryOrder = ['Law', 'History', 'Poetry', 'Major Prophets', 'Minor Prophets'];
+const OT_CATEGORY_ORDER = ['Law', 'History', 'Poetry', 'Major Prophets', 'Minor Prophets'];
+const NT_CATEGORY_ORDER = ['Gospels', 'Acts', 'Epistles', 'Revelation'];
 
 // === Init ===
 async function init() {
@@ -75,19 +77,32 @@ function populateChapterSelect() {
 function renderSidebar() {
   bookList.innerHTML = '';
 
+  const otBooks = books.filter(b => b.testament === 'OT');
+  const ntBooks = books.filter(b => b.testament === 'NT');
+
+  appendTestamentSection('Old Testament', otBooks, OT_CATEGORY_ORDER);
+  appendTestamentSection('New Testament', ntBooks, NT_CATEGORY_ORDER);
+}
+
+function appendTestamentSection(label, sectionBooks, categoryOrder) {
+  const header = document.createElement('div');
+  header.className = 'testament-header';
+  header.textContent = label;
+  bookList.appendChild(header);
+
   const grouped = {};
   for (const cat of categoryOrder) {
-    grouped[cat] = books.filter(b => b.category === cat);
+    grouped[cat] = sectionBooks.filter(b => b.category === cat);
   }
 
   for (const cat of categoryOrder) {
     const booksInCat = grouped[cat];
     if (!booksInCat || booksInCat.length === 0) continue;
 
-    const label = document.createElement('div');
-    label.className = 'book-category';
-    label.textContent = cat;
-    bookList.appendChild(label);
+    const catLabel = document.createElement('div');
+    catLabel.className = 'book-category';
+    catLabel.textContent = cat;
+    bookList.appendChild(catLabel);
 
     for (const book of booksInCat) {
       const item = document.createElement('div');
@@ -124,6 +139,12 @@ async function loadChapter(book, chapter, updateHash) {
   btnPrev.disabled = chapter <= 1;
   btnNext.disabled = chapter >= book.chapters;
 
+  // Update interlinear column label
+  const isNT = book.testament === 'NT';
+  if (interlinearLabel) {
+    interlinearLabel.textContent = isNT ? 'Greek Interlinear' : 'Hebrew Interlinear';
+  }
+
   // Update hash
   if (updateHash) {
     window.location.hash = `#${book.slug}/${chapter}`;
@@ -132,14 +153,16 @@ async function loadChapter(book, chapter, updateHash) {
   // Show loading state
   verseRows.innerHTML = '<div class="empty-state">Loading...</div>';
 
+  const interlinearDir = isNT ? 'greek' : 'interlinear';
+
   try {
     const [kjvData, esvData, interlinearData] = await Promise.all([
       fetch(`data/kjv/${book.slug}.json`).then(r => r.json()),
       fetch(`data/esv/${book.slug}.json`).then(r => r.json()),
-      fetch(`data/interlinear/${book.slug}.json`).then(r => r.json())
+      fetch(`data/${interlinearDir}/${book.slug}.json`).then(r => r.json())
     ]);
 
-    renderVerses(kjvData, esvData, interlinearData, chapter);
+    renderVerses(kjvData, esvData, interlinearData, chapter, isNT);
   } catch (err) {
     console.error('Failed to load chapter data:', err);
     verseRows.innerHTML = '<div class="empty-state">Failed to load chapter data. Make sure data files exist for this book.</div>';
@@ -147,7 +170,7 @@ async function loadChapter(book, chapter, updateHash) {
 }
 
 // === Verse Rendering ===
-function renderVerses(kjvData, esvData, interlinearData, chapter) {
+function renderVerses(kjvData, esvData, interlinearData, chapter, isNT) {
   verseRows.innerHTML = '';
 
   const kjvChapter = kjvData.chapters.find(c => c.chapter === chapter);
@@ -183,7 +206,7 @@ function renderVerses(kjvData, esvData, interlinearData, chapter) {
     if (kjvVerse) {
       kjvCell.innerHTML = `<sup class="verse-num">${kjvVerse.verse}</sup>${escapeHtml(kjvVerse.text)}`;
     } else {
-      kjvCell.innerHTML = `<sup class="verse-num">${verseNum}</sup><span style="color:#555">\u2014</span>`;
+      kjvCell.innerHTML = `<sup class="verse-num">${verseNum}</sup><span style="color:#555">—</span>`;
     }
     row.appendChild(kjvCell);
 
@@ -193,7 +216,7 @@ function renderVerses(kjvData, esvData, interlinearData, chapter) {
     if (esvVerse) {
       esvCell.innerHTML = `<sup class="verse-num">${esvVerse.verse}</sup>${escapeHtml(esvVerse.text)}`;
     } else {
-      esvCell.innerHTML = `<sup class="verse-num">${verseNum}</sup><span style="color:#555">\u2014</span>`;
+      esvCell.innerHTML = `<sup class="verse-num">${verseNum}</sup><span style="color:#555">—</span>`;
     }
     row.appendChild(esvCell);
 
@@ -204,15 +227,19 @@ function renderVerses(kjvData, esvData, interlinearData, chapter) {
       let html = `<span class="verse-num" style="position:absolute;top:4px;left:4px;">${interlinearVerse.verse}</span>`;
       html += '<div class="word-block-container">';
       for (const word of interlinearVerse.words) {
+        const scriptText = isNT ? word.greek : word.hebrew;
+        const fontClass = isNT
+          ? 'font-scripture-body text-scripture-body'
+          : 'font-display-hebrew text-display-hebrew text-custom-hebrew pb-1';
         html += `<div class="word-block">`;
-        html += `<span class="font-display-hebrew text-display-hebrew text-custom-hebrew pb-1">${escapeHtml(word.hebrew)}</span>`;
-        html += `<span class="font-gloss-text text-gloss-text text-custom-gloss italic pt-1">${escapeHtml(word.gloss)}</span>`;
+        html += `<span class="${fontClass}" style="${isNT ? 'font-size:16px;line-height:26px;' : ''}">${escapeHtml(scriptText || '')}</span>`;
+        html += `<span class="font-gloss-text text-gloss-text text-custom-gloss italic pt-1">${escapeHtml(word.gloss || '')}</span>`;
         html += `</div>`;
       }
       html += '</div>';
       interlinearCell.innerHTML = html;
     } else {
-      interlinearCell.innerHTML = `<sup class="verse-num">${verseNum}</sup><span style="color:#555">\u2014</span>`;
+      interlinearCell.innerHTML = `<span class="verse-num" style="position:absolute;top:4px;left:4px;">${verseNum}</span><span style="color:#555">—</span>`;
     }
     row.appendChild(interlinearCell);
 

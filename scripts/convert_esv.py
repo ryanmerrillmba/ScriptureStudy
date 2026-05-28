@@ -21,8 +21,25 @@ OT_BOOKS = [
     ("HABAKKUK", "habakkuk"), ("ZEPHANIAH", "zephaniah"), ("HAGGAI", "haggai"),
     ("ZECHARIAH", "zechariah"), ("MALACHI", "malachi"),
 ]
-BOOK_NAME_TO_SLUG = {name: slug for name, slug in OT_BOOKS}
-DISPLAY_NAME = {name: name.title().replace("Of", "of") for name, _ in OT_BOOKS}
+
+NT_BOOKS = [
+    ("MATTHEW", "matthew"), ("MARK", "mark"), ("LUKE", "luke"), ("JOHN", "john"),
+    ("ACTS", "acts"), ("ROMANS", "romans"),
+    ("1 CORINTHIANS", "1-corinthians"), ("2 CORINTHIANS", "2-corinthians"),
+    ("GALATIANS", "galatians"), ("EPHESIANS", "ephesians"),
+    ("PHILIPPIANS", "philippians"), ("COLOSSIANS", "colossians"),
+    ("1 THESSALONIANS", "1-thessalonians"), ("2 THESSALONIANS", "2-thessalonians"),
+    ("1 TIMOTHY", "1-timothy"), ("2 TIMOTHY", "2-timothy"),
+    ("TITUS", "titus"), ("PHILEMON", "philemon"), ("HEBREWS", "hebrews"),
+    ("JAMES", "james"), ("1 PETER", "1-peter"), ("2 PETER", "2-peter"),
+    ("1 JOHN", "1-john"), ("2 JOHN", "2-john"), ("3 JOHN", "3-john"),
+    ("JUDE", "jude"), ("REVELATION", "revelation"),
+]
+
+ALL_BOOKS = OT_BOOKS + NT_BOOKS
+
+BOOK_NAME_TO_SLUG = {name: slug for name, slug in ALL_BOOKS}
+DISPLAY_NAME = {name: name.title().replace("Of", "of") for name, _ in ALL_BOOKS}
 DISPLAY_NAME["SONG OF SOLOMON"] = "Song of Solomon"
 DISPLAY_NAME["1 SAMUEL"] = "1 Samuel"
 DISPLAY_NAME["2 SAMUEL"] = "2 Samuel"
@@ -30,12 +47,56 @@ DISPLAY_NAME["1 KINGS"] = "1 Kings"
 DISPLAY_NAME["2 KINGS"] = "2 Kings"
 DISPLAY_NAME["1 CHRONICLES"] = "1 Chronicles"
 DISPLAY_NAME["2 CHRONICLES"] = "2 Chronicles"
+DISPLAY_NAME["1 CORINTHIANS"] = "1 Corinthians"
+DISPLAY_NAME["2 CORINTHIANS"] = "2 Corinthians"
+DISPLAY_NAME["1 THESSALONIANS"] = "1 Thessalonians"
+DISPLAY_NAME["2 THESSALONIANS"] = "2 Thessalonians"
+DISPLAY_NAME["1 TIMOTHY"] = "1 Timothy"
+DISPLAY_NAME["2 TIMOTHY"] = "2 Timothy"
+DISPLAY_NAME["1 PETER"] = "1 Peter"
+DISPLAY_NAME["2 PETER"] = "2 Peter"
+DISPLAY_NAME["1 JOHN"] = "1 John"
+DISPLAY_NAME["2 JOHN"] = "2 John"
+DISPLAY_NAME["3 JOHN"] = "3 John"
 
 
 def clean_text(text: str) -> str:
-    """Remove footnote markers and normalize whitespace."""
+    """Remove footnote lines, inline markers, and normalize whitespace."""
+    # Remove entire footnote reference lines (e.g. "[1] 1:6 Or a canopy...")
+    # These must be stripped before whitespace collapsing so they don't bleed
+    # into surrounding verse text as spurious chapter:verse markers.
+    text = re.sub(r'(?m)^\[\d+\][^\n]*\n?', '', text)
+    # Remove wrapped footnote continuation lines (e.g. "30; 2:1" or "28, 30; 2:1")
+    # These contain only digits, spaces, commas, semicolons, and colons — no letters.
+    text = re.sub(r'(?m)^[0-9 ,;:]+$\n?', '', text)
+    # Remove any remaining inline footnote markers (e.g. word[2])
     text = re.sub(r'\[\d+\]', '', text)
     return re.sub(r'\s+', ' ', text).strip()
+
+
+def _parse_verses(chapter_text: str, start_verse: int = 1) -> list:
+    """Parse inline verse numbers out of a chapter's text block."""
+    # Match inline verse numbers: a bare integer immediately followed by a letter
+    # or opening quote (no space). Lowercase included — many verses start lowercase
+    # e.g. “3your anointing oils are fragrant”.
+    verse_split = re.compile(r'(?<=\s)(\d+)(?=[A-Za-z"\u201c\u2018\u2019\'])')
+    verse_splits = list(verse_split.finditer(chapter_text))
+
+    verses = []
+    v1_end = verse_splits[0].start() if verse_splits else len(chapter_text)
+    v1_text = chapter_text[:v1_end].strip()
+    if v1_text:
+        verses.append({"verse": start_verse, "text": v1_text})
+
+    for j, vs in enumerate(verse_splits):
+        verse_num = int(vs.group(1))
+        vs_start = vs.end()
+        vs_end = verse_splits[j + 1].start() if j + 1 < len(verse_splits) else len(chapter_text)
+        verse_text = chapter_text[vs_start:vs_end].strip()
+        if verse_text:
+            verses.append({"verse": verse_num, "text": verse_text})
+
+    return verses
 
 
 def parse_book_content(book_name: str, content: str) -> dict:
@@ -43,40 +104,22 @@ def parse_book_content(book_name: str, content: str) -> dict:
     content = clean_text(content)
 
     # Split on chapter:verse markers (e.g. "1:1 " or "2:1 ")
-    # These always mark verse 1 of a new chapter
+    # These always mark verse 1 of a new chapter.
     chapter_pattern = re.compile(r'(\d+):1\s')
     chapter_splits = list(chapter_pattern.finditer(content))
 
-    chapters = []
-    for i, match in enumerate(chapter_splits):
-        chapter_num = int(match.group(1))
-        text_start = match.end()
-        text_end = chapter_splits[i + 1].start() if i + 1 < len(chapter_splits) else len(content)
-        chapter_text = content[text_start:text_end].strip()
-
-        # First verse text runs until the next inline verse number
-        # Inline verse numbers: a bare integer immediately followed by a capital letter or quote
-        # Pattern: preceded by whitespace (or start), digit(s), then uppercase/quote (no space)
-        verse_split = re.compile(r'(?<=\s)(\d+)(?=[A-Z"\'\u201c\u2018])')
-        verse_splits = list(verse_split.finditer(chapter_text))
-
-        verses = []
-        # Verse 1: everything before the first inline verse number
-        v1_end = verse_splits[0].start() if verse_splits else len(chapter_text)
-        v1_text = chapter_text[:v1_end].strip()
-        if v1_text:
-            verses.append({"verse": 1, "text": v1_text})
-
-        # Remaining verses
-        for j, vs in enumerate(verse_splits):
-            verse_num = int(vs.group(1))
-            vs_start = vs.end()
-            vs_end = verse_splits[j + 1].start() if j + 1 < len(verse_splits) else len(chapter_text)
-            verse_text = chapter_text[vs_start:vs_end].strip()
-            if verse_text:
-                verses.append({"verse": verse_num, "text": verse_text})
-
-        chapters.append({"chapter": chapter_num, "verses": verses})
+    if not chapter_splits:
+        # Single-chapter book with bare inline verse numbers only (e.g. Obadiah).
+        # Treat the entire content as chapter 1.
+        chapters = [{"chapter": 1, "verses": _parse_verses(content, start_verse=1)}]
+    else:
+        chapters = []
+        for i, match in enumerate(chapter_splits):
+            chapter_num = int(match.group(1))
+            text_start = match.end()
+            text_end = chapter_splits[i + 1].start() if i + 1 < len(chapter_splits) else len(content)
+            chapter_text = content[text_start:text_end].strip()
+            chapters.append({"chapter": chapter_num, "verses": _parse_verses(chapter_text)})
 
     slug = BOOK_NAME_TO_SLUG.get(book_name.upper(), book_name.lower())
     display = DISPLAY_NAME.get(book_name.upper(), book_name.title())
@@ -86,11 +129,11 @@ def parse_book_content(book_name: str, content: str) -> dict:
 def parse_esv(source_path: str, output_dir: str) -> None:
     text = Path(source_path).read_text(encoding='utf-8')
 
-    # Find the last occurrence of each OT book header (ALL CAPS on its own line)
-    # The last occurrence is the actual content section, not the ToC entry
+    # Find the last occurrence of each book header (ALL CAPS on its own line).
+    # The last occurrence is the actual content section, not the ToC entry.
     book_positions = {}
-    for book_name, _ in OT_BOOKS:
-        pattern = re.compile(rf'(?m)^{re.escape(book_name)}\s*$')
+    for book_name, _ in ALL_BOOKS:
+        pattern = re.compile(rf'(?m)^\s*{re.escape(book_name)}\s*$')
         matches = list(pattern.finditer(text))
         if matches:
             book_positions[book_name] = matches[-1].end()
@@ -102,6 +145,10 @@ def parse_esv(source_path: str, output_dir: str) -> None:
     for i, (book_name, start) in enumerate(sorted_books):
         end = sorted_books[i + 1][1] if i + 1 < len(sorted_books) else len(text)
         book_content = text[start:end]
+        # Truncate at the footnote block before any text processing.
+        footnote_block = re.search(r'\n\[1\] ', book_content)
+        if footnote_block:
+            book_content = book_content[:footnote_block.start()]
         book_data = parse_book_content(book_name, book_content)
         slug = BOOK_NAME_TO_SLUG[book_name]
         (out / f'{slug}.json').write_text(
