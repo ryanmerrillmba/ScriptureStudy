@@ -324,6 +324,29 @@
             text-decoration: line-through;
         }
         body.hide-gloss .font-gloss-text { display: none; }
+
+        /* Sidebar collapse */
+        #sidebar { transition: transform 0.25s ease; }
+        main    { transition: margin-left 0.25s ease, width 0.25s ease; }
+        #top-bar { transition: width 0.25s ease; }
+
+        body.sidebar-collapsed #sidebar  { transform: translateX(-180px); }
+        body.sidebar-collapsed main      { margin-left: 0; width: 100%; }
+        body.sidebar-collapsed #top-bar  { width: 100%; }
+
+        #sidebar-toggle {
+            width: 2rem; height: 2rem;
+            border: 1px solid var(--nav-border);
+            border-radius: 2px;
+            display: flex; align-items: center; justify-content: center;
+            color: var(--text-muted);
+            background: transparent;
+            cursor: pointer;
+            transition: color 0.2s, border-color 0.2s;
+            margin-right: 8px;
+            flex-shrink: 0;
+        }
+        #sidebar-toggle:hover { color: var(--active-color); border-color: var(--active-border); }
     </style>
 </head>
 <body class="bg-background text-on-surface">
@@ -342,6 +365,9 @@
 
 <!-- Top Nav Bar -->
 <header id="top-bar" class="fixed top-0 right-0 h-[48px] w-[calc(100%-180px)] bg-custom-header-bg border-b border-custom-nav-border flex justify-between items-center px-gutter z-20">
+<button id="sidebar-toggle" title="Toggle sidebar" aria-label="Toggle sidebar">
+<span class="material-symbols-outlined" style="font-size:18px;">menu_open</span>
+</button>
 <button id="btn-prev" disabled class="w-8 h-8 border border-custom-nav-border flex items-center justify-center text-custom-strongs hover:text-primary-container hover:border-primary-container transition-colors rounded-sm mr-2">
 <span class="material-symbols-outlined" style="font-size: 16px;">chevron_left</span>
 </button>
@@ -406,6 +432,23 @@
       hidden = !hidden;
       document.body.classList.toggle('hide-gloss', hidden);
       btn.classList.toggle('active', hidden);
+    });
+  })();
+
+  (function() {
+    const btn  = document.getElementById('sidebar-toggle');
+    const icon = btn.querySelector('.material-symbols-outlined');
+
+    function setCollapsed(collapsed) {
+      document.body.classList.toggle('sidebar-collapsed', collapsed);
+      icon.textContent = collapsed ? 'menu' : 'menu_open';
+    }
+
+    // Collapsed by default on mobile
+    setCollapsed(window.innerWidth < 768);
+
+    btn.addEventListener('click', () => {
+      setCollapsed(!document.body.classList.contains('sidebar-collapsed'));
     });
   })();
 </script>
