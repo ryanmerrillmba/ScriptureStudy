@@ -32,16 +32,20 @@ async function init() {
   renderSidebar();
   populateBookSelect();
 
-  // Parse hash: #genesis/3
+  // Parse hash: #genesis/3, or fall back to the first available book.
   const hash = window.location.hash.slice(1);
+  let initialBook = null;
+  let initialChapter = 1;
   if (hash) {
     const parts = hash.split('/');
-    const slug = parts[0];
-    const chapter = parseInt(parts[1], 10) || 1;
-    const book = books.find(b => b.slug === slug);
-    if (book) {
-      await loadChapter(book, chapter, false);
-    }
+    initialBook = books.find(b => b.slug === parts[0]) || null;
+    initialChapter = parseInt(parts[1], 10) || 1;
+  }
+  if (!initialBook) {
+    initialBook = books[0] || null;
+  }
+  if (initialBook) {
+    await loadChapter(initialBook, initialChapter, false);
   }
 }
 
